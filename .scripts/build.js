@@ -13,6 +13,7 @@ const post = (data) => {
     },
     date : $('time.entry-date').attr('datetime'),
     author : $('a[rel=author]').text(),
+    content: "CONTENT",
     categories : function(){
       let cat = []
       $('a[rel="category tag"]').each((i, elem) => {
@@ -26,9 +27,12 @@ const post = (data) => {
     },
     printObject: function(){
       return "---" + "\n" +
+        "layout: post\n" +
         "author: " + this.author + "\n" +
-        "title: " + this.title + "\n" +
-        "categories: " + this.categories() + "\n"
+        "title: \"" + this.title + "\"\n" +
+        "categories: " + this.categories() + "\n" +
+        "---\n\n" +
+        this.content
 
     }
   }
