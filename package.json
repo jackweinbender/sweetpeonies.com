@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "filepaths": "^0.2.0",
+    "to-markdown": "^3.0.1"
+  }
+}
