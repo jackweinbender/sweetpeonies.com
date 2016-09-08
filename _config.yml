@@ -34,5 +34,5 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/category/:name/'
 
-paginate: 5
+paginate: 3
 paginate_path: "/blog/page/:num"
