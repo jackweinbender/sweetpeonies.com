@@ -24,14 +24,18 @@
 
 <!-- #post-5515 -->
 <nav role="navigation" id="nav-below" class="site-navigation post-navigation">
+  {% if paginator.previous_page %}
   <div class="nav-previous">
     <a href="{{ paginator.previous_page_path }}" rel="prev">
       <span class="meta-nav">&larr;</span> Prev</a>
     </div>
-    <div class="nav-next">
-      <a href="{{ paginator.next_page_path }}" rel="next">Next <span class="meta-nav">→</span>
-    </a>
+  {% endif %}
+  {% if paginator.next_page %}
+  <div class="nav-next">
+    <a href="{{ paginator.next_page_path }}" rel="next">Next
+      <span class="meta-nav">→</span></a>
   </div>
+  {% endif %}
 </nav>
 <!-- #nav-below -->
 </div>
