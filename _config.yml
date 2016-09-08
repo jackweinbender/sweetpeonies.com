@@ -24,3 +24,12 @@ markdown: kramdown
 
 gems:
   - jekyll-archives
+
+exclude:
+  - node_modules
+  - Gemfile*
+  - package.json
+
+collections:
+  posts:
+    permalink: /blog/:year/:month/:day/:title.html

@@ -19,7 +19,7 @@ const post = (data) => {
       $('a[rel="category tag"]').each((i, elem) => {
         cat[i] = $(elem).text()
       })
-      return cat
+      return cat.map( e => {return "\n- " + e}).join('')
     },
     filename: function(){
       const d = new Date(this.date)
