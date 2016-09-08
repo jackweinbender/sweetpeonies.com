@@ -1,41 +1,61 @@
-var filepaths = require('filepaths')
-var fs = require('fs')
-let cheerio = require('cheerio')
-var toMarkdown = require('to-markdown');
+const filepaths = require('filepaths')
+const fs = require('fs')
+const cheerio = require('cheerio')
+const toMarkdown = require('to-markdown');
+
+const post = (data) => {
+  const $ = cheerio.load(data)
+  return {
+    title: $('h1.entry-title').text(),
+    slug: function(){
+      const url = $('link[rel=canonical]').attr('href').split("/")
+      return url[5]
+    },
+    date : $('time.entry-date').attr('datetime'),
+    author : $('a[rel=author]').text(),
+    categories : function(){
+      let cat = []
+      $('a[rel="category tag"]').each((i, elem) => {
+        cat[i] = $(elem).text()
+      })
+      return cat
+    },
+    filename: function(){
+      const d = new Date(this.date)
+      return [d.getFullYear(), d. getMonth() + 1, d.getDate() , this.slug()].join("-") + ".markdown"
+    },
+    printObject: function(){
+      return "---" + "\n" +
+        "author: " + this.author + "\n" +
+        "title: " + this.title + "\n" +
+        "categories: " + this.categories() + "\n"
+
+    }
+  }
+}
 
 var paths = ['2011', '2012', '2013'].map( path => { return '_content/' + path })
 
 var posts = filepaths
   .getSync(paths)
-  .map(function(file){
+  .map((file) => {
     file = file.split("/")
     return file
   })
-  .filter(function(file){
+  .filter((file) => {
     return file[5] === 'index.html'
   })
-  .map(function(file){
+  .map((file) => {
     file = file.join("/")
     return file
   })
-  .forEach(function(file){
-    var meta = {}
-    fs.readFile(file, 'utf8', (err, data) => {
-      if (err) throw err;
-      let $ = cheerio.load(data, {
-        normalizeWhitespace: true
-      })
-
-      meta.title = $('h1.entry-title').text()
-      meta.date = $('time.entry-date').attr('datetime')
-      meta.author = $('a[rel=author]').text()
-      meta.categories = []
-      $('a[rel="category tag"]').each((i, elem) => {
-        meta.categories[i] = $(elem).html()
-      })
-      meta.content = toMarkdown($('.entry-content').html());
-
-
-      console.log(meta.content)
-    });
+  .map( file => {
+    return fs.readFileSync(file, 'utf8')
   })
+  .map( data => {
+    return post(data)
+  })
+
+posts.forEach( p => {
+  fs.writeFile('_posts/' + p.filename(), p.printObject() )
+})
