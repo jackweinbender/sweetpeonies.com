@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta name="description" content="{{page.title}}"/>
-    <link rel="canonical" href="{{page.url}}" />
+    <meta name="description" content="{{ page.title }}"/>
+    <link rel="canonical" href="{{ page.url }}" />
     <link rel='stylesheet' id='style-css'  href='/static/main.css' type='text/css' media='all' />
     <title>{{site.title}} | {{ page.title }}</title>
   </head>
@@ -16,13 +16,10 @@
             <div class="menu-secondary-container">
               <ul id="menu-secondary" class="menu">
                 <li id="menu-item-4436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-4436">
-                  <a href="http://www.sweetpeonies.com/">Home</a>
+                  <a href="{{ site.baseurl }}/">Home</a>
                 </li>
                 <li id="menu-item-4437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4437">
-                  <a href="http://www.sweetpeonies.com/about/">About</a>
-                </li>
-                <li id="menu-item-4438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4438">
-                  <a href="mailto:tiffany@sweetpeonies.com">Contact</a>
+                  <a href="{{ site.baseurl }}/about/">About</a>
                 </li>
               </ul>
             </div>
@@ -31,7 +28,7 @@
             <img src="/static/images/sweetpeonies.png" />
           </div>
           <h1 class="site-title">
-            <a href="{{site.url}}" title="{{site.title}}" rel="home">{{site.title}}</a>
+            <a href="{{ site.baseurl }}/" title="{{ site.title }}" rel="home">{{site.title}}</a>
           </h1>
           <h2 class="site-description">{{site.description}}</h2>
         </hgroup>
@@ -43,19 +40,19 @@
           <div class="menu-primary-container">
             <ul id="menu-primary" class="menu">
               <li id="menu-item-179" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-179">
-                <a href="http://www.sweetpeonies.com/category/food/">Food</a>
+                <a href="{{ site.baseurl }}/category/food/">Food</a>
               </li>
               <li id="menu-item-137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-137">
-                <a href="http://www.sweetpeonies.com/category/crafts/">Crafts</a>
+                <a href="{{ site.baseurl }}/category/crafts/">Crafts</a>
               </li>
               <li id="menu-item-138" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138">
-                <a href="http://www.sweetpeonies.com/category/flowers/">Flowers</a>
+                <a href="{{ site.baseurl }}/category/flowers/">Flowers</a>
               </li>
               <li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246">
-                <a href="http://www.sweetpeonies.com/farm-photos/">Photos</a>
+                <a href="{{ site.baseurl }}/farm-photos/">Photos</a>
               </li>
               <li id="menu-item-4439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4439">
-                <a href="http://www.sweetpeonies.com/category/gift-wrap/">Gift Wrap</a>
+                <a href="{{ site.baseurl }}/category/gift-wrap/">Gift Wrap</a>
               </li>
             </ul>
           </div>
@@ -160,97 +157,97 @@
             <h1 class="widget-title">Archives</h1>
             <ul>
               <li>
-                <a href='http://www.sweetpeonies.com/2013/08/'>August 2013</a>
+                <a href='{{ site.baseurl }}/blog/2013/08/'>August 2013</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2013/07/'>July 2013</a>
+                <a href='{{ site.baseurl }}/blog/2013/07/'>July 2013</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2013/06/'>June 2013</a>
+                <a href='{{ site.baseurl }}/blog/2013/06/'>June 2013</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2013/05/'>May 2013</a>
+                <a href='{{ site.baseurl }}/blog/2013/05/'>May 2013</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2013/04/'>April 2013</a>
+                <a href='{{ site.baseurl }}/blog/2013/04/'>April 2013</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2013/03/'>March 2013</a>
+                <a href='{{ site.baseurl }}/blog/2013/03/'>March 2013</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2013/02/'>February 2013</a>
+                <a href='{{ site.baseurl }}/blog/2013/02/'>February 2013</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2013/01/'>January 2013</a>
+                <a href='{{ site.baseurl }}/blog/2013/01/'>January 2013</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/12/'>December 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/12/'>December 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/11/'>November 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/11/'>November 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/10/'>October 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/10/'>October 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/09/'>September 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/09/'>September 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/08/'>August 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/08/'>August 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/07/'>July 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/07/'>July 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/06/'>June 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/06/'>June 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/05/'>May 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/05/'>May 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/04/'>April 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/04/'>April 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/03/'>March 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/03/'>March 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/02/'>February 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/02/'>February 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2012/01/'>January 2012</a>
+                <a href='{{ site.baseurl }}/blog/2012/01/'>January 2012</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/12/'>December 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/12/'>December 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/11/'>November 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/11/'>November 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/10/'>October 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/10/'>October 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/09/'>September 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/09/'>September 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/08/'>August 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/08/'>August 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/07/'>July 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/07/'>July 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/06/'>June 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/06/'>June 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/05/'>May 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/05/'>May 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/04/'>April 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/04/'>April 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/03/'>March 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/03/'>March 2011</a>
               </li>
               <li>
-                <a href='http://www.sweetpeonies.com/2011/02/'>February 2011</a>
+                <a href='{{ site.baseurl }}/blog/2011/02/'>February 2011</a>
               </li>
             </ul>
           </aside>
