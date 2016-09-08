@@ -32,4 +32,4 @@ exclude:
 
 collections:
   posts:
-    permalink: /blog/:year/:month/:day/:title.html
+    permalink: /blog/:year/:month/:day/:title
