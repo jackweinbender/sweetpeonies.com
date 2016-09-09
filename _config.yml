@@ -8,7 +8,7 @@ url: "http://www.sweetpeonies.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-
+destination: docs
 gems:
   - jekyll-archives
   - jekyll-paginate
@@ -17,6 +17,7 @@ exclude:
   - node_modules
   - Gemfile*
   - package.json
+  - docs
 
 collections:
   posts:
