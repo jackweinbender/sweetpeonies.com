@@ -1,9 +1,7 @@
 ---
 layout: page
+title: "About Me"
 ---
-
-About Me
-========
 
 Hello, my name is Tiffany and I’m so glad you stopped by our site,
 *SweetPeonies* (formerly, *The Kitchen Curtains*). I am a West Coast
