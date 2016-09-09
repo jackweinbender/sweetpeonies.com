@@ -26,13 +26,12 @@ jekyll-archives:
   enabled:
     - year
     - month
-    - category
-  layout: 'default'
+    - categories
   permalinks:
     year: '/blog/:year/'
     month: '/blog/:year/:month/'
     tag: '/tag/:name/'
-    category: '/category/:name/'
+    categories: '/category/:name/'
 
 paginate: 3
 paginate_path: "/blog/page/:num"

@@ -167,14 +167,6 @@ h6 {
     letter-spacing: 0.025em;
     clear: both
 }
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a {
-    text-shadow: #a3a3a3 1px 1px 2px
-}
 hr {
     background-color: #ccc;
     border: 0;
@@ -549,7 +541,7 @@ a:hover {
 }
 .entry-meta {
     clear: both;
-    font-size: 0.75em
+    font-size: 0.75em;
 }
 .byline {
     display: none
@@ -748,14 +740,14 @@ object {
     width: 100%
 }
 .entry-title {
-    margin-bottom: -0.25em
+    margin-top: 0.5em;
 }
 .entry-title a {
-    color: #7d7d7d;
-    text-decoration: none
+    color: #404040;
+    text-decoration: none;
 }
 .entry-title a:visited {
-    color: #7d7d7d
+    color: black;
 }
 .entry-title a:active {
     color: #7d7d7d

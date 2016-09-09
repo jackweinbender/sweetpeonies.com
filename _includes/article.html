@@ -2,14 +2,13 @@
   <header class="entry-header">
     <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
     <div class="entry-meta">
-      <div class="social">&nbsp;</div><!-- .social -->
       Posted on {{ page.date | date_to_long_string}} by {{page.author}}
-    </div>
+    </div><hr />
     <!-- .entry-meta -->
   </header>
   <!-- .entry-header -->
   <div class="entry-content">
-    {{page.content}}
+    {{page.content | markdownify }}
   </div>
   <!-- .entry-content -->
-</article>
+</article><hr />

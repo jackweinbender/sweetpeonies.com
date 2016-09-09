@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{{ site.title }} | {{ site.description }}</title>
+    <!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.25 - http://yoast.com/wordpress/seo/ -->
+    <link rel="canonical" href="{{ site.url }}" />
+    <link rel='stylesheet' id='style-css'  href='/static/main.css' type='text/css' media='all' />
+  </head>
+  <body class="home blog">
+    <div id="page" class="hfeed site">
+
+      {% include mast_head.html %}
+
+      <div id="main">
+        <div id="primary" class="site-content">
+          <div id="content" role="main">
+          <h1 class="">»
+          {% if page.title %}{{page.title}}{% else %}{{page.date | date: '%B %Y'}}{% endif %}
+            «</h1><hr />
+          {% for page in page.posts %}
+            {% include article.html %}
+          {% endfor %}
+
+<!-- #post-5515 -->
+<nav role="navigation" id="nav-below" class="site-navigation post-navigation">
+  {% if paginator.previous_page %}
+  <div class="nav-previous">
+    <a href="{{ paginator.previous_page_path }}" rel="prev">
+      <span class="meta-nav">&larr;</span> Prev</a>
+    </div>
+  {% endif %}
+  {% if paginator.next_page %}
+  <div class="nav-next">
+    <a href="{{ paginator.next_page_path }}" rel="next">Next
+      <span class="meta-nav">→</span></a>
+  </div>
+  {% endif %}
+</nav>
+<!-- #nav-below -->
+</div>
+<!-- #content -->
+</div>
+<!-- #primary .site-content -->
+
+  {% include secondary.html %}
+
+<!-- #secondary .widget-area -->
+</div>
+<!-- #main -->
+<footer id="colophon" class="site-footer" role="contentinfo">
+  <div class="site-info">
+  </div>
+  <!-- .site-info -->
+</footer>
+<!-- .site-footer .site-footer -->
+</div>
+<!-- #page .hfeed .site -->
+</body>
+</html>
