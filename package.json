@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "node .scripts/build.js",
+    "build": "bundle exec jekyll build",
+    "posts": "node .scripts/build_posts.js",
     "clean": "rm -rf _posts/*"
   },
   "devDependencies": {
