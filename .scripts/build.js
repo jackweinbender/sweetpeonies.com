@@ -23,15 +23,22 @@ const post = (data) => {
       })
       return cat.map( e => {return "\n- " + e}).join('')
     },
-    filename: function(){
+    fullDate: function(){
       const d = new Date(this.date)
-      return [d.getFullYear(), d. getMonth() + 1, d.getDate() , this.slug()].join("-") + ".markdown"
+      const year = d.getFullYear()
+      const month = d.getMonth() + 1
+      const day = d.getDate()
+      return [year, doubleDigit(month), doubleDigit(day)].join("-")
+    },
+    filename: function(){
+      return this.fullDate() + "-" + this.slug() + ".markdown"
     },
     printObject: function(){
       return "---" + "\n" +
         "layout: post\n" +
         "author: " + this.author + "\n" +
         "title: \"" + this.title + "\"\n" +
+        "assets: /assets/images" + this.fullDate() + this.slug() + "\n" +
         "categories: " + this.categories() + "\n" +
         "---\n\n" +
         this.content()
@@ -65,3 +72,12 @@ var posts = filepaths
 posts.forEach( p => {
   fs.writeFile('_posts/' + p.filename(), p.printObject() )
 })
+
+
+function doubleDigit( num ){
+  if (num <= 9){
+    return "0" + num
+  } else {
+    return num + ""
+  }
+}
