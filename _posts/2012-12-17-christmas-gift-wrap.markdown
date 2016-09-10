@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Christmas Gift Wrap"
+assets: /assets/images2012-12-17christmas-gift-wrap
 categories: 
 - Crafts
 - Gift Wrap

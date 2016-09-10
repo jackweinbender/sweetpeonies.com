@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Table Setting: Mercury Glass + Blue + Yellow"
+assets: /assets/images2012-11-23table-setting-mercury-glass-blue-yellow
 categories: 
 - Cooking
 - Food

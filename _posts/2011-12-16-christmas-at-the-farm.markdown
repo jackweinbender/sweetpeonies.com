@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Christmas at the Farm"
+assets: /assets/images2011-12-16christmas-at-the-farm
 categories: 
 - Events
 - flowers

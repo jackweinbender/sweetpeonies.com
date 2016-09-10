@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Caden Beggan"
+assets: /assets/images2012-11-21caden-beggan
 categories: 
 - Articles
 ---

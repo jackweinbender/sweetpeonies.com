@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Photography + Love"
+assets: /assets/images2011-10-20photography-love
 categories: 
 - art
 - photographs

@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Brussel Sprouts & Toasted Pecans"
+assets: /assets/images2012-12-29brussel-sprouts-toasted-pecans
 categories: 
 - Cooking
 - Food

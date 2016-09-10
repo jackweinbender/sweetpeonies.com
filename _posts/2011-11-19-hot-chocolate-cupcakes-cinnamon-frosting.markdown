@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Hot Chocolate Cupcakes + Cinnamon Frosting"
+assets: /assets/images2011-11-19hot-chocolate-cupcakes-cinnamon-frosting
 categories: 
 - Baking
 - cake

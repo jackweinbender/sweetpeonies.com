@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Spiced Orange Chai Concentrate"
+assets: /assets/images2011-12-22spiced-orange-chai-concentrate
 categories: 
 - Events
 - Food

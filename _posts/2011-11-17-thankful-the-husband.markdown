@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Thankful: The Husband"
+assets: /assets/images2011-11-17thankful-the-husband
 categories: 
 - Articles
 ---

@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Fall Break + Woolly Worms"
+assets: /assets/images2011-10-222494
 categories: 
 - Uncategorized
 ---

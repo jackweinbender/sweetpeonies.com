@@ -1,0 +1,15 @@
+---
+layout: post
+author: tiffany
+title: "Easter Bells"
+assets: /assets/images2013-03-30easter
+categories: 
+- flowers
+---
+
+_I think of the garden after the rain; And hope to my heart comes singing,  
+At morn the cherry-blooms will be white, And the Easter bells be ringing!_ ~Edna Dean Proctor, “Easter Bells”
+
+[![Easter Flowers](jekyll_uploads/2013/03/Easterflowers.jpg)](http://www.sweetpeonies.com/2013/03/easter/easterflowers/)
+
+Happy Easter!

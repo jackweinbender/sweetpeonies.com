@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "It’s Beginning to Look a Lot Like Christmas"
+assets: /assets/images2012-12-23its-beginning-to-look-a-lot-like-christmas
 categories: 
 - Christmas Party
 - Crafts

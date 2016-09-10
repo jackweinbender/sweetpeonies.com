@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Orange Fall Wreath"
+assets: /assets/images2011-10-11orange-fall-wreath
 categories: 
 - Crafts
 ---

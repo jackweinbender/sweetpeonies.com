@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Freezer Meal Schedule & Planning: Month #2"
+assets: /assets/images2012-10-20freezer-meal-schedule-and-planning-2
 categories: 
 - Cooking
 - Food

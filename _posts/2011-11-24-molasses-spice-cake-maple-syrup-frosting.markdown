@@ -2,6 +2,7 @@
 layout: post
 author: tiffany
 title: "Lemon Molasses Spice Cake + Maple Syrup Frosting"
+assets: /assets/images2011-11-24molasses-spice-cake-maple-syrup-frosting
 categories: 
 - Baking
 - cake
