@@ -2,11 +2,16 @@
 layout: post
 author: tiffany
 title: "How to Build a Planter Box"
-assets: /assets/images2012-03-17how-to-build-a-planter-box
+assets: /assets/images/2012-03-17-how-to-build-a-planter-box/
 categories: 
 - Crafts
-- in the garden
-- planter box
+- In The Garden
+- Planter Box
+tags: 
+- How To
+- Planter Box
+- Spring
+- Container Garden
 ---
 
 Spring is in the air here in East Tennessee and our household is gearing up for another attempt at container gardening. Although we love our little apartment, one very unfortunate downside is the inability to put our budding green thumbs to work. Since Jack and I very much enjoy the labors of tending a garden, we had to figure out a way to make due without a plot of land.

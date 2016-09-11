@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Baby Shoes"
-assets: /assets/images2011-03-06baby-shoes
+assets: /assets/images/2011-03-06-baby-shoes/
 categories: 
-- baby
+- Baby
 - Crafts
+- Sewing
+tags: 
+- Baby Shoes
+- Diy
+- How To
 - Sewing
 ---
 

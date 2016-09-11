@@ -2,10 +2,11 @@
 layout: post
 author: tiffany
 title: "A Few of My Favorite Things"
-assets: /assets/images2011-05-25a-few-of-my-favorite-things
+assets: /assets/images/2011-05-25-a-few-of-my-favorite-things/
 categories: 
 - Food
 - Uncategorized
+tags: 
 ---
 
 Jack and I celebrated three years of marriage on Tuesday. Woohoo! Here’s a little tidbit about year three of marriage…apparently, leather is the gift of choice for three years of marriage because it is at this point the couple realizes the durability of their relationship. I don’t know if that is true or not, but I like the sound of it. I can hear you married veterans chuckling right now, “oh newlyweds.”

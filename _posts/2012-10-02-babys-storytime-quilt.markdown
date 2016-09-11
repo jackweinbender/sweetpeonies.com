@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "Baby’s StoryTime Quilt"
-assets: /assets/images2012-10-02babys-storytime-quilt
+assets: /assets/images/2012-10-02-babys-storytime-quilt/
 categories: 
-- baby
+- Baby
 - Crafts
 - Home
+tags: 
+- Baby
+- How To
+- Quilt
 ---
 
 A couple weekends ago I attended a baby shower for the most stylish mom-to-be I have ever known. Seriously, she’s so classy I wish I was her. Anyways, the invitation I received asked if I would contribute a children’s book for story time, I decided to continue the story time theme and also make her baby girl this pretty quilt to snuggle into while mom reads her favorite tales.

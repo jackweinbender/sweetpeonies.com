@@ -2,9 +2,13 @@
 layout: post
 author: tiffany
 title: "Sycamore Shoals: Nature Photography"
-assets: /assets/images2012-03-20sycamore-shoals-nature-photography
+assets: /assets/images/2012-03-20-sycamore-shoals-nature-photography/
 categories: 
-- photographs
+- Photographs
+tags: 
+- Photographs
+- Sycamore Shoals
+- Nature
 ---
 
 [![](jekyll_uploads/2012/03/Sycamore-Shoals-4-575x382.jpg "SycamoreShoals- (4)")](http://www.sweetpeonies.com/2012/03/sycamore-shoals-nature-photography/sycamore-shoals-4/)

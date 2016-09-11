@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Guest Post: Cookbook Reviews"
-assets: /assets/images2011-08-03guest-post-cookbook-reviews
+assets: /assets/images/2011-08-03-guest-post-cookbook-reviews/
 categories: 
 - Cooking
 - Food
+tags: 
+- Cookbook Review
+- Cooking
+- Baking
 ---
 
 _This week I am welcoming back the talented Mary Jackson who recently updated you on [Google Recipes.](http://www.sweetpeonies.com/2011/06/google-recipes/) Today she is sharing a little bit about herself as well as a few reviews from cookbooks she has used throughout the years. I went ahead and included one of my own photos for you as well. Hope you enjoy!_

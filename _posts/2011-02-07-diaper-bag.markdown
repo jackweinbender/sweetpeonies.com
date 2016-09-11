@@ -2,9 +2,15 @@
 layout: post
 author: tiffany
 title: "Diaper Bag"
-assets: /assets/images2011-02-07diaper-bag
+assets: /assets/images/2011-02-07-diaper-bag/
 categories: 
-- baby
+- Baby
+- Sewing
+tags: 
+- Diaper Bag
+- Diy
+- How To
+- Pattern
 - Sewing
 ---
 

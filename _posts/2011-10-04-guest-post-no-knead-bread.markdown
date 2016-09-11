@@ -2,10 +2,14 @@
 layout: post
 author: MeredithS
 title: "Guest Post: No-knead bread"
-assets: /assets/images2011-10-04guest-post-no-knead-bread
+assets: /assets/images/2011-10-04-guest-post-no-knead-bread/
 categories: 
 - Baking
 - Guest Post
+tags: 
+- Bread
+- Loaf
+- No-knead
 ---
 
 _I have one more test before Fall break so I apologize, once again, for the “few and far between” posts. However, today you are in luck… Meredith has written another guest post for you all! Today she is sharing a fabulous recipe for no-knead bread.  

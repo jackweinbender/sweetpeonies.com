@@ -2,9 +2,14 @@
 layout: post
 author: tiffany
 title: "Jungle Gift Wrap"
-assets: /assets/images2012-06-27jungle-gift-wrap
+assets: /assets/images/2012-06-27-jungle-gift-wrap/
 categories: 
 - Gift Wrap
+tags: 
+- Gift Wrap
+- Giraffe
+- Jungle
+- Safari
 ---
 
 Jungle-themed baby showers seem to be very in vogue this year. Why not make your shower gift stand out by matching the wrap to the jungle theme?

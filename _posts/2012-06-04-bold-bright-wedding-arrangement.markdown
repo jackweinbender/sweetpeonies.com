@@ -2,11 +2,21 @@
 layout: post
 author: tiffany
 title: "Bold & Bright Wedding Arrangement"
-assets: /assets/images2012-06-04bold-bright-wedding-arrangement
+assets: /assets/images/2012-06-04-bold-bright-wedding-arrangement/
 categories: 
-- flowers
-- in the garden
-- the farm
+- Flowers
+- In The Garden
+- The Farm
+tags: 
+- Delphinium
+- Flowers
+- Hosta Leaves
+- How To
+- Magenta
+- Peonies
+- Snapdragons
+- Sunflowers
+- Wedding
 ---
 
 Hello friends, Jack and I just got back from a mini-vacation to see the family–at least some of them. So, to make up for missing Floral Friday, here is a little post on a beautiful and bold wedding arrangement made for a bright wedding two weeks ago.

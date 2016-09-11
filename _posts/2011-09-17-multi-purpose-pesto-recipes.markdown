@@ -2,9 +2,15 @@
 layout: post
 author: tiffany
 title: "Multi-purpose pesto recipes"
-assets: /assets/images2011-09-17multi-purpose-pesto-recipes
+assets: /assets/images/2011-09-17-multi-purpose-pesto-recipes/
 categories: 
 - Food
+tags: 
+- Butter
+- Dip
+- Hand Chopped
+- Pesto
+- Vinegar
 ---
 
 There are so many ways to use those last few batches of basil in your summer garden. Here are a few we’ve enjoyed throughout the summer. Remember you can also hang basil to dry and then crush it up to use for seasoning all winter long, or you can pulse it in your food processor and make pesto ice cubes ready to be melted into pasta dishes, dips or spreads.

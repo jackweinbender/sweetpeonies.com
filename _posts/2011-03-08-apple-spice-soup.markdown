@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Apple Spice Soup"
-assets: /assets/images2011-03-08apple-spice-soup
+assets: /assets/images/2011-03-08-apple-spice-soup/
 categories: 
 - Cooking
 - Food
+tags: 
+- Apple
+- Recipe
+- Soup
+- Spicy
 ---
 
 My friend Kelly is getting married in a few months and asked me to sew her table runners for the reception. She brought over a sampling of fabric to work with on Tuesday and since I don’t need much of an excuse to make a big pot of soup, I went ahead and experimented with a new combination of veggies for the evening.

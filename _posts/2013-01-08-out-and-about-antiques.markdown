@@ -2,10 +2,12 @@
 layout: post
 author: tiffany
 title: "Out & About: Antiques"
-assets: /assets/images2013-01-08out-and-about-antiques
+assets: /assets/images/2013-01-08-out-and-about-antiques/
 categories: 
-- art
+- Art
 - Home
+tags: 
+- Out 'n About
 ---
 
 [![antiques](jekyll_uploads/2013/01/antiques1-575x359.jpg "antiques")](http://www.sweetpeonies.com/2013/01/out-n-about-antiques/antiques1/)

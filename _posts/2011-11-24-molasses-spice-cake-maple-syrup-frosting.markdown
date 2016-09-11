@@ -2,11 +2,16 @@
 layout: post
 author: tiffany
 title: "Lemon Molasses Spice Cake + Maple Syrup Frosting"
-assets: /assets/images2011-11-24molasses-spice-cake-maple-syrup-frosting
+assets: /assets/images/2011-11-24-molasses-spice-cake-maple-syrup-frosting/
 categories: 
 - Baking
-- cake
+- Cake
 - Food
+tags: 
+- Frosting
+- Maple Syrup
+- Molasses
+- Spice Cake
 ---
 
 Happy Thanksgiving everyone! I hope right about now your tummies are full and you are enjoying friends and family. For our Thanksgiving, Linda invited us out to the farm to celebrate with her family. I was asked to contribute a dessert–one dessert…too many options.

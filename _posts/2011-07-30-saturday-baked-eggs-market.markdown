@@ -2,9 +2,13 @@
 layout: post
 author: tiffany
 title: "Saturday + Baked Eggs + Market"
-assets: /assets/images2011-07-30saturday-baked-eggs-market
+assets: /assets/images/2011-07-30-saturday-baked-eggs-market/
 categories: 
 - Food
+tags: 
+- Baked Eggs
+- Breakfast
+- Quiche
 ---
 
 This morning was a beautiful Saturday morning. It was one of those mornings that make all that waiting and wishing for the weekend to arrive, completely worthwhile. After setting my alarm for 8 a.m., in an effort not to sleep the day away, I woke up to enjoy a hot cup of java.

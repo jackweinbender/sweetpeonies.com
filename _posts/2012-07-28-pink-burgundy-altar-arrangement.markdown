@@ -2,12 +2,20 @@
 layout: post
 author: tiffany
 title: "Pink & Burgundy Altar Arrangement"
-assets: /assets/images2012-07-28pink-burgundy-altar-arrangement
+assets: /assets/images/2012-07-28-pink-burgundy-altar-arrangement/
 categories: 
-- flowers
+- Flowers
 - Home
-- in the garden
-- the farm
+- In The Garden
+- The Farm
+tags: 
+- Altart
+- Burgundy
+- Diy
+- Flowers
+- Pink
+- Pitcher
+- Wedding Arrangement
 ---
 
 I feel like I say this every week but yesterday’s farm flowers were _gorgeous_! Seriously. Kristin took eight buckets of flowers to a wedding in Virginia. You would think with eight buckets gone we wouldn’t have many left to work with but that was not the case. Instead, we (Linda and I) made a record amount of market bouquets–a grand total of 50 (trust me, that’s a lot).

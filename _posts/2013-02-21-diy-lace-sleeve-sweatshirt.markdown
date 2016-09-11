@@ -2,11 +2,16 @@
 layout: post
 author: KiraN
 title: "Guest Post: DIY Lace Sleeve Sweatshirt"
-assets: /assets/images2013-02-21diy-lace-sleeve-sweatshirt
+assets: /assets/images/2013-02-21-diy-lace-sleeve-sweatshirt/
 categories: 
 - Blogs
 - Crafts
 - Guest Post
+tags: 
+- Diy
+- Guest
+- Lace
+- Sweatshirt
 ---
 
 _Hello Friends! Jack and I are working hard to wrap up this last semester of school which, unfortunately, means very little time to share fun projects with you. Luckily, I have a wonderfully talented and creative friend (Kira) who was willing to help me out with posting. Kira and her husband are both incredibly talented photographers based in Oregon. Head over to her [website](http://www.kiraandmatt.com) for a peek at her work. Today Kira is sharing a super easy and fun lace sweatshirt DIY. Enjoy!_

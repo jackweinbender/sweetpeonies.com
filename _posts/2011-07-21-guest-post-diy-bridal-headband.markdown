@@ -2,10 +2,15 @@
 layout: post
 author: KiraN
 title: "Guest Post: DIY Bridal Headband"
-assets: /assets/images2011-07-21guest-post-diy-bridal-headband
+assets: /assets/images/2011-07-21-guest-post-diy-bridal-headband/
 categories: 
 - Crafts
 - Guest Post
+tags: 
+- DIY
+- Headband
+- Guest Post
+- Wedding
 ---
 
 _I am very excited to announce that The Kitchen Curtains will now be featuring guest posts! In the past few weeks, I have recruited, if not begged, a few talented individuals to share their crafting, cooking, baking, blogging, and photography skills with you, the reader. I am very excited about these articles and so incredibly grateful to these individuals for taking time out of their busy schedules to contribute to my blog. I am always looking for creative ideas, so please feel free to email me with your own guest post submission ideas, pictures, or articles._

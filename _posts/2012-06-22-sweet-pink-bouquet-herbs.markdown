@@ -2,11 +2,23 @@
 layout: post
 author: tiffany
 title: "Sweet Pink Bouquet + Herbs"
-assets: /assets/images2012-06-22sweet-pink-bouquet-herbs
+assets: /assets/images/2012-06-22-sweet-pink-bouquet-herbs/
 categories: 
-- flowers
-- in the garden
-- the farm
+- Flowers
+- In The Garden
+- The Farm
+tags: 
+- Bridesmaid Bouquet
+- Coral
+- Dianthus
+- Flowers
+- Goose Neck
+- Mountain Mint
+- Pink Flowers
+- Purple
+- Sweet
+- Sweet Peas
+- Wedding
 ---
 
 For this week’s Friday at the Farm, we had our first bridal luncheon of the summer. In fact, the only bridal luncheon on the books this year. For those of you who are unfamiliar with this event, Linda gives our brides the option of having a bridal luncheon the day before their wedding. This luncheon allows the bride and bridesmaids to relax on the farm for a couple of hours and basically play with flowers. Sounds nice, right?!

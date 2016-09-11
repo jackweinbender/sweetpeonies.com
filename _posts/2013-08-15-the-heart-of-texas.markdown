@@ -2,8 +2,10 @@
 layout: post
 author: tiffany
 title: "The Heart of Texas"
-assets: /assets/images2013-08-15the-heart-of-texas
+assets: /assets/images/2013-08-15-the-heart-of-texas/
 categories: 
+- Austin
+tags: 
 - Austin
 ---
 

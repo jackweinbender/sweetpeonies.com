@@ -2,11 +2,16 @@
 layout: post
 author: tiffany
 title: "DIY Planter Box"
-assets: /assets/images2011-03-19diy-planter-box
+assets: /assets/images/2011-03-19-diy-planter-box/
 categories: 
-- flowers
-- in the garden
-- planter box
+- Flowers
+- In The Garden
+- Planter Box
+tags: 
+- Diy
+- Gardening
+- How To
+- Planter Box
 ---
 
 While Jack and I absolutely love our little Tennessee home, living in an apartment has certain disadvantages. Aside from the constant din of teenage neighbor girls bickering over a borrowed sweater, we have no land to garden!

@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Sequin Shirt"
-assets: /assets/images2011-04-12sequin-shirt
+assets: /assets/images/2011-04-12-sequin-shirt/
 categories: 
 - Crafts
 - Sewing
+tags: 
+- How To
+- Sequin
+- Shirt
 ---
 
 “So, I saw these shoes…”

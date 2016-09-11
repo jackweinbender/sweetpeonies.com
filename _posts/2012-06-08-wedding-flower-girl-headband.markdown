@@ -2,11 +2,17 @@
 layout: post
 author: tiffany
 title: "Wedding + Flower Girl Headband"
-assets: /assets/images2012-06-08wedding-flower-girl-headband
+assets: /assets/images/2012-06-08-wedding-flower-girl-headband/
 categories: 
-- flowers
-- in the garden
-- the farm
+- Flowers
+- In The Garden
+- The Farm
+tags: 
+- Flower Girl
+- Flower Headband
+- Flowers
+- Head Dress
+- Wedding
 ---
 
 This past week, the flower farm crew learned to stretch our imaginations a little bit farther than usual. This was the first time we were asked to arrange two weddings on the same day, and to make it a bit more interesting…two vastly different color palettes and settings.

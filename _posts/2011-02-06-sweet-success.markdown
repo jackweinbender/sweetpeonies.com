@@ -2,10 +2,11 @@
 layout: post
 author: tiffany
 title: "Sweet Success"
-assets: /assets/images2011-02-06sweet-success
+assets: /assets/images/2011-02-06-sweet-success/
 categories: 
 - Articles
 - Food
+tags: 
 ---
 
 _I thought I would start off my blog with an article I wrote for Milligan College on a recent graduate, Autumn Pruitt, opening her own bakery. Check out her website (www.blissbakery.com) to see some mouthwatering treats!_

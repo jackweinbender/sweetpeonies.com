@@ -2,8 +2,10 @@
 layout: post
 author: tiffany
 title: "Pin Away with Me: Week #2"
-assets: /assets/images2012-02-18pin-away-with-me
+assets: /assets/images/2012-02-18-pin-away-with-me/
 categories: 
+- Pinterest
+tags: 
 - Pinterest
 ---
 

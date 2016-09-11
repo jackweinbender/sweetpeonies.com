@@ -2,9 +2,12 @@
 layout: post
 author: tiffany
 title: "Love actually is all around"
-assets: /assets/images2011-12-07love-actually-is-all-around
+assets: /assets/images/2011-12-07-love-actually-is-all-around/
 categories: 
-- photographs
+- Photographs
+tags: 
+- Christmas Lights
+- Photo
 ---
 
 A few photos from our adventures in Christmas tree decorating…  

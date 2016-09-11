@@ -2,11 +2,17 @@
 layout: post
 author: tiffany
 title: "Knitted Blanket for Avynlea"
-assets: /assets/images2011-02-24knitted-blanket-for-avynlea
+assets: /assets/images/2011-02-24-knitted-blanket-for-avynlea/
 categories: 
-- baby
+- Baby
 - Crafts
-- knitting
+- Knitting
+tags: 
+- Baby Blanket
+- Diy
+- How To
+- Knit Blanket
+- Knitting
 ---
 
 [![](jekyll_uploads/2011/02/IMG_0077-325x433.jpg "IMG_0077")](http://www.sweetpeonies.com/2011/02/knitted-blanket-for-avynlea/img_0077/)

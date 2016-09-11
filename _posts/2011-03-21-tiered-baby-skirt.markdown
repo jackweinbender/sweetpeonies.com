@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Tiered Baby Skirt"
-assets: /assets/images2011-03-21tiered-baby-skirt
+assets: /assets/images/2011-03-21-tiered-baby-skirt/
 categories: 
-- baby
+- Baby
 - Sewing
+tags: 
+- Baby Clothes
+- Diy
+- How To
+- Sewing
+- Skirt
 ---
 
 As if baby clothes weren’t cute enough, last night I attempted to spruce up my [original baby skirt pattern](http://thekitchencurtain.blogspot.com/2011/03/baby-skirt.html) with a few simple additions and I love how it turned out! I mean, basically everything is cuter small, but adding little ruffles…who can resist?!

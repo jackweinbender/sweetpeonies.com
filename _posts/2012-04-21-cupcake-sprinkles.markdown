@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Cupcake Sprinkles"
-assets: /assets/images2012-04-21cupcake-sprinkles
+assets: /assets/images/2012-04-21-cupcake-sprinkles/
 categories: 
 - Baking
-- cupcakes
+- Cupcakes
+- Food
+tags: 
+- Baking
+- Cupcakes
+- Sprinkles
 - Food
 ---
 

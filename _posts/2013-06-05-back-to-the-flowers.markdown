@@ -2,12 +2,13 @@
 layout: post
 author: tiffany
 title: "Back to the Flowers"
-assets: /assets/images2013-06-05back-to-the-flowers
+assets: /assets/images/2013-06-05-back-to-the-flowers/
 categories: 
-- art
-- flowers
-- in the garden
-- photographs
+- Art
+- Flowers
+- In The Garden
+- Photographs
+tags: 
 ---
 
 [![Flower Farm](jekyll_uploads/2013/05/Me-575x805.jpg)](http://www.sweetpeonies.com/2013/06/back-to-the-flowers/me-2/)

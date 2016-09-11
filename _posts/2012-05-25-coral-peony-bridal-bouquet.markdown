@@ -2,11 +2,18 @@
 layout: post
 author: tiffany
 title: "Coral Peony Bridal Bouquet"
-assets: /assets/images2012-05-25coral-peony-bridal-bouquet
+assets: /assets/images/2012-05-25-coral-peony-bridal-bouquet/
 categories: 
-- flowers
-- in the garden
-- the farm
+- Flowers
+- In The Garden
+- The Farm
+tags: 
+- Antique
+- Bouquet
+- Bridal
+- How To
+- Peony
+- Wedding
 ---
 
 A few weeks ago I had the privilege of helping Linda with flower arrangements for a vintage wedding. If you haven’t figured it out before, it seems the go-to flower for vintage is the beautiful peony. And really, who would argue with that choice? The peony is absolutely exquisite in all colors but this coral color is by far my favorite. I could look at it for hours. Really? Not even kidding.

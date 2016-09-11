@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Spring on the Farm"
-assets: /assets/images2011-03-08spring-on-the-farm
+assets: /assets/images/2011-03-08-spring-on-the-farm/
 categories: 
-- flowers
-- in the garden
+- Flowers
+- In The Garden
+tags: 
+- Farm Life
+- Flowers
+- Photography
+- Spring Flowers
 ---
 
 [![](jekyll_uploads/2011/03/On-the-Farm-021-325x433.jpg "On the Farm 021")](http://www.sweetpeonies.com/2011/03/spring-on-the-farm/on-the-farm-021-2/)

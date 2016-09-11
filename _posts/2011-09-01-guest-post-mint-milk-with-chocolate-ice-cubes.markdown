@@ -2,11 +2,15 @@
 layout: post
 author: MeredithS
 title: "Guest Post: Mint milk with chocolate ice cubes"
-assets: /assets/images2011-09-01guest-post-mint-milk-with-chocolate-ice-cubes
+assets: /assets/images/2011-09-01-guest-post-mint-milk-with-chocolate-ice-cubes/
 categories: 
 - Baking
 - Cooking
 - Food
+tags: 
+- Mint Milk
+- Chocolate Ice Cubes
+- How To
 ---
 
 _Our guest post this week comes from Meredith of [Garden in the South](http://blog.maeburn.org). Meredith is a talented cook, wife, and mother of two adorable children. She is our College Archivist and Information Resources Librarian. Jack and Meredith work together at the library and I’m so grateful they do because I have had the pleasure of getting to know her these past 2 years and she is fabulous! She cans, cooks, bakes amazing baklava and so much more. Please be sure to head over to her blog and show her a bit of love today._

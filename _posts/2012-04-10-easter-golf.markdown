@@ -2,10 +2,13 @@
 layout: post
 author: tiffany
 title: "Easter + Golf"
-assets: /assets/images2012-04-10easter-golf
+assets: /assets/images/2012-04-10-easter-golf/
 categories: 
 - Articles
-- photographs
+- Photographs
+tags: 
+- Golf Trip
+- North Carolina
 ---
 
 A few pictures from dad’s annual golf trip with his brother and brother-in-law.

@@ -2,8 +2,10 @@
 layout: post
 author: tiffany
 title: "Blog Love: Oh Happy Day!"
-assets: /assets/images2011-11-11blog-love-oh-happy-day
+assets: /assets/images/2011-11-11-blog-love-oh-happy-day/
 categories: 
+- Blogs
+tags: 
 - Blogs
 ---
 

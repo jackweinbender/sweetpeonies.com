@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "Crockpot Chili Recipe"
-assets: /assets/images2012-01-13crockpot-chili-recipe
+assets: /assets/images/2012-01-13-crockpot-chili-recipe/
 categories: 
 - Cooking
-- crock pot
+- Crock Pot
 - Food
+tags: 
+- Chili
+- Cocoa
+- Crock Pot
 ---
 
 [![](jekyll_uploads/2012/01/2011-Snow-2-325x199.jpg "Snow")](http://www.sweetpeonies.com/2012/01/crockpot-chili-recipe/2011-snow-2/)Woke up this morning, my third day back in class, to a wonderful text message alerting me of our snow delay! Looking outside it was hard to not mock our little corner of Tennessee for their never-fail overreactions to winter weather (less than 1 in. this morning). However, I got to go back to sleep for 45 minutes before my long day, so no complaining here. I’ve been hanging onto this chili recipe, waiting for that perfectly brisk and chilling day to share it with you. I think you’ll agree after seeing this picture that today’s the day!

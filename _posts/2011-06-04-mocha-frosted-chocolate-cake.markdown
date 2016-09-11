@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Mocha Frosted Chocolate Cake"
-assets: /assets/images2011-06-04mocha-frosted-chocolate-cake
+assets: /assets/images/2011-06-04-mocha-frosted-chocolate-cake/
 categories: 
 - Baking
 - Food
+tags: 
+- Chocolate Cake
+- How To
+- Mocha Frosting
+- Recipe
 ---
 
 On Memorial Day, we had a few of our close friends over for a little BBQ. The evening was enjoyable, filled with food, cornhole and a backstabbing game of phase10 twist. However, the evening was also a bit solemn as we said goodbye to two of our closest friends, Adam and Leslie Bean. A fabulous couple whom we feel privileged to have known these past 6 years. Adam was recently accepted to Johns Hopkins University so they will be moving to Baltimore after spending the summer at an archeological dig in Jordan.

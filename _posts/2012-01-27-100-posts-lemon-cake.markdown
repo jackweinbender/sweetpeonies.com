@@ -2,11 +2,14 @@
 layout: post
 author: tiffany
 title: "100 Posts + Lemon Cake"
-assets: /assets/images2012-01-27100-posts-lemon-cake
+assets: /assets/images/2012-01-27-100-posts-lemon-cake/
 categories: 
 - Articles
 - Baking
 - Food
+tags: 
+- Lemon Cake
+- Baking
 ---
 
 [![](jekyll_uploads/2012/01/dsc_0055-325x488.jpg "DSC_0055")](http://www.sweetpeonies.com/2012/01/100-posts-lemon-cake/dsc_0055/)Today we are celebrating our 100th post! What better way to celebrate this milestone than with a moist lemon cake and meringue-ish frosting? Hooray!

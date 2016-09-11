@@ -2,12 +2,18 @@
 layout: post
 author: tiffany
 title: "Grilled Eggplant, Tomato & Aioli Sandwiches"
-assets: /assets/images2012-08-16grilled-eggplant-tomato-aioli-sandwiches
+assets: /assets/images/2012-08-16-grilled-eggplant-tomato-aioli-sandwiches/
 categories: 
 - Cooking
 - Food
 - Home
-- vegetables
+- Vegetables
+tags: 
+- Dinner
+- Eggplant
+- Onions
+- Sandwich
+- Tomato
 ---
 
 In preparation for the coming school year our kitchen has once more turned to [freezer-meal central](http://www.sweetpeonies.com/2012/09/lower-your-grocery-bill-monthly-meals-part-2/). I recently read a book on cutting your grocery bill in half and while I began the read thinking it would be quite useless, I can proudly say, it works! I’m very excited to share some tips with you throughout the coming months. For now, let me just emphasize the importance of going to the grocery store once monthly and taking one day each month to cook up a couple staple meals that will keep in the freezer. Last year we realized just how valuable freezer meals can be with a schedule like ours.

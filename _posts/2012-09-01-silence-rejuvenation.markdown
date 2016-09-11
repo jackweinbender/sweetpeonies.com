@@ -2,12 +2,15 @@
 layout: post
 author: tiffany
 title: "Silence + Rejuvenation"
-assets: /assets/images2012-09-01silence-rejuvenation
+assets: /assets/images/2012-09-01-silence-rejuvenation/
 categories: 
 - Articles
-- flowers
-- the farm
-- wedding
+- Flowers
+- The Farm
+- Wedding
+tags: 
+- Bridal Bouquet
+- Peach
 ---
 
 The past two weeks have absolutely flown by. As you know, I am back in classes for what should be my last year. It has taken me seven years to get to this point so you can imagine my excitement as well as my exhaustion. While most of my fellow nursing peers are just now beginning to experience their “senior-itis,” my senior-itis has been ongoing for the past three years. All that to say, despite the chaos of the last two weeks–school, new job, studying–I have made an effort to set aside little portions of each day to simply sit back and enjoy a moment of quiet solitude. Whether it’s 5 minutes or 15, I feel like these little moments go a long way to helping the rest of my day seem more manageable.

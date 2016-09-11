@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Caribbean Shrimp Cups"
-assets: /assets/images2011-03-16caribbean-shrimp-cups
+assets: /assets/images/2011-03-16-caribbean-shrimp-cups/
 categories: 
 - Cooking
 - Food
+tags: 
+- Caribbean
+- Elegant
+- Recipe
+- Shrimp
 ---
 
 I was so excited to share this post today. I have been wanting to cook this meal for two weeks now and finally made myself take a break from homework to try it out.  

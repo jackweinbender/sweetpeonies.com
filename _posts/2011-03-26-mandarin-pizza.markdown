@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Mandarin Pizza"
-assets: /assets/images2011-03-26mandarin-pizza
+assets: /assets/images/2011-03-26-mandarin-pizza/
 categories: 
 - Cooking
 - Food
+tags: 
+- Fruit Pizza
+- Mandarin
+- Pizza
+- Recipe
 ---
 
 Jack and I have a slight bias toward our little pizza joint back home, Ugo’s Pizza. Since moving to Tennessee, we have tried our best to find a comparable pizza joint but have had zero luck. Because of this, we now make our own pizzas, with each one becoming increasingly more creative.

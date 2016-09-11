@@ -2,11 +2,17 @@
 layout: post
 author: tiffany
 title: "Baby Skirt"
-assets: /assets/images2011-03-07baby-skirt
+assets: /assets/images/2011-03-07-baby-skirt/
 categories: 
-- baby
+- Baby
 - Crafts
 - Sewing
+tags: 
+- Baby Clothes
+- Diy
+- How To
+- Sewing
+- Skirt
 ---
 
 Seeing as it is my spring break, I have decided to celebrate this week by working on all the fun little projects I have been dying to try for my new niece. Today’s project, skirts!

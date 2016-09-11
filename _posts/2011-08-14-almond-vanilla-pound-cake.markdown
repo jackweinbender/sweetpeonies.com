@@ -2,11 +2,12 @@
 layout: post
 author: tiffany
 title: "Almond Vanilla Pound Cake"
-assets: /assets/images2011-08-14almond-vanilla-pound-cake
+assets: /assets/images/2011-08-14-almond-vanilla-pound-cake/
 categories: 
 - Baking
-- cake
+- Cake
 - Food
+tags: 
 ---
 
 One of our regular farm ladies, Jane Mullins, has kindly shared her sour cream pound cake at two farm workshops now. One taste is all I needed, I’ve been raving about the cake for months. It is very moist with subtle hints of almond. Seriously, SO amazing!

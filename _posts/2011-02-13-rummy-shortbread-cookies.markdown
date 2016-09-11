@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Rummy Shortbread Cookies"
-assets: /assets/images2011-02-13rummy-shortbread-cookies
+assets: /assets/images/2011-02-13-rummy-shortbread-cookies/
 categories: 
 - Baking
 - Food
+tags: 
+- Cookies
+- Recipe
+- Rum
+- Shortbread
 ---
 
 [![](jekyll_uploads/2011/02/Christmas-Pics-065-325x433.jpg "Christmas Pics 065")](http://www.sweetpeonies.com/2011/02/rummy-shortbread-cookies/christmas-pics-065/)

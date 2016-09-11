@@ -2,10 +2,12 @@
 layout: post
 author: tiffany
 title: "Lemon Chocolate Truffles"
-assets: /assets/images2012-02-13lemon-chocolate-truffles-v-day-cards
+assets: /assets/images/2012-02-13-lemon-chocolate-truffles-v-day-cards/
 categories: 
 - Baking
 - Food
+tags: 
+- Lemon Truffles
 ---
 
 Just a few lemon chocolate truffles to share with you for Valentine’s day.

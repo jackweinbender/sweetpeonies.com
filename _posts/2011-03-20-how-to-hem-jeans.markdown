@@ -2,8 +2,13 @@
 layout: post
 author: tiffany
 title: "How to Hem Jeans"
-assets: /assets/images2011-03-20how-to-hem-jeans
+assets: /assets/images/2011-03-20-how-to-hem-jeans/
 categories: 
+- Sewing
+tags: 
+- Hem
+- How To
+- Jeans
 - Sewing
 ---
 

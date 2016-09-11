@@ -2,11 +2,14 @@
 layout: post
 author: tiffany
 title: "Grilled Vegetables"
-assets: /assets/images2011-04-25grilled-vegetables
+assets: /assets/images/2011-04-25-grilled-vegetables/
 categories: 
 - Cooking
 - Food
-- grilling
+- Grilling
+tags: 
+- Grilled Vegetable
+- How To
 ---
 
 Grilling is one of the things I most look forward to about summer and this past weekend was perfect grilling weather.

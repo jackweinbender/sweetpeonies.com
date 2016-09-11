@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "Watermelon Turtle + Edible Books"
-assets: /assets/images2012-03-29watermelon-turtle-edible-books
+assets: /assets/images/2012-03-29-watermelon-turtle-edible-books/
 categories: 
 - Baking
 - Crafts
 - Food
+tags: 
+- Edible Books Festival
+- Watermelon
+- Turtle
 ---
 
 The Milligan library held their second annual Edible Books Festival this week ([year #1 here](http://www.sweetpeonies.com/2011/04/edible-books-festival/)). My contributions included a “Holes” carrot cake made with graham crackers, coffee frosting and cinnamon as well as a “Tortoise and the Hare” watermelon turtle, complete with _hair_-get it? I crack myself up.

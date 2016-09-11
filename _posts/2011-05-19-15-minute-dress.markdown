@@ -2,9 +2,15 @@
 layout: post
 author: tiffany
 title: "15 Minute Dress"
-assets: /assets/images2011-05-1915-minute-dress
+assets: /assets/images/2011-05-19-15-minute-dress/
 categories: 
 - Crafts
+tags: 
+- Crafts
+- Dress
+- How To
+- Quick
+- Sewing
 ---
 
 So, I like clothes…a lot. Although I usually default to jeans and a fitted T-shirt, my fashion tastes did evolve while working at Nordstrom before Jack and I got engaged. Nordstrom clothes+discount=hooked.

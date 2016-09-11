@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Amaretto-Coconut Pound Cake"
-assets: /assets/images2011-04-18amaretto-coconut-pound-cake
+assets: /assets/images/2011-04-18-amaretto-coconut-pound-cake/
 categories: 
 - Baking
 - Food
+tags: 
+- Amaretto
+- Coconut
+- How To
+- Pound Cake
+- Recipe
 ---
 
 Took out my good ol’ Betty Crocker cookbook the other night and threw together a combination of recipes that were oh so tasty. One part pound cake. One part coconut glaze.

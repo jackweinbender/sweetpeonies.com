@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "A Whistling Girl and a Crowing Hen"
-assets: /assets/images2012-04-15a-whistling-girl-and-a-crowing-hen
+assets: /assets/images/2012-04-15-a-whistling-girl-and-a-crowing-hen/
 categories: 
 - Articles
-- photographs
+- Photographs
+tags: 
+- Leona Auer
+- A Whistling Girl And A Crowing Hen
+- Author
 ---
 
 “As I look backward over a long checkered life, it seems to me that the hand of God has been weaving a beautiful pattern of many colors and shapes for me and for the people who have been and who will be associated with me.” -Leona Auer

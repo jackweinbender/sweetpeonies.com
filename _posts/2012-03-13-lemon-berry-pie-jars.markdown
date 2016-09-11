@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Lemon-Berry Pie Jars"
-assets: /assets/images2012-03-13lemon-berry-pie-jars
+assets: /assets/images/2012-03-13-lemon-berry-pie-jars/
 categories: 
 - Baking
 - Food
+tags: 
+- Berry-lemon
+- Blackberry
+- Lemon Zest
+- Pie
+- Raspberry
 ---
 
 Working in a public relations office and running a blog definitely has its perks. This past week I was asked to help bake treats for the re-accreditation committee coming to review our college. My contribution was one of multiple treats and favors made by alumni and faculty. After much deliberation I decided to make pie–not just any pie, mini pies in cute little jars–who could resist?

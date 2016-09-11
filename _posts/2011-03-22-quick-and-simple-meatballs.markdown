@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Quick and Simple Meatballs"
-assets: /assets/images2011-03-22quick-and-simple-meatballs
+assets: /assets/images/2011-03-22-quick-and-simple-meatballs/
 categories: 
 - Cooking
 - Food
+tags: 
+- Meatballs
+- Quick
+- Recipe
 ---
 
 Have you ever had a late night craving you just can’t shake? Well, I have for the past two weeks! I am not sure why, but suddenly a meatball sandwich sounded glorious. I don’t think I have ever eaten a meatball sandwich but I wanted one none-the-less.

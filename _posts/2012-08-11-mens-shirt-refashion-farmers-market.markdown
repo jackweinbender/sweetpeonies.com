@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Men’s Shirt Refashion + Farmer’s Market"
-assets: /assets/images2012-08-11mens-shirt-refashion-farmers-market
+assets: /assets/images/2012-08-11-mens-shirt-refashion-farmers-market/
 categories: 
 - Crafts
 - Sewing
+tags: 
+- Craft
+- Diy
+- Sewing
+- Shirt
 ---
 
 I think the best thing about Summer and Saturdays is the Farmer’s Market. I don’t know if there is a better excuse for waking up early on the weekend. This weekend, Kristin and I manned the Aunt Willie’s Wildflower station at the Kingsport market and had such a great morning.

@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Vegetable Shrimp Soup"
-assets: /assets/images2011-05-01vegetable-shrimp-soup
+assets: /assets/images/2011-05-01-vegetable-shrimp-soup/
 categories: 
 - Cooking
 - Food
+tags: 
+- How To
+- Recipe
+- Shrimp
+- Soup
+- Vegetable
 ---
 
 I absolutely love shrimp. I could eat shrimp every single day and never tire of it. So, the other night, I decided to experiment with a make-shift shrimp soup. I was pleasantly surprised with the result. This recipe will feed 4 individuals 1 cup apiece.

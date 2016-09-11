@@ -2,9 +2,15 @@
 layout: post
 author: tiffany
 title: "Potpourri Frames"
-assets: /assets/images2011-04-12potpourri-frames
+assets: /assets/images/2011-04-12-potpourri-frames/
 categories: 
 - Crafts
+tags: 
+- Decorating
+- Frame
+- How To
+- Potpourri Craft
+- Wall Decor
 ---
 
 While there are many aspects of our little apartment that we love, one downside to apartment-living is the “no painting” rule. A consequence of having no color on the walls, I am forced to craft more in order to brighten up the place. Oh shucks.

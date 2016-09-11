@@ -2,9 +2,15 @@
 layout: post
 author: tiffany
 title: "Spring Petal Mosaic"
-assets: /assets/images2011-03-05spring-petal-mosaic
+assets: /assets/images/2011-03-05-spring-petal-mosaic/
 categories: 
 - Crafts
+tags: 
+- Diy
+- Flower Art
+- Home Decor
+- How To
+- Wall Art
 ---
 
 I am one of those individuals who collects pretty much everything I have ever received. You might say I am overly-sentimental. I like to think I simply have incredible insight to possible future uses of said gifts. I mean, you never know when a ceramic lime green elephant will come in handy.

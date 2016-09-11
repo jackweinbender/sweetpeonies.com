@@ -2,10 +2,11 @@
 layout: post
 author: tiffany
 title: "January Jaunt in the Park"
-assets: /assets/images2013-01-24january-jaunt-in-the-park
+assets: /assets/images/2013-01-24-january-jaunt-in-the-park/
 categories: 
 - Articles
-- flowers
+- Flowers
+tags: 
 ---
 
 [![winter stroll](jekyll_uploads/2013/01/winter-stroll-575x359.jpg)](http://www.sweetpeonies.com/2013/01/january-jaunt-in-the-park/winter-stroll/)

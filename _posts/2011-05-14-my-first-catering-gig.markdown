@@ -2,11 +2,13 @@
 layout: post
 author: tiffany
 title: "My First Catering Gig"
-assets: /assets/images2011-05-14my-first-catering-gig
+assets: /assets/images/2011-05-14-my-first-catering-gig/
 categories: 
 - Baking
 - Events
 - Food
+tags: 
+- Catering
 ---
 
 I love summer and I love Saturdays and today is both (at least summer break, even if the weather is still spring). I am currently sitting at my kitchen table, cookbooks haphazardly strewn about, coffee in hand, laptop playing Feist, and way too many baking supplies crowding the already crowded counter tops.

@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Pecan Tarts"
-assets: /assets/images2011-05-15pecan-tarts
+assets: /assets/images/2011-05-15-pecan-tarts/
 categories: 
 - Baking
 - Food
+tags: 
+- How To
+- Pecan
+- Recipe
+- Tarts
 ---
 
 I made these tasty pecan tarts this weekend, recipe courtesy of momma Mary, for the Chamber Youth Leadership graduation reception at Milligan. These mini tarts are quick and easy to make, not to mention they taste phenomenal. Great for any shower or large get-together.

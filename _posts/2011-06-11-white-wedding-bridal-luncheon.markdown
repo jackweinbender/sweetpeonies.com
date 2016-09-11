@@ -2,11 +2,14 @@
 layout: post
 author: tiffany
 title: "White Wedding Bridal Luncheon"
-assets: /assets/images2011-06-11white-wedding-bridal-luncheon
+assets: /assets/images/2011-06-11-white-wedding-bridal-luncheon/
 categories: 
 - Events
-- flowers
-- in the garden
+- Flowers
+- In The Garden
+tags: 
+- Wedding Flowers
+- Arrangements
 ---
 
 This past Friday, I helped Linda host a beautiful bridal luncheon. The weather was fantastic, sitting in the mid-eighties and the flowers were absolutely exquisite.

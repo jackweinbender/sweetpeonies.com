@@ -2,10 +2,12 @@
 layout: post
 author: tiffany
 title: "Welcome to our new site!"
-assets: /assets/images2012-06-24welcome-to-our-new-site
+assets: /assets/images/2012-06-24-welcome-to-our-new-site/
 categories: 
 - Articles
 - Blogs
+tags: 
+- New Blog Title
 ---
 
 Welcome to our new site, _Sweet Peonies_! This past year I’ve been talking with Jack about all the changes I would like to make to the blog if only I knew how. He, being the wonderful husband that he is, decided to learn all the coding necessary for making my blogging dreams come true! I think the design of our new blog is much more in line with my taste and style and it will open the door for some fun new post themes in the future.

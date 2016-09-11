@@ -2,11 +2,16 @@
 layout: post
 author: tiffany
 title: "Hot Chocolate Cupcakes + Cinnamon Frosting"
-assets: /assets/images2011-11-19hot-chocolate-cupcakes-cinnamon-frosting
+assets: /assets/images/2011-11-19-hot-chocolate-cupcakes-cinnamon-frosting/
 categories: 
 - Baking
-- cake
-- cupcakes
+- Cake
+- Cupcakes
+tags: 
+- Hot Chocolate
+- Cupcakes
+- Recipe
+- Cinnamon
 ---
 
 Can I tell you a sad story? I haven’t baked in a month. True story. On Thursday, I was working on homework and I my oven called to me…or maybe it was my sweet tooth. Either way, it was time to bake. Our weather has been incredibly cold this week, I’m thinking winter is definitely here. So what better way to celebrate than with hot chocolate cupcakes and cinnamon frosting!

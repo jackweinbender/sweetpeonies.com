@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Flower Pumpkin Workshop"
-assets: /assets/images2011-09-29flower-pumpkin-workshop
+assets: /assets/images/2011-09-29-flower-pumpkin-workshop/
 categories: 
-- flowers
-- the farm
+- Flowers
+- The Farm
+tags: 
+- Decor
+- Fall
+- Flower Arrangement
+- Pumpkins
 ---
 
 Tuesday evening was the night you’ve all been waiting for…the pumpkin workshop. I think I say this every time but, this workshop just might be my absolute favorite. The pumpkin workshop brings a little sophistication to the traditional idea of carving pumpkins for the fall.

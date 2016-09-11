@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "Christmas at the Farm"
-assets: /assets/images2011-12-16christmas-at-the-farm
+assets: /assets/images/2011-12-16-christmas-at-the-farm/
 categories: 
 - Events
-- flowers
-- the farm
+- Flowers
+- The Farm
+tags: 
+- Christmas Centerpiece
+- Fern
+- Holiday
 ---
 
 When I first started working out at Aunt Willie’s Wildflowers, I assumed that the end of summer meant the end of workshops and pretty arrangements, luckily, I was mistaken. As if the pumpkin workshop wasn’t cool enough, come December, Linda holds a Christmas centerpiece workshop. The Christmas centerpieces are always beautiful with a variety of styles.

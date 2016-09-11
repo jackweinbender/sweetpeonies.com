@@ -2,10 +2,12 @@
 layout: post
 author: tiffany
 title: "No Bake Bites"
-assets: /assets/images2012-01-21no-bake-bites
+assets: /assets/images/2012-01-21-no-bake-bites/
 categories: 
 - Baking
 - Food
+tags: 
+- No Bake Cookies
 ---
 
 You remember how I made all those healthy freezer meals for the hubby and I to enjoy this semester? Well, if you’ve learned anything about me from reading this blog, it is most likely the fact that I love sweets. Yes, I admit I have a bit of a sweet tooth. And when I say “a bit” I really mean, “I would probably die without sweets.” Dramatic? Perhaps. However, I’m pretty sure my husband (who has to make midnight Sonic runs) would agree that the above statement is indeed accurate.

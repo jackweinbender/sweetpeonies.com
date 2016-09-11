@@ -2,12 +2,17 @@
 layout: post
 author: tiffany
 title: "Jungle Paper Mobile"
-assets: /assets/images2012-06-30jungle-paper-mobile
+assets: /assets/images/2012-06-30-jungle-paper-mobile/
 categories: 
-- art
+- Art
 - Crafts
 - Events
 - Home
+tags: 
+- Jungle Baby Shower
+- Paper Mobile
+- Table Decor
+- Green And Yellow
 ---
 
 Recently I’ve been working on a few decorations for a friend’s baby shower in July. Their nursery is going to have jungle decor so we decided to extend the theme to the shower as well.

@@ -2,10 +2,11 @@
 layout: post
 author: tiffany
 title: "I Flung the Tongue"
-assets: /assets/images2011-04-24i-flung-the-tongue
+assets: /assets/images/2011-04-24-i-flung-the-tongue/
 categories: 
-- photographs
-- the farm
+- Photographs
+- The Farm
+tags: 
 ---
 
 Happy Easter! Seeing as we are so far away from home, Linda Doan, [Aunt Willies Wildflowers](http://auntwillieswildflowers.com/ "Aunt Willie's Wildflowers"), invited Jack and I to join in their Sunday afternoon celebrations.

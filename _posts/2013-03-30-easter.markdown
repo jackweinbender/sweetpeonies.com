@@ -2,9 +2,10 @@
 layout: post
 author: tiffany
 title: "Easter Bells"
-assets: /assets/images2013-03-30easter
+assets: /assets/images/2013-03-30-easter/
 categories: 
-- flowers
+- Flowers
+tags: 
 ---
 
 _I think of the garden after the rain; And hope to my heart comes singing,  

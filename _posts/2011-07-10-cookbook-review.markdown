@@ -2,10 +2,11 @@
 layout: post
 author: tiffany
 title: "Cookbook Review"
-assets: /assets/images2011-07-10cookbook-review
+assets: /assets/images/2011-07-10-cookbook-review/
 categories: 
 - Food
 - Uncategorized
+tags: 
 ---
 
 Following a busy weekend as wedding coordinator in Mechanicsville, Virginia, I came home to find a wonderful surprise. After a long year of watching and waiting, and waiting and watching, and perhaps a little impatient complaining, Whitney Miller’s first ever cookbook finally arrived at my front door. Miller is the season 1 winner of MasterChef (summer 2010). Her new cookbook, “Modern Hospitality” has been one year in the making and is 172 pages long.

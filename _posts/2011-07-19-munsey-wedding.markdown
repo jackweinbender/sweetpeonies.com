@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "Munsey Wedding"
-assets: /assets/images2011-07-19munsey-wedding
+assets: /assets/images/2011-07-19-munsey-wedding/
 categories: 
-- flowers
-- in the garden
+- Flowers
+- In The Garden
 - Uncategorized
+tags: 
+- Flower Arranging
+- Flowers
+- Wedding
 ---
 
 The past two weekends have been full of wedding frenzy. Two weekends ago, I helped out a friend by coordinating her special day and this past weekend, Kristin and I hosted a bridal luncheon for a sweet bride out at the farm. Linda was on a family vacation so it was up to us to plan the luncheon, cater, and put together the arrangements for the wedding. So, although busy, it has been a fun two weeks. I’m now thinking my nursing degree may be the financial backing for an event planning/flower arranging/catering hobby, if indeed you can call that a “hobby.” Now I just need some clients.

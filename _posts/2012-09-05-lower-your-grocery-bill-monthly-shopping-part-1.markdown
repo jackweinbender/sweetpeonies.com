@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "Lower Your Grocery Bill + Monthly Shopping (Part 1)"
-assets: /assets/images2012-09-05lower-your-grocery-bill-monthly-shopping-part-1
+assets: /assets/images/2012-09-05-lower-your-grocery-bill-monthly-shopping-part-1/
 categories: 
 - Articles
 - Food
-- freezer meals
+- Freezer Meals
+tags: 
+- Cutting Your Grocery Bill In Half
+- Food
+- Freezer Meals
 ---
 
 [![lower grocery bill](jekyll_uploads/2012/09/DSC_0008-325x201.jpg "lower grocery bill")](http://www.sweetpeonies.com/2012/09/lower-your-grocery-bill-monthly-shopping-part-1/dsc_0008-4/)This past year Jack and I have picked up the speed on our ongoing money-saving mission. Although we don’t make very much money (we each work a normal job, an odd job for extra cash, and go to school full time), we have figured out where we can scrimp and scrape without robbing all the fun out of our lives. Despite bringing in very little money each month we are able to continually put money into savings and still afford a few niceties from time to time. We are not one of those insanely strict couples who never ever strays from the plan because, let’s face it, some days you just need a cheeseburger, but we do try to abide by our little rule set as closely as possible. However, allowing ourselves the flexibility to say, “screw the plan, we need a night out,” has actually given us motivation to stick to our budgeting strategy more consistently.

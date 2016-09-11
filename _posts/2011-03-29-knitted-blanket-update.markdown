@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Knitted Blanket Update"
-assets: /assets/images2011-03-29knitted-blanket-update
+assets: /assets/images/2011-03-29-knitted-blanket-update/
 categories: 
-- baby
-- knitting
+- Baby
+- Knitting
+tags: 
+- Baby Blanket
+- How To
+- Knit
 ---
 
 With one month left of school I feel like I am crawling out of my skin with craft fever. I have been attempting to finish Avynlea’s knitted blanket for the past 2 months and this week I have finally made it about 1/3 of the way. I am now halfway through color number 3 which means I get to start over and finally have a pattern! Although the process is slow it feels so good to see progress.

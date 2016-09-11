@@ -2,9 +2,14 @@
 layout: post
 author: tiffany
 title: "October Daring Baker’s Challenge: Povitica"
-assets: /assets/images2011-10-27october-daring-bakers-challenge-povitica
+assets: /assets/images/2011-10-27-october-daring-bakers-challenge-povitica/
 categories: 
 - Daring Baker Challenge
+tags: 
+- Bread
+- Daring Baker
+- October
+- Povitica
 ---
 
 _The Daring Baker’s October 2011 challenge was Povitica, hosted by Jenni of The Gingered Whisk. Povitica is a traditional Eastern European Dessert Bread that is as lovely to look at as it is to eat!_

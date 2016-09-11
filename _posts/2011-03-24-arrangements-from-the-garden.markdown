@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Arrangements from the Garden"
-assets: /assets/images2011-03-24arrangements-from-the-garden
+assets: /assets/images/2011-03-24-arrangements-from-the-garden/
 categories: 
-- flowers
-- in the garden
+- Flowers
+- In The Garden
+tags: 
+- Flower Arranging
+- Flowers
+- How To
 ---
 
 Spring is here! After having almost an entire week of beautiful sun, we had one of the first big thunderstorms of spring last night.  

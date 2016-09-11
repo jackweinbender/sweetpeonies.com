@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Memorial Day + Decorative Paper Flags"
-assets: /assets/images2012-05-27memorial-day-decorative-paper-flags
+assets: /assets/images/2012-05-27-memorial-day-decorative-paper-flags/
 categories: 
 - Crafts
 - Events
+tags: 
+- Craft
+- Flag Stick
+- Memorial Day
+- Paper
 ---
 
 Hello friends! I hope you are all out enjoying your holiday weekend. This weekend the hubby and I decided to throw a last-minute Memorial Day BBQ for a few friends. I didn’t have much time to prep but I thought I should still throw together a few decorations for the event.

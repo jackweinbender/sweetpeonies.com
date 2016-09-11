@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Purple Gift Wrap"
-assets: /assets/images2012-05-23purple-gift-wrap
+assets: /assets/images/2012-05-23-purple-gift-wrap/
 categories: 
 - Crafts
 - Gift Wrap
+tags: 
+- Doily
+- Gift Wrap
+- Purple
+- Raffia
 ---
 
 I love gifts. I love giving them, getting them and especially wrapping them. Doesn’t a creative, well-wrapped gift make the exchanging of gifts so much more exciting?! Well, in honor of creative gift wrap (and just because I love it so much), we are starting an exciting new weekly posting: “The Wednesday Wrap” (or some other clever title that I have yet to come up with).

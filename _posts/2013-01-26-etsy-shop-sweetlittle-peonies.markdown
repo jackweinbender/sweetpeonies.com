@@ -2,13 +2,19 @@
 layout: post
 author: tiffany
 title: "ETSY Shop: Sweet Little Peonies"
-assets: /assets/images2013-01-26etsy-shop-sweetlittle-peonies
+assets: /assets/images/2013-01-26-etsy-shop-sweetlittle-peonies/
 categories: 
-- baby
+- Baby
 - Crafts
 - ETSY
 - Home
 - Sewing
+tags: 
+- Baby Decor
+- ETSY Shop
+- Fleece
+- Mobile
+- Nursery
 ---
 
 We are trying out a couple of nursery decor ideas over at the new ETSY shop–[Sweet Little Peonies](http://www.etsy.com/shop/SweetLittlePeonies).

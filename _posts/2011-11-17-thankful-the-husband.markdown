@@ -2,9 +2,11 @@
 layout: post
 author: tiffany
 title: "Thankful: The Husband"
-assets: /assets/images2011-11-17thankful-the-husband
+assets: /assets/images/2011-11-17-thankful-the-husband/
 categories: 
 - Articles
+tags: 
+- Thanksgiving
 ---
 
 I love birthdays and no, I don’t just mean my own. I love celebrating life, and the people you love in it. I know many people dread their birthdays, another year, another letdown, blah, blah, blah. If you don’t love celebrating your birthday, at least let others enjoy the celebration, because guess what? You matter!

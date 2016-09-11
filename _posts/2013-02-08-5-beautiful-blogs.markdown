@@ -2,9 +2,9 @@
 layout: post
 author: tiffany
 title: "5 Beautiful Blogs"
-assets: /assets/images2013-02-085-beautiful-blogs
+assets: /assets/images/2013-02-08-5-beautiful-blogs/
 categories: 
-- art
+- Art
 - Articles
 - Cooking
 - Crafts
@@ -12,6 +12,8 @@ categories:
 - Food
 - Home
 - Links
+tags: 
+- Blog Links
 ---
 
 Happy Friday! Today I’d like to take a moment to share with you five beautiful blogs & websites that I just can’t get enough of. These are my daily go to blogs for inspiration and an overall feeling of goodness. Check them out and be sure to spread a little love their way.

@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Granola Trail Mix"
-assets: /assets/images2012-03-07granola-trail-mix
+assets: /assets/images/2012-03-07-granola-trail-mix/
 categories: 
 - Baking
 - Food
+tags: 
+- Granola
+- How To
+- Homemade
+- Trail Mix
 ---
 
 Jack and I are always looking for low-calorie, high protein and of course, good tasting snacks to hold us over throughout the busy day. We have been trying out various trail mix varieties over the last few weeks and finally figured out an inexpensive way to make our very own.

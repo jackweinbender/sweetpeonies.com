@@ -2,9 +2,13 @@
 layout: post
 author: tiffany
 title: "A Quilt for Mom"
-assets: /assets/images2011-02-10a-quilt-for-mom
+assets: /assets/images/2011-02-10-a-quilt-for-mom/
 categories: 
 - Sewing
+tags: 
+- Idea
+- Pattern
+- Quilt
 ---
 
 [![](jekyll_uploads/2011/02/Christmas-Pics-150-575x431.jpg "Christmas Pics 150")](http://www.sweetpeonies.com/2011/02/a-quilt-for-mom/christmas-pics-150/)

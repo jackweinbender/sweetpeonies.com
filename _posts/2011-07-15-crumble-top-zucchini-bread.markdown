@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "Crumble Top Zucchini Bread"
-assets: /assets/images2011-07-15crumble-top-zucchini-bread
+assets: /assets/images/2011-07-15-crumble-top-zucchini-bread/
 categories: 
 - Baking
 - Food
 - Uncategorized
+tags: 
+- Zucchini Bread
+- Baking
+- Crumble Topping
 ---
 
 Working in the Milligan College public relations office has given me the opportunity to test out various recipes on the hardworking individuals in my building. Luckily, they make it easy for me as a few days ago, a bag of squash and 3 very very large zucchinis were left on the back table for whomever wanted to take them. I, of course, couldn’t pass up the opportunity and decided to try my luck at baking my first batch of zucchini bread.

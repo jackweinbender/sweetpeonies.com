@@ -2,11 +2,17 @@
 layout: post
 author: tiffany
 title: "Chicken Feeder Centerpiece"
-assets: /assets/images2011-02-09chicken-feeder-centerpiece
+assets: /assets/images/2011-02-09-chicken-feeder-centerpiece/
 categories: 
-- flowers
+- Flowers
 - Food
-- in the garden
+- In The Garden
+tags: 
+- Centerpiece
+- Chicken Feeder
+- Diy
+- Farm Living
+- How To
 ---
 
 [![chicken feeder lettuce](jekyll_uploads/2011/02/chickenfeederlettuce-325x456.jpg "chickenfeederlettuce")](http://www.sweetpeonies.com/2011/02/chicken-feeder-centerpiece/chickenfeederlettuce/)Many of the projects you will find here on Sweet Peonies come from the Doan farm or are at the very least inspired by the farm.

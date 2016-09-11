@@ -2,11 +2,17 @@
 layout: post
 author: tiffany
 title: "Silver & Gold Brooch Bouquet"
-assets: /assets/images2012-07-19silver-gold-brooch-bouquet
+assets: /assets/images/2012-07-19-silver-gold-brooch-bouquet/
 categories: 
-- flowers
-- the farm
-- wedding
+- Flowers
+- The Farm
+- Wedding
+tags: 
+- Bouquet
+- Bridal Bouquet
+- Brooch
+- Flowers
+- Wedding
 ---
 
 Remember those beautiful brooches I mentioned in my [sneak peak bridal bouquet](http://www.sweetpeonies.com/2012/07/bridal-brooch-bouquet-sneak-peek/) post last week? Well, I have finally managed to pull all of that gorgeous jewelry together into one stunning bridal brooch bouquet.

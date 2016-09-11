@@ -16,12 +16,34 @@ const post = (data) => {
     content: function(){
       return toMarkdown($('.entry-content').html())
     },
-    categories : function(){
+    categories: function(){
       let cat = []
       $('a[rel="category tag"]').each((i, elem) => {
-        cat[i] = $(elem).text()
+        const category = $(elem).text()
+        cat[i] = sententceCase(category)
       })
       return cat.map( e => {return "\n- " + e}).join('')
+    },
+    tags: function(){
+      let tag = []
+      $('a[rel="tag"]').each((i, elem) => {
+        let t = $(elem).text().split(";")
+        switch(t.length) {
+          case 0:
+            break;
+          case 1:
+            tag.push(sententceCase(t[0].trim()))
+            break;
+          default:
+            console.log(t)
+            t.forEach( el => {
+              if(el.trim().length !== 0){
+                tag.push( sententceCase(el.trim()) )
+              }
+            })
+        }
+      })
+      return tag.map( e => {return "\n- " + e}).join('')
     },
     fullDate: function(){
       const d = new Date(this.date)
@@ -38,8 +60,9 @@ const post = (data) => {
         "layout: post\n" +
         "author: " + this.author + "\n" +
         "title: \"" + this.title + "\"\n" +
-        "assets: /assets/images" + this.fullDate() + this.slug() + "\n" +
+        "assets: /assets/images/" + this.fullDate() + "-" + this.slug() + "/\n" +
         "categories: " + this.categories() + "\n" +
+        "tags: " + this.tags() + "\n" +
         "---\n\n" +
         this.content()
 
@@ -73,7 +96,19 @@ posts.forEach( p => {
   fs.writeFile('_posts/' + p.filename(), p.printObject() )
 })
 
+function sententceCase( str ){
+  return str.split(" ").map( word => {
+    const arr = word.split('')
+    const head = arr.shift()
+    let tail = arr.slice(0)
+    // console.log("arr: ", arr)
+    // console.log("head: ", head)
+    // console.log("tail: ", tail)
 
+    tail.unshift(head.toUpperCase())
+    return tail.join('')
+  }).join(" ")
+}
 function doubleDigit( num ){
   if (num <= 9){
     return "0" + num

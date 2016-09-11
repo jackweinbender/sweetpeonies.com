@@ -2,11 +2,14 @@
 layout: post
 author: tiffany
 title: "Edible Books Festival"
-assets: /assets/images2011-04-01edible-books-festival
+assets: /assets/images/2011-04-01-edible-books-festival/
 categories: 
 - Cooking
 - Crafts
 - Food
+tags: 
+- Edible Books
+- Ideas
 ---
 
 In order to celebrate the nourishment that books bring to our lives, Milligan College library staff threw the college’s first ever Edible Books Festival at the P.H. Welshimer library. The event was a hit! It looks like next year the staff will throw a full-out competition due to all of the positive feedback.

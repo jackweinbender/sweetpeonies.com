@@ -2,11 +2,16 @@
 layout: post
 author: tiffany
 title: "Pitcher Arrangement"
-assets: /assets/images2012-04-18pitcher-arrangement
+assets: /assets/images/2012-04-18-pitcher-arrangement/
 categories: 
-- flowers
-- in the garden
-- the farm
+- Flowers
+- In The Garden
+- The Farm
+tags: 
+- How To
+- Flower Arrangement
+- Tulips
+- Lilacs
 ---
 
 [![](jekyll_uploads/2012/04/pitcherarrangement.jpg "pitcherarrangement")](http://www.sweetpeonies.com/2012/04/pitcher-arrangement/pitcherarrangement/)

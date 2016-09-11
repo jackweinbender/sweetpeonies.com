@@ -2,11 +2,13 @@
 layout: post
 author: tiffany
 title: "Table Setting: Mercury Glass + Blue + Yellow"
-assets: /assets/images2012-11-23table-setting-mercury-glass-blue-yellow
+assets: /assets/images/2012-11-23-table-setting-mercury-glass-blue-yellow/
 categories: 
 - Cooking
 - Food
 - Home
+tags: 
+- Table Setting
 ---
 
 I hope each of you had a fantastic Thanksgiving holiday with your loved ones. We had the pleasure of having a family member in town this year, hooray! I always miss our family around the holidays and can’t say enough about how thankful we were to have my mom in town. Here is just a tiny glimpse at our shiny Thanksgiving table setting.

@@ -2,10 +2,12 @@
 layout: post
 author: tiffany
 title: "Photography + Love"
-assets: /assets/images2011-10-20photography-love
+assets: /assets/images/2011-10-20-photography-love/
 categories: 
-- art
-- photographs
+- Art
+- Photographs
+tags: 
+- Photography
 ---
 
 This post is extremely random but I just had to share it with you all. Kira, of [Kira Noble Photography](http://www.kiranoblephotography.com/), is one fantastic photographer. I get extremely giddy every time I see that she has posted new photos because I just can’t wait to see what else she has come up with.

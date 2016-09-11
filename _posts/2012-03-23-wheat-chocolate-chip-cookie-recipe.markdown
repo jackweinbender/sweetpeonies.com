@@ -2,9 +2,12 @@
 layout: post
 author: tiffany
 title: "Wheat Chocolate Chip Cookie Recipe"
-assets: /assets/images2012-03-23wheat-chocolate-chip-cookie-recipe
+assets: /assets/images/2012-03-23-wheat-chocolate-chip-cookie-recipe/
 categories: 
 - Baking
+tags: 
+- Chocolate Chip Cookies
+- Whole Wheat
 ---
 
 When individuals think about that moist, delicious, classic chocolate chip cookie, they typically don’t think _wheat_. However, ever since the hubby went on a wheat bread craze, we’ve had a lot of wheat flour in the house. Last year, he decided to try out some wheat chocolate chip cookies and we’ve loved the combination of chocolate and wheat ever since. So delicious!

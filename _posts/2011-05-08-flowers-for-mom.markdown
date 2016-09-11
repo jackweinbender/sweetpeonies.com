@@ -2,10 +2,13 @@
 layout: post
 author: tiffany
 title: "Flowers for Mom"
-assets: /assets/images2011-05-08flowers-for-mom
+assets: /assets/images/2011-05-08-flowers-for-mom/
 categories: 
-- flowers
-- the farm
+- Flowers
+- The Farm
+tags: 
+- Flower Arranging
+- How To
 ---
 
 Yesterday at the farm we had a Mother’s Day workshop which is one of my absolute favorite workshops each year. Mother’s day falls at the best time of the year for Linda’s flowers. The flowers are incredibly fragrant and absolutely gorgeous.

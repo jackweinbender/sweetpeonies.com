@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Bridal Brooch Bouquet Sneak Peek"
-assets: /assets/images2012-07-13bridal-brooch-bouquet-sneak-peek
+assets: /assets/images/2012-07-13-bridal-brooch-bouquet-sneak-peek/
 categories: 
 - Crafts
-- flowers
+- Flowers
+tags: 
+- Brooch
+- Brooch Bouquet
+- Flower Arranging
+- Flowers
 ---
 
 For today’s floral post I thought I would share a sneak peak into my latest wedding project. One of our bride’s asked if we could arrange her bouquet, no surprise there. The catch? Not a flower bouquet.

@@ -2,11 +2,14 @@
 layout: post
 author: tiffany
 title: "Key Lime Pie"
-assets: /assets/images2011-02-09key-lime-pie
+assets: /assets/images/2011-02-09-key-lime-pie/
 categories: 
 - Baking
 - Cooking
 - Food
+tags: 
+- Key Lime Pie
+- Recipe
 ---
 
 [![](jekyll_uploads/2011/02/crafty-017-325x433.jpg "crafty 017")](http://www.sweetpeonies.com/2011/02/key-lime-pie/crafty-017-2/)

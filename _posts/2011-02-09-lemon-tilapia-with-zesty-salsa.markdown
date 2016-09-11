@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Lemon Tilapia with Zesty Salsa"
-assets: /assets/images2011-02-09lemon-tilapia-with-zesty-salsa
+assets: /assets/images/2011-02-09-lemon-tilapia-with-zesty-salsa/
 categories: 
 - Cooking
 - Food
+tags: 
+- Lemon
+- Recipe
+- Tilapia
+- Zesty Salsa
 ---
 
 [![](jekyll_uploads/2011/02/new-things-in-life-005-575x431.jpg "new things in life 005")](http://www.sweetpeonies.com/2011/02/lemon-tilapia-with-zesty-salsa/new-things-in-life-005/)

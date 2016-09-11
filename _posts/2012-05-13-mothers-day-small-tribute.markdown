@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Mother’s Day + Small Tribute"
-assets: /assets/images2012-05-13mothers-day-small-tribute
+assets: /assets/images/2012-05-13-mothers-day-small-tribute/
 categories: 
 - Articles
-- flowers
+- Flowers
+tags: 
+- Craft
+- Flowers
+- Mother's Day
+- Bouquet
+- Tribute
 ---
 
 Happy Mother’s Day to all you moms out there. Today is one of my favorite days because I love my mother so very much and I love having an entire day set aside for the sole purpose of honoring and celebrating her life, the sacrifices she has made and the person she is today.

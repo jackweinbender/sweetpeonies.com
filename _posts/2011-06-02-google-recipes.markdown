@@ -2,11 +2,13 @@
 layout: post
 author: tiffany
 title: "Google Recipes"
-assets: /assets/images2011-06-02google-recipes
+assets: /assets/images/2011-06-02-google-recipes/
 categories: 
 - Baking
 - Cooking
 - Food
+tags: 
+- Recipe Search
 ---
 
 _A guest post from a very talented individual Jack and I have had the pleasure of getting to know over the past 2 years. I love this new feature on Google. If you haven’t tried it yet, give it a shot. It is fabulous!_

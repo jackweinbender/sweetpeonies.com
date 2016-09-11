@@ -2,9 +2,13 @@
 layout: post
 author: tiffany
 title: "Fall is in the Air"
-assets: /assets/images2011-09-21fall-is-in-the-air
+assets: /assets/images/2011-09-21-fall-is-in-the-air/
 categories: 
-- flowers
+- Flowers
+tags: 
+- Arrangements
+- Flowers
+- Saturday Market
 ---
 
 This past week I found myself welcoming Fall with open arms, hazelnut coffee, and sweaters! Oh the sweaters. My poor husband has heard little else this past week other than, I need more sweaters (need being a bit of an exaggeration). The point is, I love sweaters. Moving on.

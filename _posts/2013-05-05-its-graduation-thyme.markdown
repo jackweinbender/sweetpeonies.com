@@ -2,16 +2,20 @@
 layout: post
 author: tiffany
 title: "It’s Graduation Thyme!"
-assets: /assets/images2013-05-05its-graduation-thyme
+assets: /assets/images/2013-05-05-its-graduation-thyme/
 categories: 
 - Baking
 - Crafts
 - Events
-- flowers
-- in the garden
+- Flowers
+- In The Garden
 - Links
-- photographs
-- tarts
+- Photographs
+- Tarts
+tags: 
+- Garden Party
+- Graduation
+- Party
 ---
 
 It is finally here, after 7 long years of dedicated studies I am finally graduating with my BSN degree! I must apologize for the lack of posting this semester, my mother’s mantra still rings in my head, “studies come first,” and so, blogging has taken a back seat. However, with graduation less than a week away I wanted to share with you a few images from my graduation celebration wishlist.

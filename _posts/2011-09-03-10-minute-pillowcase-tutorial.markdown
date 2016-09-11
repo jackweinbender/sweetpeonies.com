@@ -2,8 +2,13 @@
 layout: post
 author: tiffany
 title: "10-Minute Pillowcase Tutorial"
-assets: /assets/images2011-09-0310-minute-pillowcase-tutorial
+assets: /assets/images/2011-09-03-10-minute-pillowcase-tutorial/
 categories: 
+- Crafts
+tags: 
+- How To
+- Pillowcase
+- Tutorial
 - Crafts
 ---
 

@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Gift Wrap: Blue & Red Straws"
-assets: /assets/images2012-06-13blue-red-straw-gift-wrap
+assets: /assets/images/2012-06-13-blue-red-straw-gift-wrap/
 categories: 
 - Crafts
 - Gift Wrap
+tags: 
+- Blue And Red
+- Gift Wrap
+- Straws
 ---
 
 I’ve recently become slightly obsessed with straws. I see them everywhere and they are so enticing with their bright colors, fun designs and cheap price tag. I picked up a pack of 100 fluorescent straws for a grand total of $.99 this week. I have a couple ideas in mind for these straws but for today, I chose to incorporate them into my gift wrap.

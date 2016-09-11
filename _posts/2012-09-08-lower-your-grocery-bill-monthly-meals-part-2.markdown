@@ -2,13 +2,15 @@
 layout: post
 author: tiffany
 title: "Lower Your Grocery Bill & Monthly Meals (Part 2)"
-assets: /assets/images2012-09-08lower-your-grocery-bill-monthly-meals-part-2
+assets: /assets/images/2012-09-08-lower-your-grocery-bill-monthly-meals-part-2/
 categories: 
 - Articles
 - Baking
 - Cooking
 - Food
-- freezer meals
+- Freezer Meals
+tags: 
+- Freezer Meals
 ---
 
 I hope you enjoyed [Lowering Your Grocery Bill Part 1](http://www.sweetpeonies.com/2012/09/lower-your-grocery-bill-monthly-shopping-part-1/) of tips to lowering your grocery bill and preparing monthly meals. Today I am going to show you a sample meal plan with various recipes.

@@ -2,12 +2,15 @@
 layout: post
 author: tiffany
 title: "Bold & Beautiful Bridal Bouquet"
-assets: /assets/images2013-06-16bold-beautiful-bridal-bouquet
+assets: /assets/images/2013-06-16-bold-beautiful-bridal-bouquet/
 categories: 
-- flowers
-- in the garden
-- the farm
-- wedding
+- Flowers
+- In The Garden
+- The Farm
+- Wedding
+tags: 
+- Brides Bouquet
+- Wedding
 ---
 
 For some individuals, creativity seems to pour out with ease, turning everything they touch into creativity gold. For others, coming up with something creative is a more labored, time consuming process requiring hours of research scouring blogs and reading articles, testing recipes, practicing new techniques, ruining much anticipated projects, writing and rewriting, taking photo after photo after photo… Can you guess which one of these categories I fall into?

@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Honey Ginger Shrimp with Rice"
-assets: /assets/images2011-02-17honey-ginger-shrimp-with-rice
+assets: /assets/images/2011-02-17-honey-ginger-shrimp-with-rice/
 categories: 
 - Cooking
 - Food
+tags: 
+- Ginger
+- Honey
+- Recipe
+- Rice
+- Shrimp
 ---
 
 [![](jekyll_uploads/2011/02/misc-575x431.jpg "misc")](http://www.sweetpeonies.com/2011/02/honey-ginger-shrimp-with-rice/misc-3/)

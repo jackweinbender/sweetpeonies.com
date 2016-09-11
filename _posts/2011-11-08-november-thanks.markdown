@@ -2,9 +2,12 @@
 layout: post
 author: tiffany
 title: "November + Family"
-assets: /assets/images2011-11-08november-thanks
+assets: /assets/images/2011-11-08-november-thanks/
 categories: 
 - Articles
+tags: 
+- Family
+- Thanksgiving
 ---
 
 I love November. This is not simply a passing phrase for me, I wholeheartedly love November! November is my Christmas–if a November fairy came to my house, I would clean the chimney, set out cookies and milk, and probably write him a letter.

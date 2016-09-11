@@ -2,9 +2,20 @@
 layout: post
 author: tiffany
 title: "Pasta Dinner Gift Basket"
-assets: /assets/images2012-06-20pasta-dinner-gift-basket
+assets: /assets/images/2012-06-20-pasta-dinner-gift-basket/
 categories: 
 - Gift Wrap
+tags: 
+- Food Gift
+- Garlic
+- Gift
+- Gift Idea
+- Gift Wrap
+- Olive Oil
+- Oregano
+- Pasta
+- Pasta Basket
+- Tomato
 ---
 
 A new baby, sick friend, a college student getting ready for finals–there are always opportunities to prepare a meal for someone in need. Unfortunately, not everyone has time to prepare an extra meal in the middle of a busy week.

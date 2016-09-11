@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Apples and Globe Graduation Party"
-assets: /assets/images2011-08-18apples-and-globe-graduation-party
+assets: /assets/images/2011-08-18-apples-and-globe-graduation-party/
 categories: 
 - Events
 - Guest Post
+tags: 
+- Apple Cake
+- Graduation Party
+- Guest Post
+- Notebook Cake
+- Teacher Party
 ---
 
 Living far away from home has never been our ideal situation. Although Jack and I have our rough days being so far away from home, time and time again we have have found comfort in our friends. One of these dear friends, Kristin Waite, received her very first teaching position this week. In May, Kristin graduated with a master’s degree in teaching and threw a fabulous “Teacher-themed” graduation party. I asked Kristin a few weeks ago to write a post about her party and I figured, in honor of her new job, this week would be most fitting to share it with you.

@@ -2,12 +2,15 @@
 layout: post
 author: tiffany
 title: "Brussel Sprouts & Toasted Pecans"
-assets: /assets/images2012-12-29brussel-sprouts-toasted-pecans
+assets: /assets/images/2012-12-29-brussel-sprouts-toasted-pecans/
 categories: 
 - Cooking
 - Food
 - Home
-- vegetables
+- Vegetables
+tags: 
+- Brussel Sprouts
+- Side Dish
 ---
 
 I didn’t grow up a vegetable-eating child, not even a semi-compliant vegetable eater. I spent many a night sitting at the table after everyone else had finished their supper staring down the grotesque stalks of broccoli and cauliflower that threatened my sensitive palate. I hated vegetables forever, and then one day, I didn’t. I tell you about my childhood vegetable woes because it is necessary if I’m to convince you that this brussel sprouts recipe is absolutely delicious!

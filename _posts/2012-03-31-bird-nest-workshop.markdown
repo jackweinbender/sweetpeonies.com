@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "Bird Nest Workshop"
-assets: /assets/images2012-03-31bird-nest-workshop
+assets: /assets/images/2012-03-31-bird-nest-workshop/
 categories: 
-- flowers
-- in the garden
-- the farm
+- Flowers
+- In The Garden
+- The Farm
+tags: 
+- Bird's Nest
+- Workshop
+- Farm
 ---
 
 Today was another Bird’s Nest workshop out at [Aunt Willie’s Wildlflowers](http://www.auntwillieswildflowers.com). These are just a few of the photos from the day. We ate a delicious pasta salad, rolls, and strawberry almond salad. So healthy!

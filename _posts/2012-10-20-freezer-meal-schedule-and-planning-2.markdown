@@ -2,11 +2,13 @@
 layout: post
 author: tiffany
 title: "Freezer Meal Schedule & Planning: Month #2"
-assets: /assets/images2012-10-20freezer-meal-schedule-and-planning-2
+assets: /assets/images/2012-10-20-freezer-meal-schedule-and-planning-2/
 categories: 
 - Cooking
 - Food
-- freezer meals
+- Freezer Meals
+tags: 
+- Freezer Meals
 ---
 
 Hello Friends! I have two months of freezer meals, schedules and recipes to share with you today. You can link directly to [Freezer Meal Schedule & Planning: Month #3](http://www.sweetpeonies.com/2012/10/freezer-meal-schedule-and-planning/) here.

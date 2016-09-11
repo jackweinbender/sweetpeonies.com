@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Homemade Dinner Rolls"
-assets: /assets/images2012-08-24homemade-dinner-rolls
+assets: /assets/images/2012-08-24-homemade-dinner-rolls/
 categories: 
 - Baking
 - Cooking
+tags: 
+- Baking
+- Dinner Rolls
+- Homemade
 ---
 
 To continue my attempt at stocking our freezer ([Lower Grocery Bills & Freezer Meals](http://www.sweetpeonies.com/2012/09/lower-your-grocery-bill-monthly-meals-part-2/)), I decided to bake homemade rolls to accompany our soups. I usually direct all bread-making ventures to Jack because, unlike me, he is patient. When I bake I want to prepare the food, put it in the oven, wash the dishes, and pull the food out of the oven. Simple, easy, no hassle, and no waiting between steps. All that to say, these are the characteristics I look for in a bread recipe–I know, it’s sad, but this time it worked!

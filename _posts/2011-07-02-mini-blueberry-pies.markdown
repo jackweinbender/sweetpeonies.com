@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "Mini Blueberry Pies"
-assets: /assets/images2011-07-02mini-blueberry-pies
+assets: /assets/images/2011-07-02-mini-blueberry-pies/
 categories: 
 - Baking
 - Food
 - Uncategorized
+tags: 
+- Blueberry
+- Blueberry Pie
+- Recipe
 ---
 
 The Fourth of July is far from my favorite holiday. Can I say that without getting into trouble? I think it has something to do with having to stay up late to enjoy fireworks that only last about 10 minutes. I have never been a night owl, and I fear that the older I get, the earlier and earlier I hit the sack.

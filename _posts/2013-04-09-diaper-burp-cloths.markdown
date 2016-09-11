@@ -2,12 +2,17 @@
 layout: post
 author: tiffany
 title: "Diaper Burp Cloths DIY"
-assets: /assets/images2013-04-09diaper-burp-cloths
+assets: /assets/images/2013-04-09-diaper-burp-cloths/
 categories: 
-- baby
+- Baby
 - Crafts
 - Events
 - Sewing
+tags: 
+- Baby Shower
+- Diaper Burp Cloths
+- Diy
+- Gift
 ---
 
 It’s springtime here in Tennessee and I could not be more pleased!

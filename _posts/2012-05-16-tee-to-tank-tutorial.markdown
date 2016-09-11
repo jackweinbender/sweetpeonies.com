@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Tee to Tank Tutorial"
-assets: /assets/images2012-05-16tee-to-tank-tutorial
+assets: /assets/images/2012-05-16-tee-to-tank-tutorial/
 categories: 
 - Crafts
 - Sewing
+tags: 
+- Craft
+- Sewing
+- Tank
+- Tshirt
 ---
 
 Working on a farm in the summer, in Tennessee, tends to get a little hot and a _lot_ humid. I wish I could say I’ve become accustomed to the humidity but every time I think I’m beginning to adjust, the summer ends and we start the adjustment process all over again the following year.

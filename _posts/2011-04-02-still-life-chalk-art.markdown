@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Still-Life Chalk Art"
-assets: /assets/images2011-04-02still-life-chalk-art
+assets: /assets/images/2011-04-02-still-life-chalk-art/
 categories: 
-- art
+- Art
 - Crafts
+tags: 
+- Chalk Art
+- Decorating
+- Home Decor
+- How To
 ---
 
 Have you ever wandered down the art aisle of your favorite home decorating store and thought the images were overpriced and somewhat amateur? You think, a 6-year-old can paint a red circle in the center of a white canvas, right? I have spent many hours in these stores thinking I can paint this myself, and finally one day, I did.

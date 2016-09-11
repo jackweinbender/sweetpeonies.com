@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Gyro Pizza"
-assets: /assets/images2011-05-26gyro-pizza
+assets: /assets/images/2011-05-26-gyro-pizza/
 categories: 
 - Cooking
 - Food
+tags: 
+- Gyro
+- Pizza
+- Recipe
 ---
 
 It is not uncommon to find myself at a complete loss in the kitchen. Every few weeks I feel as if I have hit a cooking rut. There are only so many different ways to combine the same 7 ingredients. I know the simple solution is to incorporate more ingredients, but every time I find myself at the breaking point, another idea comes along. This time, my lovely husband provided the idea, a Gyro pizza.

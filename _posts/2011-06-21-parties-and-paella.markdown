@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Parties and Paella"
-assets: /assets/images2011-06-21parties-and-paella
+assets: /assets/images/2011-06-21-parties-and-paella/
 categories: 
 - Cooking
 - Food
+tags: 
+- Chicken
+- Paella
+- Rice
+- Shrimp
 ---
 
 Jack and I flew out West (California) last week to help celebrate three momentous events: grandparents 50th wedding anniversary, aunt and uncle’s 25th anniversary, and uncle’s 50th birthday

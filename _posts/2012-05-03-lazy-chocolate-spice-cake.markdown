@@ -2,11 +2,19 @@
 layout: post
 author: tiffany
 title: "Lazy Chocolate Spice Cake"
-assets: /assets/images2012-05-03lazy-chocolate-spice-cake
+assets: /assets/images/2012-05-03-lazy-chocolate-spice-cake/
 categories: 
 - Baking
-- cake
+- Cake
 - Food
+tags: 
+- Baking
+- Cake
+- Chocolate
+- Chocolate Spice Cake
+- Food
+- Recipe
+- Spice Cake
 ---
 
 After a rigorous year of classes, I can finally say my hardest year of nursing school is complete! Today was my last final and I can’t express how much relief I am feeling right now. Here’s a small glimpse into my life these past few weeks… as if finals aren’t bad enough with cumulative nursing tests, we had a grand total of 12 tests piled on for our last three weeks of classes. Can we say “insane?!” That’s what I thought. Anyways, it is over and I am relieved and ready to finally be in my final year of nursing. This degree (and the attempted others) has been a very long time in the making and I am so excited to be so close to the finish line.

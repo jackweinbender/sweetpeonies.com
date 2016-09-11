@@ -2,12 +2,13 @@
 layout: post
 author: tiffany
 title: "Raspberry Drop Chocolate Cupcakes"
-assets: /assets/images2013-08-21raspberry-drop-chocolate-cupcakes
+assets: /assets/images/2013-08-21-raspberry-drop-chocolate-cupcakes/
 categories: 
 - Baking
-- cake
-- cupcakes
+- Cake
+- Cupcakes
 - Food
+tags: 
 ---
 
 Last weekend the hubby and I had our first outing with friends in Austin. After two weeks of unpacking, rearranging, exploring, getting stuck in traffic, filling out paperwork, and getting stuck in more traffic we were invited to dinner by a fellow PhD student from Jack’s program. Our task: dessert.

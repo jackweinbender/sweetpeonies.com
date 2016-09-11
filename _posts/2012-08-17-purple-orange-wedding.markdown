@@ -2,11 +2,16 @@
 layout: post
 author: tiffany
 title: "Purple & Orange Wedding"
-assets: /assets/images2012-08-17purple-orange-wedding
+assets: /assets/images/2012-08-17-purple-orange-wedding/
 categories: 
-- flowers
-- in the garden
-- the farm
+- Flowers
+- In The Garden
+- The Farm
+tags: 
+- Bouquet
+- Orange
+- Purple
+- Wedding
 ---
 
 Today was my last farm day for the year. I’m always sad when summer comes to an end but with Fall just around the corner the workload at the farm dwindles down and really, it’s just in time for me to head back to classes. After seven years and three degree changes I am finally beginning my last year. Hooray! Next week I will head back to class and will also be starting a new job. Such a busy month. I am so excited to get started with the year and finish up this chapter of my life but right now, feeling sad to say goodbye to summer and all the beauty to be found out on the farm.

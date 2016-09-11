@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Greek Turkey Burgers"
-assets: /assets/images2011-05-21greek-turkey-burgers
+assets: /assets/images/2011-05-21-greek-turkey-burgers/
 categories: 
 - Cooking
 - Food
+tags: 
+- Feta Burger
+- Greek Yogurt
+- Recipe
+- Turkey Burgers
 ---
 
 Today was a great day. Instead of the isolated thunderstorms the weather man called for, today’s forecast was bright and sunny. A much-needed reprieve from the past two weeks of dreary rain, although I’ll take the rain over tornado warnings any day.

@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Mini Moss Terrarium"
-assets: /assets/images2012-03-04mini-moss-terrarium
+assets: /assets/images/2012-03-04-mini-moss-terrarium/
 categories: 
-- flowers
-- in the garden
+- Flowers
+- In The Garden
+tags: 
+- Moss
+- Terrarium
+- Dish
 ---
 
 I am working on some fun new posts for you all but in the meantime I decided to share a few photographs of the moss dish I threw together from the leftover workshop materials.

@@ -2,11 +2,19 @@
 layout: post
 author: tiffany
 title: "Succulent Boutonniere How To"
-assets: /assets/images2012-07-06boutonniere-how-to
+assets: /assets/images/2012-07-06-boutonniere-how-to/
 categories: 
-- flowers
-- in the garden
-- the farm
+- Flowers
+- In The Garden
+- The Farm
+tags: 
+- Blue Thistle
+- Boutonniere
+- Dianthus
+- How To
+- Ivy
+- Succulent
+- Wedding
 ---
 
 I am constantly writing to you about buying flowers locally and arranging them yourself for special events or weddings but what about those specialty pieces like corsages and boutonnieres? Can you also make these yourself? The answer is “yes & yes” and I’m ready to show you how.

@@ -2,11 +2,18 @@
 layout: post
 author: tiffany
 title: "Sailor Baby Shower"
-assets: /assets/images2013-04-02sailor-baby-shower
+assets: /assets/images/2013-04-02-sailor-baby-shower/
 categories: 
-- baby
+- Baby
 - Crafts
 - Events
+tags: 
+- Sailor Theme
+- Baby Shower
+- Sea
+- Nautical
+- Flags
+- Paper Boat
 ---
 
 A couple weekends ago, I had the pleasure of helping out with baby shower decorations for my sweet friend Jane. Her and the hubster are expecting their first child in the next few weeks. My friend Kristin and I decided to broaden the trendy whale baby shower theme to a sailor baby shower. Instead of cutesy whales, we went with boyish flags in bold colors and homemade life preservers.

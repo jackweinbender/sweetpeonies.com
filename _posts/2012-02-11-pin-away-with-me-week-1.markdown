@@ -2,9 +2,17 @@
 layout: post
 author: tiffany
 title: "Pin Away With Me: Week #1"
-assets: /assets/images2012-02-11pin-away-with-me-week-1
+assets: /assets/images/2012-02-11-pin-away-with-me-week-1/
 categories: 
 - Pinterest
+tags: 
+- Arrangement
+- Cake
+- Flowers
+- Lilacs
+- Organization
+- Pinterest
+- Table Design
 ---
 
 [![](jekyll_uploads/2012/02/Collages1-575x425.jpg "Pinterest Week 1")](http://www.sweetpeonies.com/2012/02/pin-away-with-me-week-1/collages1/)

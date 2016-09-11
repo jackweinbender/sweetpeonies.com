@@ -2,11 +2,15 @@
 layout: post
 author: tiffany
 title: "September Daring Baker Challenge"
-assets: /assets/images2011-09-27september-daring-baker-challenge
+assets: /assets/images/2011-09-27-september-daring-baker-challenge/
 categories: 
 - Baking
 - Cooking
 - Daring Baker Challenge
+tags: 
+- Croissants
+- Daring Baker Challenge
+- September
 ---
 
 I had the privilege of participating in my first ever “Daring Baker” challenge. What is Daring Baker? Daring Baker comes from [The Daring Kitchen](http://thedaringkitchen.com) a website that challenges both bloggers and non-bloggers to a different baking or cooking challenge each month. The bloggers attempt a difficult recipe, then blog about it on the same day each month, revealing to their readers what the secret challenge was. I joined in August and was ready for my first challenge this month, and what a time to start!

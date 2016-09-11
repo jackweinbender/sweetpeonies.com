@@ -2,11 +2,19 @@
 layout: post
 author: tiffany
 title: "Jungle Safari Baby Shower"
-assets: /assets/images2012-08-03jungle-safari-baby-shower
+assets: /assets/images/2012-08-03-jungle-safari-baby-shower/
 categories: 
-- baby
+- Baby
 - Events
-- flowers
+- Flowers
+tags: 
+- Baby Shower
+- Decoration
+- Diy
+- How To
+- Jungle
+- Party
+- Safari
 ---
 
 Last weekend’s jungle party was a success! I took way too many pictures so these collages are my attempt to show you all the details. To be completely honest, the jungle theme was pretty easy to pull off–think grasses, lots of them. That’s right, I used vases and vases of grasses and hosta leaves to bring the jungle indoors.

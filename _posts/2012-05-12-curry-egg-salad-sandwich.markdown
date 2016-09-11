@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Curry Egg Salad Sandwich"
-assets: /assets/images2012-05-12curry-egg-salad-sandwich
+assets: /assets/images/2012-05-12-curry-egg-salad-sandwich/
 categories: 
 - Cooking
 - Food
+tags: 
+- Curry
+- Egg Salad
+- Food
+- Lunch
+- Recipe
 ---
 
 Curry is a seriously under appreciated seasoning. While living in Ukraine, I learned many unconventional ways to incorporate curry into everyday recipes. One of my absolute favorite curry recipes is this curry egg salad.

@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Bruschetta Baguettes"
-assets: /assets/images2011-05-10bruschetta-baguettes
+assets: /assets/images/2011-05-10-bruschetta-baguettes/
 categories: 
 - Cooking
 - Food
+tags: 
+- Bruschetta
+- How To
+- Recipe
 ---
 
 We have officially entered my favorite time of year, that time of year when there are more than 2 veggies in the store that both look and taste fresh. Maybe it’s just me but I’m pretty sure our meals taste 500 times better in the spring.

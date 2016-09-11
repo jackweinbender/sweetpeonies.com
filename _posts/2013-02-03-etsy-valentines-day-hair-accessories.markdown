@@ -2,11 +2,19 @@
 layout: post
 author: tiffany
 title: "Etsy: Valentine’s Day Hair Accessories"
-assets: /assets/images2013-02-03etsy-valentines-day-hair-accessories
+assets: /assets/images/2013-02-03-etsy-valentines-day-hair-accessories/
 categories: 
-- baby
+- Baby
 - Crafts
 - ETSY
+tags: 
+- Accessory
+- Baby
+- Bobby Pin
+- Child
+- Craft
+- Girl
+- Hair
 ---
 
 Can you believe it is already February? January was busy and cold and gone as quickly as it came. Since February is now here that means Valentine’s day is quickly approaching. I always liked Valentine’s day. I mean of course you should celebrate those you love everyday but having a national holiday dedicated to showing your loved ones how much they mean to you, how fun!

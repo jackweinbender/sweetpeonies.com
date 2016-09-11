@@ -2,10 +2,11 @@
 layout: post
 author: tiffany
 title: "Happy Valentine’s Day!"
-assets: /assets/images2013-02-14happy-valentines-day
+assets: /assets/images/2013-02-14-happy-valentines-day/
 categories: 
-- art
+- Art
 - Articles
+tags: 
 ---
 
 _“Let us always meet each other with smile, for the smile is the beginning of love.”_  

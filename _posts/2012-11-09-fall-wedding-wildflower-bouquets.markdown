@@ -2,12 +2,22 @@
 layout: post
 author: tiffany
 title: "Fall Wedding Wildflower Bouquets"
-assets: /assets/images2012-11-09fall-wedding-wildflower-bouquets
+assets: /assets/images/2012-11-09-fall-wedding-wildflower-bouquets/
 categories: 
 - Events
-- flowers
-- the farm
-- wedding
+- Flowers
+- The Farm
+- Wedding
+tags: 
+- Diy
+- Flower Arranging
+- Flowers
+- Wedding
+- Wedding
+- Flowers
+- Bouquets
+- Arrangement
+- Fall
 ---
 
 My dear friend Laura was married at the end of September. I offered to help out by arranging her wedding flowers, a task I was a little nervous about because, as we all know, flower options become a bit more limited the farther you get into the Fall season. However, Laura was incredibly easygoing about the flowers and pretty much gave me the criteria of “I just want something pretty.”

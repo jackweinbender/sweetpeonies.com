@@ -2,9 +2,14 @@
 layout: post
 author: tiffany
 title: "The Patterns of Life"
-assets: /assets/images2012-03-01the-patterns-of-life
+assets: /assets/images/2012-03-01-the-patterns-of-life/
 categories: 
 - Crafts
+- Home
+tags: 
+- Curtains
+- Patterns
+- Decorating
 - Home
 ---
 

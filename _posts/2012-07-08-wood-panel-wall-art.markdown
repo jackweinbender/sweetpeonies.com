@@ -2,11 +2,16 @@
 layout: post
 author: tiffany
 title: "Wood Panel Wall Art"
-assets: /assets/images2012-07-08wood-panel-wall-art
+assets: /assets/images/2012-07-08-wood-panel-wall-art/
 categories: 
-- art
+- Art
 - Crafts
 - Home
+tags: 
+- Distressing
+- How To
+- Wall Art
+- Wood
 ---
 
 [![wood panel wall art](jekyll_uploads/2012/07/woodpanelwallartsat-325x487.jpg "woodpanelwallartsat")](http://www.sweetpeonies.com/2012/07/wood-panel-wall-art/woodpanelwallartsat/)The last few months I have noticed a plethora of wooden-variety signs and art making their debut on the pages of Pinterest. I have struggled to come up with an idea that could turn the hundreds of extremely creative ideas into one project that I can truly call my own–my idea, my style, my brain child. Although I am one of the biggest supporters of Pinterest, I find it becomes more & more difficult to be original after seeing the incredible ideas submitted by users. Really, I just want to make exact replicas of most of the projects I see, but no, I push on and try to make each project my own. I think I did just that with this plywood art.

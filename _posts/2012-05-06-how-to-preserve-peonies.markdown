@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "How to Preserve Peonies"
-assets: /assets/images2012-05-06how-to-preserve-peonies
+assets: /assets/images/2012-05-06-how-to-preserve-peonies/
 categories: 
-- flowers
-- the farm
+- Flowers
+- The Farm
+tags: 
+- Flowers
+- Peonies
+- Preserve
 ---
 
 We all have those favorite flowers, you know the ones you wait anxiously for all year and then it seems as soon as they bloom they wilt away once more. For me, the gorgeous peony is the flower I most look forward to at the beginning of the flower season. Unfortunately, it seems these flowers are gone before I can be out on the farm enjoying their beauty.

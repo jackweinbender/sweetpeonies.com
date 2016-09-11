@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Rosette Tote"
-assets: /assets/images2011-06-28rosette-tote
+assets: /assets/images/2011-06-28-rosette-tote/
 categories: 
 - Crafts
 - Sewing
+tags: 
+- Tote
+- DIY
+- Crafts
+- Sewing
+- Rosette
 ---
 
 A gal can never have too many bags, at least that was my rationale for making this latest tote. Totes come in all shapes and sizes, patterns and colors, and of course price tags. Since the price tags are usually uncomfortably out of my price range, I choose to make my own after scrounging around in the $2 bin at the fabric store.

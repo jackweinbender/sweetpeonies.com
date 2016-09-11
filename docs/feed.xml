@@ -5,8 +5,8 @@
     <description>Simple ideas for everyday living</description>
     <link>http://www.sweetpeonies.com/</link>
     <atom:link href="http://www.sweetpeonies.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Sep 2016 16:47:24 -0500</pubDate>
-    <lastBuildDate>Sat, 10 Sep 2016 16:47:24 -0500</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2016 19:26:58 -0500</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2016 19:26:58 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -75,9 +75,9 @@
         
         <category>Baking</category>
         
-        <category>cake</category>
+        <category>Cake</category>
         
-        <category>cupcakes</category>
+        <category>Cupcakes</category>
         
         <category>Food</category>
         
@@ -141,6 +141,8 @@
         <link>http://www.sweetpeonies.com/blog/2013/08/15/the-heart-of-texas</link>
         <guid isPermaLink="true">http://www.sweetpeonies.com/blog/2013/08/15/the-heart-of-texas</guid>
         
+        <category>Austin</category>
+        
         
         <category>Austin</category>
         
@@ -198,12 +200,20 @@ salt and pepper to taste&lt;/p&gt;
         <link>http://www.sweetpeonies.com/blog/2013/07/17/mango-avocado-salsa-chili-coke-chicken</link>
         <guid isPermaLink="true">http://www.sweetpeonies.com/blog/2013/07/17/mango-avocado-salsa-chili-coke-chicken</guid>
         
+        <category>Avocado</category>
+        
+        <category>Fresh Vegetables</category>
+        
+        <category>Mango</category>
+        
+        <category>Summer Meal</category>
+        
         
         <category>Cooking</category>
         
         <category>Food</category>
         
-        <category>vegetables</category>
+        <category>Vegetables</category>
         
       </item>
     
@@ -232,6 +242,8 @@ Grind fresh mint leaves with brown sugar in separate bowl and place in shaker. P
         <pubDate>Wed, 19 Jun 2013 00:00:00 -0500</pubDate>
         <link>http://www.sweetpeonies.com/blog/2013/06/19/summer-refreshments-mojitos</link>
         <guid isPermaLink="true">http://www.sweetpeonies.com/blog/2013/06/19/summer-refreshments-mojitos</guid>
+        
+        <category>Mojitos</category>
         
         
         <category>Cocktails</category>
@@ -274,14 +286,18 @@ Grind fresh mint leaves with brown sugar in separate bowl and place in shaker. P
         <link>http://www.sweetpeonies.com/blog/2013/06/16/bold-beautiful-bridal-bouquet</link>
         <guid isPermaLink="true">http://www.sweetpeonies.com/blog/2013/06/16/bold-beautiful-bridal-bouquet</guid>
         
+        <category>Brides Bouquet</category>
         
-        <category>flowers</category>
+        <category>Wedding</category>
         
-        <category>in the garden</category>
         
-        <category>the farm</category>
+        <category>Flowers</category>
         
-        <category>wedding</category>
+        <category>In The Garden</category>
+        
+        <category>The Farm</category>
+        
+        <category>Wedding</category>
         
       </item>
     
@@ -298,13 +314,13 @@ Grind fresh mint leaves with brown sugar in separate bowl and place in shaker. P
         <guid isPermaLink="true">http://www.sweetpeonies.com/blog/2013/06/05/back-to-the-flowers</guid>
         
         
-        <category>art</category>
+        <category>Art</category>
         
-        <category>flowers</category>
+        <category>Flowers</category>
         
-        <category>in the garden</category>
+        <category>In The Garden</category>
         
-        <category>photographs</category>
+        <category>Photographs</category>
         
       </item>
     
@@ -372,6 +388,12 @@ Berry Tarts via Belonika
         <link>http://www.sweetpeonies.com/blog/2013/05/05/its-graduation-thyme</link>
         <guid isPermaLink="true">http://www.sweetpeonies.com/blog/2013/05/05/its-graduation-thyme</guid>
         
+        <category>Garden Party</category>
+        
+        <category>Graduation</category>
+        
+        <category>Party</category>
+        
         
         <category>Baking</category>
         
@@ -379,15 +401,15 @@ Berry Tarts via Belonika
         
         <category>Events</category>
         
-        <category>flowers</category>
+        <category>Flowers</category>
         
-        <category>in the garden</category>
+        <category>In The Garden</category>
         
         <category>Links</category>
         
-        <category>photographs</category>
+        <category>Photographs</category>
         
-        <category>tarts</category>
+        <category>Tarts</category>
         
       </item>
     
@@ -434,8 +456,16 @@ Berry Tarts via Belonika
         <link>http://www.sweetpeonies.com/blog/2013/04/09/diaper-burp-cloths</link>
         <guid isPermaLink="true">http://www.sweetpeonies.com/blog/2013/04/09/diaper-burp-cloths</guid>
         
+        <category>Baby Shower</category>
         
-        <category>baby</category>
+        <category>Diaper Burp Cloths</category>
+        
+        <category>Diy</category>
+        
+        <category>Gift</category>
+        
+        
+        <category>Baby</category>
         
         <category>Crafts</category>
         
@@ -469,8 +499,20 @@ Berry Tarts via Belonika
         <link>http://www.sweetpeonies.com/blog/2013/04/02/sailor-baby-shower</link>
         <guid isPermaLink="true">http://www.sweetpeonies.com/blog/2013/04/02/sailor-baby-shower</guid>
         
+        <category>Sailor Theme</category>
         
-        <category>baby</category>
+        <category>Baby Shower</category>
+        
+        <category>Sea</category>
+        
+        <category>Nautical</category>
+        
+        <category>Flags</category>
+        
+        <category>Paper Boat</category>
+        
+        
+        <category>Baby</category>
         
         <category>Crafts</category>
         

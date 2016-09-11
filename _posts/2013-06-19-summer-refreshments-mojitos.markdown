@@ -2,12 +2,14 @@
 layout: post
 author: tiffany
 title: "Summer Refreshments: Mojitos"
-assets: /assets/images2013-06-19summer-refreshments-mojitos
+assets: /assets/images/2013-06-19-summer-refreshments-mojitos/
 categories: 
 - Cocktails
 - Cooking
 - Food
 - Home
+tags: 
+- Mojitos
 ---
 
 Nothing quite compares to the thrill of that first refreshing splash of summer. The anticipation as you drive toward the lake, the squeal of delight as your toes dip playfully at the water’s edge and the rush of adrenaline as you hold your breath and dive on in. The humid summers of East Tennessee have made me appreciate more fully the therapeutic refreshment that water brings. Whether it be by poolside, lake, river, or ocean, water gives us a chance to beat the heat, both literally or figuratively. Although for many the mayhem of work continues into the summer, the endless heat eventually beckons people out of their cubicles, into their cars, and toward the water.

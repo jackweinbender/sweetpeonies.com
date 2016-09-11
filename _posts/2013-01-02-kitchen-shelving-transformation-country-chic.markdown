@@ -2,10 +2,13 @@
 layout: post
 author: tiffany
 title: "Kitchen Shelving Transformation: Country Chic"
-assets: /assets/images2013-01-02kitchen-shelving-transformation-country-chic
+assets: /assets/images/2013-01-02-kitchen-shelving-transformation-country-chic/
 categories: 
 - Crafts
 - Home
+tags: 
+- Diy
+- Home Projects
 ---
 
 [![Kitchen Shelving](jekyll_uploads/2013/01/Kitchen-Shelving-1-575x382.jpg "Kitchen Shelving (1)")](http://www.sweetpeonies.com/2013/01/kitchen-shelving-transformation-country-chic/kitchen-shelving-1/)

@@ -2,9 +2,13 @@
 layout: post
 author: tiffany
 title: "My Blue Jeans"
-assets: /assets/images2011-05-30my-blue-jeans
+assets: /assets/images/2011-05-30-my-blue-jeans/
 categories: 
 - Uncategorized
+tags: 
+- Jeans
+- T-shirts
+- Wardrobe
 ---
 
 I think David Dundas’ song “Jeans On” pretty much sums up my attitude toward blue jeans. If you have only heard the Keith Urban version please go to this [link](http://www.youtube.com/watch?v=UWdcZqG02Ls) and listen to the original before reading further.

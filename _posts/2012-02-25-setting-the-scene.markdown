@@ -2,13 +2,14 @@
 layout: post
 author: tiffany
 title: "Setting the Scene"
-assets: /assets/images2012-02-25setting-the-scene
+assets: /assets/images/2012-02-25-setting-the-scene/
 categories: 
 - Events
-- flowers
-- in the garden
-- photographs
-- the farm
+- Flowers
+- In The Garden
+- Photographs
+- The Farm
+tags: 
 ---
 
 I’ve realized over the past year that I am much better at capturing the small details of our farm workshops than I am at photographing the people involved. Perhaps it’s because the objects don’t move, or maybe it has to do with their vivid colors. Either way, I thought I would share a few of my favorite photos from last week’s cooking lesson and moss workshop.

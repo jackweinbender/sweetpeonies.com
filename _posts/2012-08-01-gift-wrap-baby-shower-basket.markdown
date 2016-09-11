@@ -2,11 +2,14 @@
 layout: post
 author: tiffany
 title: "Gift Wrap: Baby Shower Basket"
-assets: /assets/images2012-08-01gift-wrap-baby-shower-basket
+assets: /assets/images/2012-08-01-gift-wrap-baby-shower-basket/
 categories: 
-- baby
+- Baby
 - Crafts
 - Events
+- Gift Wrap
+tags: 
+- Baby Shower
 - Gift Wrap
 ---
 

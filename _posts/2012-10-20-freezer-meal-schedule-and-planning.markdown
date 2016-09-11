@@ -2,11 +2,13 @@
 layout: post
 author: tiffany
 title: "Freezer Meal Schedule & Planning: Month #3"
-assets: /assets/images2012-10-20freezer-meal-schedule-and-planning
+assets: /assets/images/2012-10-20-freezer-meal-schedule-and-planning/
 categories: 
 - Cooking
 - Food
-- freezer meals
+- Freezer Meals
+tags: 
+- Freezer Meals
 ---
 
 Hello friends. Let’s jump right into our third month of freezer meal schedules, grocery list and tools for planning (if you haven’t read [Freezer Meal Schedule & Planning: Month #2](http://www.sweetpeonies.com/2012/10/freezer-meal-schedule-and-planning-2/ ), check it out first). Our schedule for month #3 worked out to be even better than the month before. This is getting easier and easier each month because we always have a few meals leftover so I don’t have to add as many new recipes to the mix and yet we still have much variety to work with.

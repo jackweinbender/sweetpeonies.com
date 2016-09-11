@@ -2,9 +2,10 @@
 layout: post
 author: tiffany
 title: "Orange Fall Wreath"
-assets: /assets/images2011-10-11orange-fall-wreath
+assets: /assets/images/2011-10-11-orange-fall-wreath/
 categories: 
 - Crafts
+tags: 
 ---
 
 If I haven’t emphasized it enough over the past few weeks, I _really_ love Fall. I love when the weather starts changing and you can finally wear your favorite sweater. I love how much better a morning cup of coffee tastes when gazing out the window at the drizzling rain. I love little kids running through the pumpkin patch trying to find the perfect pumpkin. I love cinnamon-scented candles and pumpkin pie. I love everything about Fall!

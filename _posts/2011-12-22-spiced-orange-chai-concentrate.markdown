@@ -2,10 +2,13 @@
 layout: post
 author: tiffany
 title: "Spiced Orange Chai Concentrate"
-assets: /assets/images2011-12-22spiced-orange-chai-concentrate
+assets: /assets/images/2011-12-22-spiced-orange-chai-concentrate/
 categories: 
 - Events
 - Food
+tags: 
+- Orange Chai Concentrate
+- Christmas Drinks
 ---
 
 Merry Christmas from the West Coast! Jack and I arrived safely this weekend and have been keeping ourselves busy visiting the family and soaking in the fresh smell of Oregon air.

@@ -2,11 +2,19 @@
 layout: post
 author: tiffany
 title: "Farmstyle Wedding Corsage"
-assets: /assets/images2012-09-30farmstyle-wedding-corsage
+assets: /assets/images/2012-09-30-farmstyle-wedding-corsage/
 categories: 
 - Events
-- flowers
-- the farm
+- Flowers
+- The Farm
+tags: 
+- Boutonniere
+- Corsage
+- Farm
+- Rustic
+- Simple
+- Wildflower
+- Yellow
 ---
 
 During my two week hiatus from posting, Jack and I have been very busy baking 300 cookies, arranging wedding flowers, attending baby showers, and attempting to stay afloat with school and work. Yesterday my friend Laura was married at [Meredith Valley Farms](http://www.meredithvalleyfarm.com/). This farm is seriously so so beautiful. They have small cabins you can rent down on the river and a beautiful large cabin up on the hill for wedding guests to rent during the event weekend. And of course, the views are stunning.

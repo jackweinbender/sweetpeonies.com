@@ -2,10 +2,13 @@
 layout: post
 author: tiffany
 title: "Early Morning Flowers"
-assets: /assets/images2011-04-09early-morning-flowers
+assets: /assets/images/2011-04-09-early-morning-flowers/
 categories: 
-- flowers
-- the farm
+- Flowers
+- The Farm
+tags: 
+- Flower Arranging
+- How To
 ---
 
 [![](jekyll_uploads/2011/04/flowers-and-salad-026-575x326.jpg "flowers and salad 026")](http://www.sweetpeonies.com/2011/04/early-morning-flowers/flowers-and-salad-026/)

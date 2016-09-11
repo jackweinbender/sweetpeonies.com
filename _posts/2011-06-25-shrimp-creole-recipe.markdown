@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "Shrimp Creole Recipe"
-assets: /assets/images2011-06-25shrimp-creole-recipe
+assets: /assets/images/2011-06-25-shrimp-creole-recipe/
 categories: 
 - Cooking
 - Food
+tags: 
+- Shrimp
+- Creole
+- Recipe
+- Cooking
+- Seafood
 ---
 
 Have you ever had that feeling of dread when you reach into the dark recesses of your cabinets only to find an empty space in place of that vital ingredient necessary for your meal? I had such a feeling a few weeks ago. Unfortunately, I did not discover the lacking ingredients (yes, multiple) until I was fully emerged in cooking the meal, already at the point of no return.

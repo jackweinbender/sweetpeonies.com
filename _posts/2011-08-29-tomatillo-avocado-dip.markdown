@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Tomatillo Avocado Dip"
-assets: /assets/images2011-08-29tomatillo-avocado-dip
+assets: /assets/images/2011-08-29-tomatillo-avocado-dip/
 categories: 
 - Cooking
 - Food
+tags: 
+- Avocado
+- Dip
+- Tomatillo
 ---
 
 If you haven’t figured it out yet, there is no method to my kitchen madness. I sort through buckets of recipes and after “getting the gist” of the ingredients needed, I just go at it. Sometimes I substitute ingredients because I’m curious, and other times simply because I don’t have an ingredient. Really, it is only through great pains and a lot of luck that I am able to produce something resembling a recipe for you each week.

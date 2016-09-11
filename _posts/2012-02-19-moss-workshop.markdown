@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Moss Workshop"
-assets: /assets/images2012-02-19moss-workshop
+assets: /assets/images/2012-02-19-moss-workshop/
 categories: 
-- flowers
-- the farm
+- Flowers
+- The Farm
+tags: 
+- Lemon Truffles
+- Moss Garden
+- Pussy Willow
 ---
 
 This Saturday was our first workshop of the season at [Aunt Willies Wildflowers](http://www.auntwillieswildflowers.com). You may wonder what type of flowers are growing in Tennessee in the middle of February? Well, with the exception of a few flowers that have sprouted in the hoop house and early-bird daffodils, we have lots and lots of moss.

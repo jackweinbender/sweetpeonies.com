@@ -2,11 +2,16 @@
 layout: post
 author: tiffany
 title: "Mango Avocado Salsa & Chili-Coke Chicken"
-assets: /assets/images2013-07-17mango-avocado-salsa-chili-coke-chicken
+assets: /assets/images/2013-07-17-mango-avocado-salsa-chili-coke-chicken/
 categories: 
 - Cooking
 - Food
-- vegetables
+- Vegetables
+tags: 
+- Avocado
+- Fresh Vegetables
+- Mango
+- Summer Meal
 ---
 
 Austin Countdown: T-17 days. That’s right, in just two weeks the hubby and I will be packing the wagons and heading to the big land of Texas where Jack will work hard on his PhD and I will lounge lazily by the pool, work on my tan and eat Fro-Yo. Have I mentioned I am still unemployed? Hopefully that will change soon after we get settled and then off to work for me as well. Now, on to more tasty topics…With most of our home packed into boxes, there have been few projects for me to share with you, that is, until this week.

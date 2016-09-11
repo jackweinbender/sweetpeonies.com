@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Frosted Banana Bars"
-assets: /assets/images2011-06-11banana-bar-recipe
+assets: /assets/images/2011-06-11-banana-bar-recipe/
 categories: 
 - Baking
 - Food
+tags: 
+- Baking
+- Banana
+- Bars
+- Rum
 ---
 
 These banana bars were absolutely delightful. I added a hint of rum to the batter and topped them off with rum frosting. Best of all, they are actually not too terrible of a calorie killer, sitting at about 130 calories per bar.

@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Decorating: one step at a time"
-assets: /assets/images2012-02-04decorating-one-step-at-a-time
+assets: /assets/images/2012-02-04-decorating-one-step-at-a-time/
 categories: 
-- art
+- Art
 - Crafts
+tags: 
+- Painting
+- Bedroom
+- Decor
 ---
 
 [![](jekyll_uploads/2012/02/DSC_0083.NEF_-325x488.jpg "DSC_0083.NEF")](http://www.sweetpeonies.com/2012/02/decorating-one-step-at-a-time/dsc_0083-nef/)I realized recently that I hadn’t been posting anything remotely crafty, just food. Perhaps that gives you a glimpse into my study habits–attempt to study, get distracted by baking, then munch on the sugary goodness all night long.

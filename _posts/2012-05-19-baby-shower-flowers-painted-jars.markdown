@@ -2,10 +2,20 @@
 layout: post
 author: tiffany
 title: "Baby Shower Flowers + Painted Jars"
-assets: /assets/images2012-05-19baby-shower-flowers-painted-jars
+assets: /assets/images/2012-05-19-baby-shower-flowers-painted-jars/
 categories: 
-- flowers
-- the farm
+- Flowers
+- The Farm
+tags: 
+- Baptisia
+- Blue
+- Bouquet
+- Dianthus
+- Floral
+- Flowers
+- Pink
+- Ranunculus
+- Stock
 ---
 
 _Occasion:_ Baby Shower with Unknown Baby Gender

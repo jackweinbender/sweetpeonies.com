@@ -2,11 +2,18 @@
 layout: post
 author: KiraN
 title: "Guest Post: Photographing Details"
-assets: /assets/images2012-02-26guest-post-photographing-details
+assets: /assets/images/2012-02-26-guest-post-photographing-details/
 categories: 
 - Blogs
 - Guest Post
-- photographs
+- Photographs
+tags: 
+- Crafts
+- Details
+- Flowers
+- Kira Noble Photography
+- Photography
+- Weddings
 ---
 
 _To continue our weekend focus on those pretty little details, here is another incredible guest post from Kira of [Kira Noble Photography](http://www.kiranoblephotographyblog.com/). This article teaches the amateur photographer how to turn those decent pictures into works of art. Be sure to head over to Kira’s website and show her some love._

@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Chocolate Covered Peanut Butter Balls"
-assets: /assets/images2011-05-16chocolate-covered-peanut-butter-balls
+assets: /assets/images/2011-05-16-chocolate-covered-peanut-butter-balls/
 categories: 
 - Baking
 - Food
+tags: 
+- Chocolate Covered
+- How To
+- Peanut Butter Balls
+- Recipe
 ---
 
 One of my favorite guilty pleasures growing up included a tub of peanut butter, a jar of jelly, and a spoon.  Yes, I realize this is ridiculously unhealthy but how can you resist? Luckily, my peanut butter cravings have diminished enough for my husband to not be completely disgusted by me, however these tiny treats take me back to my love affair with peanut butter.

@@ -2,9 +2,11 @@
 layout: post
 author: tiffany
 title: "house becomes home: bench + lanterns"
-assets: /assets/images2011-06-23house-becomes-home-bench-lanterns
+assets: /assets/images/2011-06-23-house-becomes-home-bench-lanterns/
 categories: 
 - Crafts
+tags: 
+- Decor
 ---
 
 It’s the little seemingly insignificant details that make a house a home. In these posts, I will be highlighting some on the little details in our home that make it stand out as unique, creative, and simply put, ours.

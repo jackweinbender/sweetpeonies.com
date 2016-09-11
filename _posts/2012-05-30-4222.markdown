@@ -2,9 +2,13 @@
 layout: post
 author: tiffany
 title: "Blue Gift Bag + Doily Accent"
-assets: /assets/images2012-05-304222
+assets: /assets/images/2012-05-30-4222/
 categories: 
 - Crafts
+- Gift Wrap
+tags: 
+- Blue Bag
+- Blue Bow
 - Gift Wrap
 ---
 

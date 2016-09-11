@@ -2,12 +2,18 @@
 layout: post
 author: tiffany
 title: "Dolls & Daylight"
-assets: /assets/images2013-02-27dolls-daylight
+assets: /assets/images/2013-02-27-dolls-daylight/
 categories: 
-- baby
+- Baby
 - Blogs
 - Crafts
 - ETSY
+- Sewing
+tags: 
+- Diy
+- Doll
+- Handmade
+- Kids
 - Sewing
 ---
 

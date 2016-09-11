@@ -2,11 +2,13 @@
 layout: post
 author: tiffany
 title: "How to Prepare Freezer Meals"
-assets: /assets/images2012-01-08how-to-prepare-freezer-meals
+assets: /assets/images/2012-01-08-how-to-prepare-freezer-meals/
 categories: 
 - Cooking
 - Food
-- freezer meals
+- Freezer Meals
+tags: 
+- Freezer Meals
 ---
 
 Our kitchen has seen much progress in the past 4 years as Jack and I develop new ways of cooking that keep us healthy, provide warm homemade meals, and save time. This past year we started following some of the Biggest Loser protein menu guidelines to help define our eating styles. We both attend classes and run back and forth between 2 other jobs–this means our eating time is limited and usually involves us scarfing down whatever is quick and easy. Not to mention the hassle of coming home and attempting to prepare dinner. By the time 6 o’clock rolls around, the last thing we want to do is thaw and prep food. The Biggest Loser protein packed menus are fabulous ([sample menu](http://www.prevention.com/biggest-loser-biggest-loser-meal-plan-0)), because as the name suggests, they are packed with protein. What does that mean for us? We can eat less throughout the day and still remain full and energized enough to exercise those valuable brain cells. [![](jekyll_uploads/2012/01/DSC_0037.NEF_-325x205.jpg "DSC_0037.NEF")](http://www.sweetpeonies.com/2012/01/how-to-prepare-freezer-meals/dsc_0037-nef/)

@@ -2,10 +2,14 @@
 layout: post
 author: tiffany
 title: "Momma Tammy’s Spaghetti Sauce"
-assets: /assets/images2011-04-16momma-tammys-spaghetti-sauce
+assets: /assets/images/2011-04-16-momma-tammys-spaghetti-sauce/
 categories: 
 - Cooking
 - Food
+tags: 
+- How To
+- Recipe
+- Spaghetti Sauce
 ---
 
 My mom (momma Tammy) makes the best spaghetti sauce of all time. Even with the recipe, somehow mine is never quite as good as hers. Personally, I think the key to this yummy sauce is using ground Italian sausage instead of hamburger meat. The sausage is SO much more flavorful.

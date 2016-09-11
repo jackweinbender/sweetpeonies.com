@@ -2,10 +2,11 @@
 layout: post
 author: tiffany
 title: "Christmas Gift Wrap"
-assets: /assets/images2012-12-17christmas-gift-wrap
+assets: /assets/images/2012-12-17-christmas-gift-wrap/
 categories: 
 - Crafts
 - Gift Wrap
+tags: 
 ---
 
 It’s beginning to look a lot like Christmas in our home and that means it’s time for one my favorite tasks-wrapping presents. Yay!

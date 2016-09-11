@@ -2,9 +2,13 @@
 layout: post
 author: tiffany
 title: "End of Summer + Start of School"
-assets: /assets/images2011-08-26end-of-summerstart-of-school
+assets: /assets/images/2011-08-26-end-of-summerstart-of-school/
 categories: 
 - Articles
+tags: 
+- Back To School
+- Life
+- Nursing
 ---
 
 For those of you who know me well, you know how, shall we say, “unmotivated” I am when it comes to school. It’s not that I don’t like to learn, I just like to “do” more. I am a practical application kind of gal.

@@ -2,12 +2,17 @@
 layout: post
 author: tiffany
 title: "Christmas Party + A Few Tips"
-assets: /assets/images2012-01-06christmas-party-a-few-tips
+assets: /assets/images/2012-01-06-christmas-party-a-few-tips/
 categories: 
-- bruschetta
+- Bruschetta
 - Christmas Party
 - Cooking
 - Events
+tags: 
+- Christmas Party
+- Holiday
+- How To
+- Tips
 ---
 
 [![](jekyll_uploads/2012/01/Christmas2011-215-e1325875811866-325x489.jpg "Christmas2011-215")](http://www.sweetpeonies.com/2012/01/christmas-party-a-few-tips/christmas2011-215/) What holiday homecoming is complete without dressing up at least once for a Christmas party? Many individuals are put off by throwing their own party because, let’s face it, organizing an event on top of work and family can at times seem daunting. As soon as Jack and I knew we would be flying home for Christmas this year, I begged my mom to let me throw a little shindig at their house. These are a few of the set-up pictures.

@@ -2,9 +2,13 @@
 layout: post
 author: tiffany
 title: "Pink Yarn & Raffia Gift Wrap"
-assets: /assets/images2012-07-11pink-yarn-raffia-gift-wrap
+assets: /assets/images/2012-07-11-pink-yarn-raffia-gift-wrap/
 categories: 
 - Crafts
+- Gift Wrap
+tags: 
+- Crafts
+- DIY Pink
 - Gift Wrap
 ---
 

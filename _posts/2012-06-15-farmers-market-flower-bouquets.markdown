@@ -2,10 +2,15 @@
 layout: post
 author: tiffany
 title: "Farmer’s Market Flower Bouquets"
-assets: /assets/images2012-06-15farmers-market-flower-bouquets
+assets: /assets/images/2012-06-15-farmers-market-flower-bouquets/
 categories: 
-- flowers
-- the farm
+- Flowers
+- The Farm
+tags: 
+- Bouquet
+- Cut Flowers
+- Farmer's Market
+- Flowers
 ---
 
 Today was another glorious Friday out at [Aunt Willie’s Wildflowers](http://www.auntwillieswildflowers.com). With no weddings on the books this weekend, we were able to devote ourselves fully to the task of arranging bucket upon bucket of market bouquets for the Kingsport Farmer’s Market. Linda’s customers will be SO happy.

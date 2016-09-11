@@ -2,10 +2,17 @@
 layout: post
 author: tiffany
 title: "Ribbon Braid Bouquet DIY"
-assets: /assets/images2012-07-24ribbon-braid-bouquet-diy
+assets: /assets/images/2012-07-24-ribbon-braid-bouquet-diy/
 categories: 
 - Crafts
-- flowers
+- Flowers
+tags: 
+- Bouquet
+- How To
+- Braid Ribbon
+- Braided Bouquet
+- Flowers
+- Wedding
 ---
 
 Wedding bouquets are by far my favorite flower piece to arrange. There are multiple factors to consider when planning a bridal bouquet. Many brides put all their creativity and thought into the flower type and completely forget to adorn the bouquet handle. Adding a bit of glam to the bouquet handle is simple and can make a huge impact. One of my favorite handle wrap techniques is the _classic braid_ adorned with pearl corsage pins. This is the braid technique I used on last week’s [bridal brooch bouquet](http://www.sweetpeonies.com/2012/07/silver-gold-brooch-bouquet/)? This simple classic braid is simple, elegant and fail-safe.

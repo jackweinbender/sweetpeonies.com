@@ -2,10 +2,16 @@
 layout: post
 author: tiffany
 title: "7 Links Project"
-assets: /assets/images2011-08-217-links-project
+assets: /assets/images/2011-08-21-7-links-project/
 categories: 
 - Events
 - Food
+tags: 
+- 7 Links
+- Bloggers
+- Food
+- Friends
+- Project
 ---
 
 There’s a fun little project moving through the blogging community which asks individuals to weed through their posts and rank them. Rank my posts!?! After choosing the best post for each of the 7 categories, the individual then tags more talented bloggers to continue the thread of “7 Links.”

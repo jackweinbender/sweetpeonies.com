@@ -2,9 +2,14 @@
 layout: post
 author: tiffany
 title: "Mosaic Patio Table"
-assets: /assets/images2011-06-15mosaic-patio-table
+assets: /assets/images/2011-06-15-mosaic-patio-table/
 categories: 
 - Crafts
+tags: 
+- Patio Table
+- Mosaic
+- Project
+- Glass
 ---
 
 While I desperately miss my Oregon home, family, and friends, there are many aspects of Tennessee life that I absolutely love.

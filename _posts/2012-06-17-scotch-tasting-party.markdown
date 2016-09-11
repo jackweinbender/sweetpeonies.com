@@ -2,9 +2,15 @@
 layout: post
 author: tiffany
 title: "Scotch Tasting Party"
-assets: /assets/images2012-06-17scotch-tasting-party
+assets: /assets/images/2012-06-17-scotch-tasting-party/
 categories: 
 - Events
+tags: 
+- 25th
+- Birthday
+- Entertaining
+- Scotch Tasting Party
+- Table Setting
 ---
 
 One of our good friends had his quarter century birthday this past week. To celebrate, his wife (Kristin) threw a small Scotch tasting party. Her decorations were so clever I had to snap a few photos to share with you.

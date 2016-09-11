@@ -2,9 +2,10 @@
 layout: post
 author: tiffany
 title: "Honoring Alma Rose"
-assets: /assets/images2011-03-15honoring-alma-rose
+assets: /assets/images/2011-03-15-honoring-alma-rose/
 categories: 
 - Articles
+tags: 
 ---
 
 _This isn’t one of my typical postings but I figured it fit the “arts” category of this blog because of the musical interest. I wrote this article for Milligan and our local paper to announce a conference session being given by my violin professor, Dr. Kellie Brown. I thought this story was pretty neat and definitely worth sharing. Enjoy._
