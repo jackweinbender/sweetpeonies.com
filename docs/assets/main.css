@@ -139,9 +139,7 @@ a img {
     -o-transition: 0.25s;
     transition: 0.25s
 }
-a img:hover {
-    opacity: 0.9
-}
+
 * {
     box-sizing: border-box
 }
@@ -653,11 +651,7 @@ object {
     -webkit-box-shadow: 0px 1px 2px #a3a3a3;
     -moz-box-shadow: 0px 1px 2px #a3a3a3;
     box-shadow: 0px 1px 2px #a3a3a3;
-    opacity: 0.75;
     margin-bottom: 1em
-}
-.widget:hover {
-    opacity: 1
 }
 .widget:nth-of-type(4n+1) {
     background-color: #fff;
@@ -697,10 +691,6 @@ object {
     padding: 7px 0 0 0;
     border-top: solid 1px black;
     border-bottom: double 1px black;
-    opacity: 0.5
-}
-.social:hover {
-    opacity: 1
 }
 .social span {
     float: right
