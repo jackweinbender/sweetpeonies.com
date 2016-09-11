@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Men’s Shirt Refashion + Farmer’s Market"
 assets: /assets/images/2012-08-11-mens-shirt-refashion-farmers-market/
 categories: 

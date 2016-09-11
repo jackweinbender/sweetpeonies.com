@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Chocolate Covered Peanut Butter Balls"
 assets: /assets/images/2011-05-16-chocolate-covered-peanut-butter-balls/
 categories: 

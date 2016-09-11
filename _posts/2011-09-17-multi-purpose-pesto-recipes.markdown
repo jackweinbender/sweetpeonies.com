@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Multi-purpose pesto recipes"
 assets: /assets/images/2011-09-17-multi-purpose-pesto-recipes/
 categories: 

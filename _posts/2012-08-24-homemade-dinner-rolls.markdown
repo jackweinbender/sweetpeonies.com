@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Homemade Dinner Rolls"
 assets: /assets/images/2012-08-24-homemade-dinner-rolls/
 categories: 

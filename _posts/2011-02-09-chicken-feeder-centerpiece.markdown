@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Chicken Feeder Centerpiece"
 assets: /assets/images/2011-02-09-chicken-feeder-centerpiece/
 categories: 

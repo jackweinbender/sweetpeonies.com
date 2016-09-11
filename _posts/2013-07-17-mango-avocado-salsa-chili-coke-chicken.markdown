@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Mango Avocado Salsa & Chili-Coke Chicken"
 assets: /assets/images/2013-07-17-mango-avocado-salsa-chili-coke-chicken/
 categories: 

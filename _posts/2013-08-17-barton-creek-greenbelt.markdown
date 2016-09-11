@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Barton Creek Greenbelt"
 assets: /assets/images/2013-08-17-barton-creek-greenbelt/
 categories: 

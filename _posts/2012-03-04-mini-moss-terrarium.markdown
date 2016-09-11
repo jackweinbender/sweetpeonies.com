@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Mini Moss Terrarium"
 assets: /assets/images/2012-03-04-mini-moss-terrarium/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Baby Skirt"
 assets: /assets/images/2011-03-07-baby-skirt/
 categories: 

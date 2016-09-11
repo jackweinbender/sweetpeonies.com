@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Edible Books Festival"
 assets: /assets/images/2011-04-01-edible-books-festival/
 categories: 

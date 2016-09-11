@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Orange Fall Wreath"
 assets: /assets/images/2011-10-11-orange-fall-wreath/
 categories: 

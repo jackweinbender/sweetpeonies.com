@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Jungle Gift Wrap"
 assets: /assets/images/2012-06-27-jungle-gift-wrap/
 categories: 

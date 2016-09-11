@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Amaretto-Coconut Pound Cake"
 assets: /assets/images/2011-04-18-amaretto-coconut-pound-cake/
 categories: 

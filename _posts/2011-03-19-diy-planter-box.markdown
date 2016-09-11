@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "DIY Planter Box"
 assets: /assets/images/2011-03-19-diy-planter-box/
 categories: 

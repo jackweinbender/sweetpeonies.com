@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Farm Days–They’re a Comin’"
 assets: /assets/images/2012-01-19-farm-days-theyre-a-comin/
 categories: 

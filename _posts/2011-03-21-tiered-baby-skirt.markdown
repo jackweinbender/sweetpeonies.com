@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Tiered Baby Skirt"
 assets: /assets/images/2011-03-21-tiered-baby-skirt/
 categories: 

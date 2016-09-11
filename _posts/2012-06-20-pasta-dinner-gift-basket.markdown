@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Pasta Dinner Gift Basket"
 assets: /assets/images/2012-06-20-pasta-dinner-gift-basket/
 categories: 

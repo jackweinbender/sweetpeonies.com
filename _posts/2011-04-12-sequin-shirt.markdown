@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Sequin Shirt"
 assets: /assets/images/2011-04-12-sequin-shirt/
 categories: 

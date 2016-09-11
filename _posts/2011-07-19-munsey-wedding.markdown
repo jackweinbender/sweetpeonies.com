@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Munsey Wedding"
 assets: /assets/images/2011-07-19-munsey-wedding/
 categories: 

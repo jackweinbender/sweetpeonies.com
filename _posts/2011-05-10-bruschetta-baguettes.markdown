@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Bruschetta Baguettes"
 assets: /assets/images/2011-05-10-bruschetta-baguettes/
 categories: 

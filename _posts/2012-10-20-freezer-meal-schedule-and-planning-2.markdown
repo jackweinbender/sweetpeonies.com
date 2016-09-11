@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Freezer Meal Schedule & Planning: Month #2"
 assets: /assets/images/2012-10-20-freezer-meal-schedule-and-planning-2/
 categories: 

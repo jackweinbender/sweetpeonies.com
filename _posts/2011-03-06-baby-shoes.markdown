@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Baby Shoes"
 assets: /assets/images/2011-03-06-baby-shoes/
 categories: 

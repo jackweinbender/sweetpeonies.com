@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "A Whistling Girl and a Crowing Hen"
 assets: /assets/images/2012-04-15-a-whistling-girl-and-a-crowing-hen/
 categories: 

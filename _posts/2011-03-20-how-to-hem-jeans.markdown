@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "How to Hem Jeans"
 assets: /assets/images/2011-03-20-how-to-hem-jeans/
 categories: 

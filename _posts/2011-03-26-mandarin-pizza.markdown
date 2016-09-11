@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Mandarin Pizza"
 assets: /assets/images/2011-03-26-mandarin-pizza/
 categories: 

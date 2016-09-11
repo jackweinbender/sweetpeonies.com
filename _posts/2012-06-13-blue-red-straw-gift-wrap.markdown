@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Gift Wrap: Blue & Red Straws"
 assets: /assets/images/2012-06-13-blue-red-straw-gift-wrap/
 categories: 

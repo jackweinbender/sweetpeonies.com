@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Ribbon Braid Bouquet DIY"
 assets: /assets/images/2012-07-24-ribbon-braid-bouquet-diy/
 categories: 

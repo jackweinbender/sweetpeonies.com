@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Bridal Brooch Bouquet Sneak Peek"
 assets: /assets/images/2012-07-13-bridal-brooch-bouquet-sneak-peek/
 categories: 

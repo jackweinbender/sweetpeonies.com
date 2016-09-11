@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "7 Links Project"
 assets: /assets/images/2011-08-21-7-links-project/
 categories: 

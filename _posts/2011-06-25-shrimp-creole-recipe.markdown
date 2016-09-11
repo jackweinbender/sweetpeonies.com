@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Shrimp Creole Recipe"
 assets: /assets/images/2011-06-25-shrimp-creole-recipe/
 categories: 

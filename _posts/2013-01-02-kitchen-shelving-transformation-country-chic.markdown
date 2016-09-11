@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Kitchen Shelving Transformation: Country Chic"
 assets: /assets/images/2013-01-02-kitchen-shelving-transformation-country-chic/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Early Morning Flowers"
 assets: /assets/images/2011-04-09-early-morning-flowers/
 categories: 

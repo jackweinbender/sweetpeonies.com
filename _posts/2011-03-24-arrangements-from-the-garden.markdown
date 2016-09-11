@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Arrangements from the Garden"
 assets: /assets/images/2011-03-24-arrangements-from-the-garden/
 categories: 

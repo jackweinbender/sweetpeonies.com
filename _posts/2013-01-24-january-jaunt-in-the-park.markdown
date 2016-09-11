@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "January Jaunt in the Park"
 assets: /assets/images/2013-01-24-january-jaunt-in-the-park/
 categories: 

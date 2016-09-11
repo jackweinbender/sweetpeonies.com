@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "November + Family"
 assets: /assets/images/2011-11-08-november-thanks/
 categories: 

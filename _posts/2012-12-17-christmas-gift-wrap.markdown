@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Christmas Gift Wrap"
 assets: /assets/images/2012-12-17-christmas-gift-wrap/
 categories: 

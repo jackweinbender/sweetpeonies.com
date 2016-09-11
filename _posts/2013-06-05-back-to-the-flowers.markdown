@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Back to the Flowers"
 assets: /assets/images/2013-06-05-back-to-the-flowers/
 categories: 

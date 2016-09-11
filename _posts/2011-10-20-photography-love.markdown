@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Photography + Love"
 assets: /assets/images/2011-10-20-photography-love/
 categories: 

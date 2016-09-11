@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Grilled Vegetables"
 assets: /assets/images/2011-04-25-grilled-vegetables/
 categories: 

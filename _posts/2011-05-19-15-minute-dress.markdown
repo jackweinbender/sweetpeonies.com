@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "15 Minute Dress"
 assets: /assets/images/2011-05-19-15-minute-dress/
 categories: 

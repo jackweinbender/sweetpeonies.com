@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "No Bake Bites"
 assets: /assets/images/2012-01-21-no-bake-bites/
 categories: 

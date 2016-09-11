@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Bold & Bright Wedding Arrangement"
 assets: /assets/images/2012-06-04-bold-bright-wedding-arrangement/
 categories: 

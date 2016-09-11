@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Fall Wedding Wildflower Bouquets"
 assets: /assets/images/2012-11-09-fall-wedding-wildflower-bouquets/
 categories: 

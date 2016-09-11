@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Sycamore Shoals: Nature Photography"
 assets: /assets/images/2012-03-20-sycamore-shoals-nature-photography/
 categories: 

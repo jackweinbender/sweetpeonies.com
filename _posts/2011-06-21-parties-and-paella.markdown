@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Parties and Paella"
 assets: /assets/images/2011-06-21-parties-and-paella/
 categories: 

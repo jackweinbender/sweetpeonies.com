@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Bold & Beautiful Bridal Bouquet"
 assets: /assets/images/2013-06-16-bold-beautiful-bridal-bouquet/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "The Best Banana Bread Recipe"
 assets: /assets/images/2011-08-11-the-best-banana-bread-recipe/
 categories: 

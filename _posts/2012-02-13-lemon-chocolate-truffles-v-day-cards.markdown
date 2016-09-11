@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Lemon Chocolate Truffles"
 assets: /assets/images/2012-02-13-lemon-chocolate-truffles-v-day-cards/
 categories: 

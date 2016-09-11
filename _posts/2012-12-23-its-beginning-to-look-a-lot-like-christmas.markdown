@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "It’s Beginning to Look a Lot Like Christmas"
 assets: /assets/images/2012-12-23-its-beginning-to-look-a-lot-like-christmas/
 categories: 

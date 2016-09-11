@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "How to Preserve Peonies"
 assets: /assets/images/2012-05-06-how-to-preserve-peonies/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Sunday Morning Inspiration"
 assets: /assets/images/2012-07-15-sunday-morning-inspiration/
 categories: 

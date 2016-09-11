@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Watermelon Turtle + Edible Books"
 assets: /assets/images/2012-03-29-watermelon-turtle-edible-books/
 categories: 

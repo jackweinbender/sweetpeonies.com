@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Brussel Sprouts & Toasted Pecans"
 assets: /assets/images/2012-12-29-brussel-sprouts-toasted-pecans/
 categories: 

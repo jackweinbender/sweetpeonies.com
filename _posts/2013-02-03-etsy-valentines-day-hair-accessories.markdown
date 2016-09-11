@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Etsy: Valentine’s Day Hair Accessories"
 assets: /assets/images/2013-02-03-etsy-valentines-day-hair-accessories/
 categories: 

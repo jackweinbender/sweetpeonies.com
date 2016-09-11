@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Diaper Bag"
 assets: /assets/images/2011-02-07-diaper-bag/
 categories: 

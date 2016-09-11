@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Caribbean Shrimp Cups"
 assets: /assets/images/2011-03-16-caribbean-shrimp-cups/
 categories: 

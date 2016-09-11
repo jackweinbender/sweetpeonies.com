@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Easter + Golf"
 assets: /assets/images/2012-04-10-easter-golf/
 categories: 

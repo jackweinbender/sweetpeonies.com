@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Bird Nest Workshop"
 assets: /assets/images/2012-03-31-bird-nest-workshop/
 categories: 

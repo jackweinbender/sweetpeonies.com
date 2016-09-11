@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Lemon-Berry Pie Jars"
 assets: /assets/images/2012-03-13-lemon-berry-pie-jars/
 categories: 

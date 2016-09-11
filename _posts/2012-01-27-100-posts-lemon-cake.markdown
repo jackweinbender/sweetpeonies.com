@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "100 Posts + Lemon Cake"
 assets: /assets/images/2012-01-27-100-posts-lemon-cake/
 categories: 

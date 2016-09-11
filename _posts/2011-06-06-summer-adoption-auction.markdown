@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Summer Adoption Auction"
 assets: /assets/images/2011-06-06-summer-adoption-auction/
 categories: 

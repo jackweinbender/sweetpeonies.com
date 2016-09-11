@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "5 Beautiful Blogs"
 assets: /assets/images/2013-02-08-5-beautiful-blogs/
 categories: 

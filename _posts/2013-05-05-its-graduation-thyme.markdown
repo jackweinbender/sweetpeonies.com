@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "It’s Graduation Thyme!"
 assets: /assets/images/2013-05-05-its-graduation-thyme/
 categories: 

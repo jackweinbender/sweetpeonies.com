@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Knitted Blanket Update"
 assets: /assets/images/2011-03-29-knitted-blanket-update/
 categories: 

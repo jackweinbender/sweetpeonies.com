@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Memorial Day + Decorative Paper Flags"
 assets: /assets/images/2012-05-27-memorial-day-decorative-paper-flags/
 categories: 

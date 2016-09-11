@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Why Can’t All Bugs Be Butterflies?"
 assets: /assets/images/2011-08-07-why-cant-all-bugs-be-butterflies/
 categories: 

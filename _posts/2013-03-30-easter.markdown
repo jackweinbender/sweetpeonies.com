@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Easter Bells"
 assets: /assets/images/2013-03-30-easter/
 categories: 

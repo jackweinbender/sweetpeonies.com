@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Baltimore + Friends"
 assets: /assets/images/2012-08-09-baltimore-friends/
 categories: 

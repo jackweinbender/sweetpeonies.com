@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Sailor Baby Shower"
 assets: /assets/images/2013-04-02-sailor-baby-shower/
 categories: 

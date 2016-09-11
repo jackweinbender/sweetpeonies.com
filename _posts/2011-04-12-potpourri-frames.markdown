@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Potpourri Frames"
 assets: /assets/images/2011-04-12-potpourri-frames/
 categories: 

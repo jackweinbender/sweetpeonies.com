@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "My Blue Jeans"
 assets: /assets/images/2011-05-30-my-blue-jeans/
 categories: 

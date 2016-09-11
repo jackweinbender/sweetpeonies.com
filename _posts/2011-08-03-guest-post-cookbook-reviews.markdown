@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Guest Post: Cookbook Reviews"
 assets: /assets/images/2011-08-03-guest-post-cookbook-reviews/
 categories: 

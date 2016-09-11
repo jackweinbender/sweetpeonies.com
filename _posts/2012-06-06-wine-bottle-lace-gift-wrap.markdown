@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Wine Bottle + Lace Gift Wrap"
 assets: /assets/images/2012-06-06-wine-bottle-lace-gift-wrap/
 categories: 

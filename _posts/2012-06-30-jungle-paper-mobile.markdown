@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Jungle Paper Mobile"
 assets: /assets/images/2012-06-30-jungle-paper-mobile/
 categories: 

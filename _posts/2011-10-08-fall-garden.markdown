@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Fall Garden"
 assets: /assets/images/2011-10-08-fall-garden/
 categories: 

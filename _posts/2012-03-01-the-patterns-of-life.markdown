@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "The Patterns of Life"
 assets: /assets/images/2012-03-01-the-patterns-of-life/
 categories: 

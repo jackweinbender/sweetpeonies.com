@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Scotch Tasting Party"
 assets: /assets/images/2012-06-17-scotch-tasting-party/
 categories: 

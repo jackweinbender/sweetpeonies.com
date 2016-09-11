@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Raspberry Drop Chocolate Cupcakes"
 assets: /assets/images/2013-08-21-raspberry-drop-chocolate-cupcakes/
 categories: 

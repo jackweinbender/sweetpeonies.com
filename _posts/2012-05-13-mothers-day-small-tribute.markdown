@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Mother’s Day + Small Tribute"
 assets: /assets/images/2012-05-13-mothers-day-small-tribute/
 categories: 

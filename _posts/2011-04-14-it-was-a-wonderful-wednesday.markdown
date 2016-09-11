@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "It was a Wonderful Wednesday"
 assets: /assets/images/2011-04-14-it-was-a-wonderful-wednesday/
 categories: 

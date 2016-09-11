@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Hot Chocolate Cupcakes + Cinnamon Frosting"
 assets: /assets/images/2011-11-19-hot-chocolate-cupcakes-cinnamon-frosting/
 categories: 

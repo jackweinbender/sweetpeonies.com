@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Blog Love: Oh Happy Day!"
 assets: /assets/images/2011-11-11-blog-love-oh-happy-day/
 categories: 

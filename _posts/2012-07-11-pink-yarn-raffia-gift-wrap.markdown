@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Pink Yarn & Raffia Gift Wrap"
 assets: /assets/images/2012-07-11-pink-yarn-raffia-gift-wrap/
 categories: 

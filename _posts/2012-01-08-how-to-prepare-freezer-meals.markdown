@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "How to Prepare Freezer Meals"
 assets: /assets/images/2012-01-08-how-to-prepare-freezer-meals/
 categories: 

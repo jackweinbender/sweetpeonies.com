@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Dolls & Daylight"
 assets: /assets/images/2013-02-27-dolls-daylight/
 categories: 

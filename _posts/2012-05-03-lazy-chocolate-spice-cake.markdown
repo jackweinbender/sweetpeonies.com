@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Lazy Chocolate Spice Cake"
 assets: /assets/images/2012-05-03-lazy-chocolate-spice-cake/
 categories: 

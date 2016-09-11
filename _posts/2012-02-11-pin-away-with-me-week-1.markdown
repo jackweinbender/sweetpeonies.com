@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Pin Away With Me: Week #1"
 assets: /assets/images/2012-02-11-pin-away-with-me-week-1/
 categories: 

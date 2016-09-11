@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "A Quilt for Mom"
 assets: /assets/images/2011-02-10-a-quilt-for-mom/
 categories: 

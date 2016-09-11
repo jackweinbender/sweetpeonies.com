@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Mini Blueberry Pies"
 assets: /assets/images/2011-07-02-mini-blueberry-pies/
 categories: 

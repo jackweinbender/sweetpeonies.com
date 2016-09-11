@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Silver & Gold Brooch Bouquet"
 assets: /assets/images/2012-07-19-silver-gold-brooch-bouquet/
 categories: 

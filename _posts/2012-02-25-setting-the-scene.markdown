@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Setting the Scene"
 assets: /assets/images/2012-02-25-setting-the-scene/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Pink & Burgundy Altar Arrangement"
 assets: /assets/images/2012-07-28-pink-burgundy-altar-arrangement/
 categories: 

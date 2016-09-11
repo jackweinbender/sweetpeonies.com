@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "End of Summer + Start of School"
 assets: /assets/images/2011-08-26-end-of-summerstart-of-school/
 categories: 

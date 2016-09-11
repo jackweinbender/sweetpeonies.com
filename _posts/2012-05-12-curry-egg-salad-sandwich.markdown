@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Curry Egg Salad Sandwich"
 assets: /assets/images/2012-05-12-curry-egg-salad-sandwich/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Saturday + Baked Eggs + Market"
 assets: /assets/images/2011-07-30-saturday-baked-eggs-market/
 categories: 

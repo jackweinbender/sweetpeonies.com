@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Sycamore Shoals in the Summer"
 assets: /assets/images/2012-06-21-sycamore-shoals-in-the-summer/
 categories: 

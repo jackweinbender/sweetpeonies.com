@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Spring on the Farm"
 assets: /assets/images/2011-03-08-spring-on-the-farm/
 categories: 

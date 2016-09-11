@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "My First Catering Gig"
 assets: /assets/images/2011-05-14-my-first-catering-gig/
 categories: 

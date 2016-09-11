@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Change + Acceptance"
 assets: /assets/images/2012-03-30-change-acceptance/
 categories: 

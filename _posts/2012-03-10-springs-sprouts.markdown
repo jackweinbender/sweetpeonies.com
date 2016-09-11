@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Spring’s Sprouts"
 assets: /assets/images/2012-03-10-springs-sprouts/
 categories: 

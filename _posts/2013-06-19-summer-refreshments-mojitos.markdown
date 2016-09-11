@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Summer Refreshments: Mojitos"
 assets: /assets/images/2013-06-19-summer-refreshments-mojitos/
 categories: 

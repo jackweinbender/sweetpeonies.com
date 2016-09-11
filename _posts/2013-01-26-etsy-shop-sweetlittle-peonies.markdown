@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "ETSY Shop: Sweet Little Peonies"
 assets: /assets/images/2013-01-26-etsy-shop-sweetlittle-peonies/
 categories: 

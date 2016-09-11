@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Welcome to our new site!"
 assets: /assets/images/2012-06-24-welcome-to-our-new-site/
 categories: 

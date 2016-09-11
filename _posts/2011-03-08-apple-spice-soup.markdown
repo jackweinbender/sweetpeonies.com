@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Apple Spice Soup"
 assets: /assets/images/2011-03-08-apple-spice-soup/
 categories: 

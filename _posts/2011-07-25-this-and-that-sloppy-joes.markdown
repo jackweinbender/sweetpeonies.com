@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "This and That Sloppy Joes"
 assets: /assets/images/2011-07-25-this-and-that-sloppy-joes/
 categories: 

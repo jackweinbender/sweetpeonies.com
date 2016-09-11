@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Flower Pumpkin Workshop"
 assets: /assets/images/2011-09-29-flower-pumpkin-workshop/
 categories: 

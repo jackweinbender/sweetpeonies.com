@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Knitted Stripe Baby Blanket"
 assets: /assets/images/2012-09-04-knitted-stripe-baby-blanket/
 categories: 

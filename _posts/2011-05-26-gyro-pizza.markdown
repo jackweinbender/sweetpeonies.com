@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Gyro Pizza"
 assets: /assets/images/2011-05-26-gyro-pizza/
 categories: 

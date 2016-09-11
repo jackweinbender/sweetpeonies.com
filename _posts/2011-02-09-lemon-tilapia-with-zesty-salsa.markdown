@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Lemon Tilapia with Zesty Salsa"
 assets: /assets/images/2011-02-09-lemon-tilapia-with-zesty-salsa/
 categories: 

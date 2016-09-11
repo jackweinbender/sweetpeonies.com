@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "White Wedding Bridal Luncheon"
 assets: /assets/images/2011-06-11-white-wedding-bridal-luncheon/
 categories: 

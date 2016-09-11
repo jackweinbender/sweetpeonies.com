@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Love actually is all around"
 assets: /assets/images/2011-12-07-love-actually-is-all-around/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "The Heart of Texas"
 assets: /assets/images/2013-08-15-the-heart-of-texas/
 categories: 

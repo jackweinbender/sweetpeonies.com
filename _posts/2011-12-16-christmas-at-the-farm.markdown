@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Christmas at the Farm"
 assets: /assets/images/2011-12-16-christmas-at-the-farm/
 categories: 

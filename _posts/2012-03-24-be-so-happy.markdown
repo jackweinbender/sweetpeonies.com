@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Be So Happy"
 assets: /assets/images/2012-03-24-be-so-happy/
 categories: 

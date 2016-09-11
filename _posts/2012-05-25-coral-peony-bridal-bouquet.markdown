@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Coral Peony Bridal Bouquet"
 assets: /assets/images/2012-05-25-coral-peony-bridal-bouquet/
 categories: 

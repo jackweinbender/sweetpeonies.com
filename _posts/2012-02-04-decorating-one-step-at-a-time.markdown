@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Decorating: one step at a time"
 assets: /assets/images/2012-02-04-decorating-one-step-at-a-time/
 categories: 

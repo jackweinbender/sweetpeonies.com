@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Honoring Alma Rose"
 assets: /assets/images/2011-03-15-honoring-alma-rose/
 categories: 

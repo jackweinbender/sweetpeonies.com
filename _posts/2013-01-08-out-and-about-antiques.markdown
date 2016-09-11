@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Out & About: Antiques"
 assets: /assets/images/2013-01-08-out-and-about-antiques/
 categories: 

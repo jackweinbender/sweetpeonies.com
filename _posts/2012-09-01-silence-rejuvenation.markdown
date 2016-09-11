@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Silence + Rejuvenation"
 assets: /assets/images/2012-09-01-silence-rejuvenation/
 categories: 

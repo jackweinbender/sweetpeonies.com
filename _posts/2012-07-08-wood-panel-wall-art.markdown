@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Wood Panel Wall Art"
 assets: /assets/images/2012-07-08-wood-panel-wall-art/
 categories: 

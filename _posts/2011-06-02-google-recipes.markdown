@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Google Recipes"
 assets: /assets/images/2011-06-02-google-recipes/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "October Daring Baker’s Challenge: Povitica"
 assets: /assets/images/2011-10-27-october-daring-bakers-challenge-povitica/
 categories: 

@@ -12,7 +12,7 @@ const post = (data) => {
       return url[5]
     },
     date : $('time.entry-date').attr('datetime'),
-    author : $('a[rel=author]').text(),
+    author : sententceCase( $('a[rel=author]').text() ),
     content: function(){
       return toMarkdown($('.entry-content').html())
     },
@@ -35,7 +35,7 @@ const post = (data) => {
             tag.push(sententceCase(t[0].trim()))
             break;
           default:
-            console.log(t)
+            //console.log(t)
             t.forEach( el => {
               if(el.trim().length !== 0){
                 tag.push( sententceCase(el.trim()) )

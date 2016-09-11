@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Lower Your Grocery Bill + Monthly Shopping (Part 1)"
 assets: /assets/images/2012-09-05-lower-your-grocery-bill-monthly-shopping-part-1/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Greek Turkey Burgers"
 assets: /assets/images/2011-05-21-greek-turkey-burgers/
 categories: 

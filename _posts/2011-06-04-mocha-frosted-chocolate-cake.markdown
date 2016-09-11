@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Mocha Frosted Chocolate Cake"
 assets: /assets/images/2011-06-04-mocha-frosted-chocolate-cake/
 categories: 

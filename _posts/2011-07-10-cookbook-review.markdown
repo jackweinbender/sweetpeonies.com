@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Cookbook Review"
 assets: /assets/images/2011-07-10-cookbook-review/
 categories: 

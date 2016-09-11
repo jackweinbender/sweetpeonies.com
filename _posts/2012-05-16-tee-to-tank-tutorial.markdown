@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Tee to Tank Tutorial"
 assets: /assets/images/2012-05-16-tee-to-tank-tutorial/
 categories: 

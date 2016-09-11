@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Knitted Blanket for Avynlea"
 assets: /assets/images/2011-02-24-knitted-blanket-for-avynlea/
 categories: 

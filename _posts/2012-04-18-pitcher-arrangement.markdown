@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Pitcher Arrangement"
 assets: /assets/images/2012-04-18-pitcher-arrangement/
 categories: 

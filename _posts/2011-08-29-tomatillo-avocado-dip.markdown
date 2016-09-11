@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Tomatillo Avocado Dip"
 assets: /assets/images/2011-08-29-tomatillo-avocado-dip/
 categories: 

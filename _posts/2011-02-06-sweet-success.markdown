@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Sweet Success"
 assets: /assets/images/2011-02-06-sweet-success/
 categories: 

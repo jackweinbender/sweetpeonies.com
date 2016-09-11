@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Apples and Globe Graduation Party"
 assets: /assets/images/2011-08-18-apples-and-globe-graduation-party/
 categories: 

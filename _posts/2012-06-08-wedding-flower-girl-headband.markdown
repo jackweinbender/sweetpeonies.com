@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Wedding + Flower Girl Headband"
 assets: /assets/images/2012-06-08-wedding-flower-girl-headband/
 categories: 

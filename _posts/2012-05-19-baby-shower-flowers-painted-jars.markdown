@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Baby Shower Flowers + Painted Jars"
 assets: /assets/images/2012-05-19-baby-shower-flowers-painted-jars/
 categories: 

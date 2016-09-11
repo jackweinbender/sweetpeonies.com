@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Picture of the Day: Farm Life"
 assets: /assets/images/2011-11-01-picture-of-the-day-farm-life/
 categories: 

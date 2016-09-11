@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Quick and Simple Meatballs"
 assets: /assets/images/2011-03-22-quick-and-simple-meatballs/
 categories: 

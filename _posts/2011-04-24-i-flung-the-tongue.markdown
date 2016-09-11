@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "I Flung the Tongue"
 assets: /assets/images/2011-04-24-i-flung-the-tongue/
 categories: 

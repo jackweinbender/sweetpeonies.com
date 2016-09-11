@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Purple & Orange Wedding"
 assets: /assets/images/2012-08-17-purple-orange-wedding/
 categories: 

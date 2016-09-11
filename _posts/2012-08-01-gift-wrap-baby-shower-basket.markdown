@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Gift Wrap: Baby Shower Basket"
 assets: /assets/images/2012-08-01-gift-wrap-baby-shower-basket/
 categories: 

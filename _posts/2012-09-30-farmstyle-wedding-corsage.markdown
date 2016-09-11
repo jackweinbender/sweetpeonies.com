@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Farmstyle Wedding Corsage"
 assets: /assets/images/2012-09-30-farmstyle-wedding-corsage/
 categories: 

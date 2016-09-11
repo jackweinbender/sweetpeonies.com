@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Sweet Pink Bouquet + Herbs"
 assets: /assets/images/2012-06-22-sweet-pink-bouquet-herbs/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "September Daring Baker Challenge"
 assets: /assets/images/2011-09-27-september-daring-baker-challenge/
 categories: 

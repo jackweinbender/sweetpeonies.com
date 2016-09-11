@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Frosted Banana Bars"
 assets: /assets/images/2011-06-11-banana-bar-recipe/
 categories: 

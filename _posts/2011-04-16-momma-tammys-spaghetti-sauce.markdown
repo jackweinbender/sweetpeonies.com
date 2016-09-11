@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Momma Tammy’s Spaghetti Sauce"
 assets: /assets/images/2011-04-16-momma-tammys-spaghetti-sauce/
 categories: 

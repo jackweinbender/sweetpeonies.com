@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "10-Minute Pillowcase Tutorial"
 assets: /assets/images/2011-09-03-10-minute-pillowcase-tutorial/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Spray Paint Patio Lights"
 assets: /assets/images/2011-07-05-spray-paint-patio-lights/
 categories: 

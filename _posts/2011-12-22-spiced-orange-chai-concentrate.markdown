@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Spiced Orange Chai Concentrate"
 assets: /assets/images/2011-12-22-spiced-orange-chai-concentrate/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "house becomes home: bench + lanterns"
 assets: /assets/images/2011-06-23-house-becomes-home-bench-lanterns/
 categories: 

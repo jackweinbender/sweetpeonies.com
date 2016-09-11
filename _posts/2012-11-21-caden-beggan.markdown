@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Caden Beggan"
 assets: /assets/images/2012-11-21-caden-beggan/
 categories: 

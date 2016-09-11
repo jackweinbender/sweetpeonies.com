@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Vegetable Shrimp Soup"
 assets: /assets/images/2011-05-01-vegetable-shrimp-soup/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Farmer’s Market Flower Bouquets"
 assets: /assets/images/2012-06-15-farmers-market-flower-bouquets/
 categories: 

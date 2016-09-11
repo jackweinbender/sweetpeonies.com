@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Succulent Boutonniere How To"
 assets: /assets/images/2012-07-06-boutonniere-how-to/
 categories: 

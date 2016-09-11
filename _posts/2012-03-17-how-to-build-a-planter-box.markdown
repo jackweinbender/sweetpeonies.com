@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "How to Build a Planter Box"
 assets: /assets/images/2012-03-17-how-to-build-a-planter-box/
 categories: 

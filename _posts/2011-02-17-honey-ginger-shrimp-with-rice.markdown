@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Honey Ginger Shrimp with Rice"
 assets: /assets/images/2011-02-17-honey-ginger-shrimp-with-rice/
 categories: 

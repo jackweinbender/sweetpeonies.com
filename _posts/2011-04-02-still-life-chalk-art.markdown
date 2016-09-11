@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Still-Life Chalk Art"
 assets: /assets/images/2011-04-02-still-life-chalk-art/
 categories: 

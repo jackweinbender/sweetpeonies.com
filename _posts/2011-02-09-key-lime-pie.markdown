@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Key Lime Pie"
 assets: /assets/images/2011-02-09-key-lime-pie/
 categories: 

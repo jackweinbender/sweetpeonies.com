@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Blue Gift Bag + Doily Accent"
 assets: /assets/images/2012-05-30-4222/
 categories: 

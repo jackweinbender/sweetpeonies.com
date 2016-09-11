@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Almond Vanilla Pound Cake"
 assets: /assets/images/2011-08-14-almond-vanilla-pound-cake/
 categories: 

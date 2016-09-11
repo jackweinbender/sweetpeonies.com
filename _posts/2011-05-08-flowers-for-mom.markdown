@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Flowers for Mom"
 assets: /assets/images/2011-05-08-flowers-for-mom/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Jungle Safari Baby Shower"
 assets: /assets/images/2012-08-03-jungle-safari-baby-shower/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Wheat Chocolate Chip Cookie Recipe"
 assets: /assets/images/2012-03-23-wheat-chocolate-chip-cookie-recipe/
 categories: 

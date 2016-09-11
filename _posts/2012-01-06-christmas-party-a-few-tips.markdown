@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Christmas Party + A Few Tips"
 assets: /assets/images/2012-01-06-christmas-party-a-few-tips/
 categories: 

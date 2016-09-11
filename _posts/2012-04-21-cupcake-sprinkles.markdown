@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Cupcake Sprinkles"
 assets: /assets/images/2012-04-21-cupcake-sprinkles/
 categories: 

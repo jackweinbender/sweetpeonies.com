@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Granola Trail Mix"
 assets: /assets/images/2012-03-07-granola-trail-mix/
 categories: 

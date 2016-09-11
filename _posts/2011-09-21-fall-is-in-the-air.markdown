@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Fall is in the Air"
 assets: /assets/images/2011-09-21-fall-is-in-the-air/
 categories: 

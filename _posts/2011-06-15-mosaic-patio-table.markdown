@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Mosaic Patio Table"
 assets: /assets/images/2011-06-15-mosaic-patio-table/
 categories: 

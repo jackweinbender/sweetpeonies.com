@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "My Oregon Love Affair"
 assets: /assets/images/2011-12-01-oregonlove/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Rosette Tote"
 assets: /assets/images/2011-06-28-rosette-tote/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Crumble Top Zucchini Bread"
 assets: /assets/images/2011-07-15-crumble-top-zucchini-bread/
 categories: 

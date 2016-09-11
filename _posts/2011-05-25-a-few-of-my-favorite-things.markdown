@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "A Few of My Favorite Things"
 assets: /assets/images/2011-05-25-a-few-of-my-favorite-things/
 categories: 

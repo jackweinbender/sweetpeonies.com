@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Crockpot Chili Recipe"
 assets: /assets/images/2012-01-13-crockpot-chili-recipe/
 categories: 

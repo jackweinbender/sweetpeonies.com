@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Moss Workshop"
 assets: /assets/images/2012-02-19-moss-workshop/
 categories: 

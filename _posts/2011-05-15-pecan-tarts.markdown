@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Pecan Tarts"
 assets: /assets/images/2011-05-15-pecan-tarts/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Rummy Shortbread Cookies"
 assets: /assets/images/2011-02-13-rummy-shortbread-cookies/
 categories: 

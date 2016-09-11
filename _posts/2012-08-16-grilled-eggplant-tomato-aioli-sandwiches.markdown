@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Grilled Eggplant, Tomato & Aioli Sandwiches"
 assets: /assets/images/2012-08-16-grilled-eggplant-tomato-aioli-sandwiches/
 categories: 

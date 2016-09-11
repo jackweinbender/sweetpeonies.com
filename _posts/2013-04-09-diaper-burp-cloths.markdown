@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Diaper Burp Cloths DIY"
 assets: /assets/images/2013-04-09-diaper-burp-cloths/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Thankful: The Husband"
 assets: /assets/images/2011-11-17-thankful-the-husband/
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Table Setting: Mercury Glass + Blue + Yellow"
 assets: /assets/images/2012-11-23-table-setting-mercury-glass-blue-yellow/
 categories: 

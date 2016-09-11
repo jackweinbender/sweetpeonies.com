@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Why I Craft"
 assets: /assets/images/2011-04-07-why-i-craft/
 categories: 

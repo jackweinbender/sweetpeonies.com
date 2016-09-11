@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Purple Gift Wrap"
 assets: /assets/images/2012-05-23-purple-gift-wrap/
 categories: 

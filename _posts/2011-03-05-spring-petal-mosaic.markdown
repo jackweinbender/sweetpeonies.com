@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Spring Petal Mosaic"
 assets: /assets/images/2011-03-05-spring-petal-mosaic/
 categories: 

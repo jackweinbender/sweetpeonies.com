@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Happy Valentine’s Day!"
 assets: /assets/images/2013-02-14-happy-valentines-day/
 categories: 

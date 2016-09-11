@@ -1,6 +1,6 @@
 ---
 layout: post
-author: tiffany
+author: Tiffany
 title: "Baby’s StoryTime Quilt"
 assets: /assets/images/2012-10-02-babys-storytime-quilt/
 categories: 
