@@ -28,11 +28,12 @@ jekyll-archives:
     - year
     - month
     - categories
+    - tags
   permalinks:
     year: '/blog/:year/'
     month: '/blog/:year/:month/'
-    tag: '/tag/:name/'
     categories: '/category/:name/'
+    tag: '/tag/:name/'
 
 paginate: 3
 paginate_path: "/blog/page/:num"

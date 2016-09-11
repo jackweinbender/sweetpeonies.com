@@ -1,14 +1,14 @@
 <footer class="entry-meta">
   <span class="cat-links">Posted in
     {% for category in page.categories %}
-    <a href="/blog/categories/{{ category }}" title="View all posts in {{ category }}" rel="category tag">{{ category }}</a>,
+    <a href="/category/{{ category | downcase }}" title="View all posts in {{ category }}" rel="category tag">{{ category }}</a>,
     {% endfor %}
   </span>
   {% if page.tags == blank %}
   <span class="sep"> | </span>
   <span class="tag-links">Tagged
     {% for tag in page.tags %}
-      <a href="/blog/tags/{{ tag }}" rel="tag">{{ tag }}</a>
+      <a href="/tag/{{ tag | downcase }}" rel="tag">{{ tag }}</a>
     {% endfor %}
   </span>
   {% endif %}
