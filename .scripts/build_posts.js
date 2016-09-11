@@ -93,7 +93,7 @@ var posts = filepaths
   })
 
 posts.forEach( p => {
-  fs.writeFile('_posts/' + p.filename(), p.printObject() )
+  fs.writeFile('_drafts/' + p.filename(), p.printObject() )
 })
 
 function sententceCase( str ){
