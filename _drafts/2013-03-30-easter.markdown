@@ -5,7 +5,6 @@ title: "Easter Bells"
 assets: /assets/images/2013-03-30-easter/
 categories: 
 - Flowers
-tags: 
 ---
 
 _I think of the garden after the rain; And hope to my heart comes singing,  

@@ -5,7 +5,6 @@ title: "Fall Garden"
 assets: /assets/images/2011-10-08-fall-garden/
 categories: 
 - Flowers
-tags: 
 ---
 
 [![](jekyll_uploads/2011/10/fall-porch-012-575x381.jpg "fall porch 012")](http://www.sweetpeonies.com/2011/10/fall-garden/fall-porch-012/)

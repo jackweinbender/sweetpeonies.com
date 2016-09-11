@@ -6,7 +6,6 @@ assets: /assets/images/2012-01-19-farm-days-theyre-a-comin/
 categories: 
 - Flowers
 - In The Garden
-tags: 
 ---
 
 [![](jekyll_uploads/2012/01/Market-Flowers-028-Copy-575x381.jpg "Market Flowers")](http://www.sweetpeonies.com/2012/01/farm-days-theyre-a-comin/market-flowers-028-copy/)

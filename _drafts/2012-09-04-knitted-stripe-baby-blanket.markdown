@@ -5,7 +5,6 @@ title: "Knitted Stripe Baby Blanket"
 assets: /assets/images/2012-09-04-knitted-stripe-baby-blanket/
 categories: 
 - Uncategorized
-tags: 
 ---
 
 I recently finished this simple, sweet baby blanket for my friend [Rachel](http://www.sweetpeonies.com/2011/10/2494/) as she and her husband prepare for the arrival of their second child, a tiny baby girl (name unknown). Rachel’s first child, Obadiah, is so incredibly adorable and sweet and has the cutest cheeks ever so I can’t imagine how precious her little girl will be as well.

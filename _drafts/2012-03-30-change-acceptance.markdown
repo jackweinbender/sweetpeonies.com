@@ -5,7 +5,6 @@ title: "Change + Acceptance"
 assets: /assets/images/2012-03-30-change-acceptance/
 categories: 
 - Articles
-tags: 
 ---
 
 It never ceases to amaze me how much I don’t know about life. Every day brings new challenges, new joys and new adventures. Some days it feels as though this rocky rollercoaster that we are on just won’t stop. And the funny thing is, when it does stop, or at least pauses for a moment, that’s the moment when I feel most excited for the next big drop.

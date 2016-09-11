@@ -7,7 +7,6 @@ categories:
 - Flowers
 - In The Garden
 - The Farm
-tags: 
 ---
 
 Working on a cut-flower farm is not the idealized job I once thought it to be. No, I used to think cutting flowers all day would be simple, relaxing, and inspiring. Although at times cutting can be all of these things, more often working on the farm can be summed up as painful, dirty, and sweaty. Let me assure you, the cut-flower life is not one to be entered into lightly. Although aspects are very rewarding it is a difficult job–and this from someone who only works on the farm once a week.

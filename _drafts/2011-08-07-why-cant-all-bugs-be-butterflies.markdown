@@ -5,7 +5,6 @@ title: "Why Can’t All Bugs Be Butterflies?"
 assets: /assets/images/2011-08-07-why-cant-all-bugs-be-butterflies/
 categories: 
 - Flowers
-tags: 
 ---
 
 Thursday on the farm was the annual “Teapots & Tablecloths” workshop with 15 lovely ladies who were bold enough to brave the humidity. Unfortunately, I left my memory card in Linda’s computer, so the new farm photos will have to wait until after the weekend to be posted.

@@ -5,7 +5,6 @@ title: "My Oregon Love Affair"
 assets: /assets/images/2011-12-01-oregonlove/
 categories: 
 - Art
-tags: 
 ---
 
 We have officially reached December and I am SO extremely excited. Really, I can’t put into words how great it feels to finally be in December. Why does December mean so much to me this year? I get to go home! It feels so great to finally write those words. It has been 2 years since Jack and I have made it home to Oregon. It seems silly but I am so excited just to see my hometown and drive the same old streets.

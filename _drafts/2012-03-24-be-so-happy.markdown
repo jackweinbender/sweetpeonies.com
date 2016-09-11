@@ -6,7 +6,6 @@ assets: /assets/images/2012-03-24-be-so-happy/
 categories: 
 - Art
 - Blogs
-tags: 
 ---
 
 <div id="attachment_3656" style="width: 365px" class="wp-caption alignleft">[![](jekyll_uploads/2012/03/Be-Happy.png "Be Happy")](http://www.sweetpeonies.com/2012/03/be-so-happy/be-happy/)

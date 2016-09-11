@@ -5,7 +5,6 @@ title: "Summer Adoption Auction"
 assets: /assets/images/2011-06-06-summer-adoption-auction/
 categories: 
 - Uncategorized
-tags: 
 ---
 
 Those of you who know me personally, know that my experiences living in Ukraine have made me a passionate supporter of international adoption. After working in Ukrainian orphanages for 9 months, I firmly believe adoption is somewhere in the Weinbender future.

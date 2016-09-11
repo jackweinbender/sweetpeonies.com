@@ -7,7 +7,6 @@ categories:
 - Baking
 - Cake
 - Food
-tags: 
 ---
 
 One of our regular farm ladies, Jane Mullins, has kindly shared her sour cream pound cake at two farm workshops now. One taste is all I needed, I’ve been raving about the cake for months. It is very moist with subtle hints of almond. Seriously, SO amazing!

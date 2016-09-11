@@ -5,7 +5,6 @@ title: "Caden Beggan"
 assets: /assets/images/2012-11-21-caden-beggan/
 categories: 
 - Articles
-tags: 
 ---
 
 A pause from the usual to reflect and remember:

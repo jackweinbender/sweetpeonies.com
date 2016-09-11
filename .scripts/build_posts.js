@@ -56,15 +56,19 @@ const post = (data) => {
       return this.fullDate() + "-" + this.slug() + ".markdown"
     },
     printObject: function(){
-      return "---" + "\n" +
-        "layout: post\n" +
-        "author: " + this.author + "\n" +
-        "title: \"" + this.title + "\"\n" +
-        "assets: /assets/images/" + this.fullDate() + "-" + this.slug() + "/\n" +
-        "categories: " + this.categories() + "\n" +
-        "tags: " + this.tags() + "\n" +
-        "---\n\n" +
-        this.content()
+      let fm = "---" + "\n"
+        fm = fm + "layout: post\n"
+        fm = fm + "author: " + this.author + "\n"
+        fm = fm + "title: \"" + this.title + "\"\n"
+        fm = fm + "assets: /assets/images/" + this.fullDate() + "-" + this.slug() + "/\n"
+
+        if (this.categories() != ''){fm = fm + "categories: " + this.categories() + "\n"}
+        if (this.tags() != ''){fm = fm + "tags: " + this.tags() + "\n"}
+
+        fm = fm + "---\n\n"
+        fm = fm + this.content()
+
+        return fm
 
     }
   }

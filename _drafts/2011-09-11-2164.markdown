@@ -5,7 +5,6 @@ title: "An Altogether Terrible Blog Post"
 assets: /assets/images/2011-09-11-2164/
 categories: 
 - Baking
-tags: 
 ---
 
 This was the day. The day that I said, it can wait no more. This was the day I thought, “I _must_ write an absolutely outstanding blog post for my readers today.”

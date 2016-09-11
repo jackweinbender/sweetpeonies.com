@@ -7,7 +7,6 @@ categories:
 - Articles
 - Food
 - Photographs
-tags: 
 ---
 
 Sorry for the brief hiatus from posting, I hope you all have had a chance to check out last week’s [Jungle Safari Baby Shower](http://www.sweetpeonies.com/2012/08/jungle-safari-baby-shower/). The hubby and I decided to take a last-minute trip up to Baltimore this weekend to visit our good friends Adam and Leslie. We kind of love them. With classes starting back in one week, we figured it was one of those “now-or-never” moments.

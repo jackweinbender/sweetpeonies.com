@@ -6,7 +6,6 @@ assets: /assets/images/2011-08-11-the-best-banana-bread-recipe/
 categories: 
 - Baking
 - Food
-tags: 
 ---
 
 Last night Jack and I went grocery shopping. Or as many here refer to it, we went to “the grocery.” We are attempting to find a weekly meal plan for our upcoming semester. The goal is to prep healthy meals for two weeks at a time in order to eliminate the decision-making process from our busy schedules. Let’s face it, after a long day of work and school, the last thing we want to think about is cooking before we start in on homework. Last night, I prepped food for three hours. Sometimes being an adult is fun. Yes, you heard me…it was fun.

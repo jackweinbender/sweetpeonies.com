@@ -5,7 +5,6 @@ title: "It was a Wonderful Wednesday"
 assets: /assets/images/2011-04-14-it-was-a-wonderful-wednesday/
 categories: 
 - Photographs
-tags: 
 ---
 
 Milligan College holds an annual day off of classes every spring called “Wonderful Wednesday.” In the past, this event has also come to be called, “Terrific Tuesday” or “Marvelous Monday”. A welcomed reprieve from studying for finals, Wonderful Wednesday is always a surprise for both students and faculty.

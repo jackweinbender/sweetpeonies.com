@@ -8,7 +8,6 @@ categories:
 - Cake
 - Cupcakes
 - Food
-tags:
 ---
 
 Last weekend the hubby and I had our first outing with friends in Austin. After two weeks of unpacking, rearranging, exploring, getting stuck in traffic, filling out paperwork, and getting stuck in more traffic we were invited to dinner by a fellow PhD student from Jack’s program. Our task: dessert.

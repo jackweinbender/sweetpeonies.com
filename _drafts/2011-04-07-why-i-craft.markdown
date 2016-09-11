@@ -5,7 +5,6 @@ title: "Why I Craft"
 assets: /assets/images/2011-04-07-why-i-craft/
 categories: 
 - Articles
-tags: 
 ---
 
 After an interview with the local newspaper, The Elizabethton Star, I was forced to answer questions I had previously never articulated. For instance… Why did I start this blog? What are my goals for the blog? What are my goals in life? How do I manage to fit crafting and cooking into my busy schedule? How do crafts tie into my nursing goals?

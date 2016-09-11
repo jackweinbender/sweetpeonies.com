@@ -8,7 +8,6 @@ categories:
 - Flowers
 - In The Garden
 - Photographs
-tags: 
 ---
 
 [![Flower Farm](jekyll_uploads/2013/05/Me-575x805.jpg)](http://www.sweetpeonies.com/2013/06/back-to-the-flowers/me-2/)

@@ -6,7 +6,6 @@ assets: /assets/images/2011-07-25-this-and-that-sloppy-joes/
 categories: 
 - Cooking
 - Food
-tags: 
 ---
 
 There are two dishes that I tend to crave without warning, macaroni and cheese and sloppy joes. Luckily, both of these dishes can be quickly thrown together, even with the measly ingredients found in the dark barren wasteland I commonly refer to as my fridge.

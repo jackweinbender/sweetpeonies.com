@@ -5,7 +5,6 @@ title: "Barton Creek Greenbelt"
 assets: /assets/images/2013-08-17-barton-creek-greenbelt/
 categories:
 - Austin
-tags:
 ---
 
 With only a couple of weeks until classes start again for the husband, we are determined to make the most of the beautiful weather and our remaining free time. Sadly, hiding out in the comforts of an air conditioned home in Texas in the middle of the summer sounds and feels all too enticing. Today however, we laced up our hiking boots and set out in search of new adventures.
