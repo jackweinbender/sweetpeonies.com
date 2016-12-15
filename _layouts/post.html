@@ -11,13 +11,27 @@
   <body class="single single-post single-format-standard">
     <div id="page" class="hfeed site">
 
-      {% include mast_head.html %}
+      {%
+        include mast_head.html
+          baseurl=site.baseurl
+          description=site.description
+          title=site.title
+      %}
 
       <div id="main">
         <div id="primary" class="site-content">
           <div id="content" role="main">
 
-            {% include article.html %}
+            {%
+              include article.html
+                title=page.title
+                content=page.content
+                date=page.date
+                author=page.author
+                url=page.url
+                categories=page.categories
+                tags=page.tags
+              %}
 
             <nav role="navigation" id="nav-below" class="site-navigation post-navigation">
               {% if page.previous %}

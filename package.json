@@ -1,6 +1,7 @@
 {
   "scripts": {
     "build": "bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve",
     "posts": "node .scripts/build_posts.js",
     "clean": "rm -rf _posts/*"
   },

@@ -11,7 +11,12 @@
   <body class="single single-post single-format-standard">
     <div id="page" class="hfeed site">
 
-      {% include mast_head.html %}
+      {%
+        include mast_head.html
+          baseurl=site.baseurl
+          description=site.description
+          title=site.title
+      %}
 
       <div id="main">
         <div id="primary" class="site-content">

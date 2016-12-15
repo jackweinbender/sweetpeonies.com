@@ -4,10 +4,10 @@
       <div class="menu-secondary-container">
         <ul id="menu-secondary" class="menu">
           <li id="menu-item-4436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home">
-            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ include.baseurl }}/">Home</a>
           </li>
           <li id="menu-item-4437" class="menu-item menu-item-type-post_type menu-item-object-page">
-            <a href="{{ site.baseurl }}/about/">About</a>
+            <a href="{{ include.baseurl }}/about/">About</a>
           </li>
         </ul>
       </div>
@@ -16,9 +16,9 @@
       <img src="/assets/images/sweetpeonies.png" />
     </div>
     <h1 class="site-title">
-      <a href="/" title="{{ site.title }}" rel="home">{{site.title}}</a>
+      <a href="/" title="{{ include.title }}" rel="home">{{include.title}}</a>
     </h1>
-    <h2 class="site-description">{{site.description}}</h2>
+    <h2 class="site-description">{{include.description}}</h2>
   </hgroup>
   <nav role="navigation" class="site-navigation main-navigation">
     <h1 class="assistive-text">Menu</h1>
@@ -29,19 +29,19 @@
       <ul id="menu-primary" class="menu">
         <li id="menu-item-179"
           class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-179">
-          <a href="{{ site.baseurl }}/category/food/">Food</a>
+          <a href="{{ include.baseurl }}/category/food/">Food</a>
         </li>
         <li id="menu-item-137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-137">
-          <a href="{{ site.baseurl }}/category/crafts/">Crafts</a>
+          <a href="{{ include.baseurl }}/category/crafts/">Crafts</a>
         </li>
         <li id="menu-item-138" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138">
-          <a href="{{ site.baseurl }}/category/flowers/">Flowers</a>
+          <a href="{{ include.baseurl }}/category/flowers/">Flowers</a>
         </li>
         <li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246">
-          <a href="{{ site.baseurl }}/farm-photos/">Photos</a>
+          <a href="{{ include.baseurl }}/farm-photos/">Photos</a>
         </li>
         <li id="menu-item-4439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4439">
-          <a href="{{ site.baseurl }}/category/gift-wrap/">Gift Wrap</a>
+          <a href="{{ include.baseurl }}/category/gift-wrap/">Gift Wrap</a>
         </li>
       </ul>
     </div>

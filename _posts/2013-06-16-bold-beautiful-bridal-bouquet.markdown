@@ -10,9 +10,7 @@ categories:
 - Wedding
 tags:
 - Brides Bouquet
-- Wedding
----
-
+b
 For some individuals, creativity seems to pour out with ease, turning everything they touch into creativity gold. For others, coming up with something creative is a more labored, time consuming process requiring hours of research scouring blogs and reading articles, testing recipes, practicing new techniques, ruining much anticipated projects, writing and rewriting, taking photo after photo after photo… Can you guess which one of these categories I fall into?
 
 That’s right. I’m a “creativity is a painstaking process” personality and I wouldn’t trade it for the world. Because I have tried and failed at so many projects, I have branched out and discovered the world of creativity is ginormous! From childhood to now I’ve dabbled in drawing, beading, photography, scrapbooking, painting, cooking, sewing, baking, woodworking, furniture restoration, interior design, blogging, violin, photography again, flowers, flowers and more flowers. With so many different avenues to explore, how could I possibly settle on just one? If I _could_ choose just one creative venture, perhaps I would find myself excelling, but until that day, the randomness of my projects will continue.

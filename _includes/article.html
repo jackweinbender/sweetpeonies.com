@@ -1,15 +1,19 @@
 <article class="post type-post status-publish format-standard hentry">
   <header class="entry-header">
-    <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <h1 class="entry-title"><a href="{{ include.url }}">{{ include.title }}</a></h1>
     <div class="entry-meta">
-      Posted on {{ page.date | date_to_long_string}} by {{page.author}}
+      Posted on {{ include.date | date_to_long_string}} by {{include.author}}
     </div><hr />
     <!-- .entry-meta -->
   </header>
   <!-- .entry-header -->
   <div class="entry-content">
-    {{page.content | markdownify }}
+    {{include.content | markdownify }}
   </div>
   <!-- .entry-content -->
-  {% include nav_categories_tags.html %}
+  {%
+    include nav_categories_tags.html
+      categories=include.categories
+      tags=include.tags
+    %}
 </article><hr />

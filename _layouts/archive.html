@@ -11,7 +11,12 @@
   <body class="home blog">
     <div id="page" class="hfeed site">
 
-      {% include mast_head.html %}
+      {%
+        include mast_head.html
+          baseurl=site.baseurl
+          description=site.description
+          title=site.title
+      %}
 
       <div id="main">
         <div id="primary" class="site-content">
@@ -20,7 +25,16 @@
           {% if page.title %}{{page.title}}{% else %}{{page.date | date: '%B %Y'}}{% endif %}
             «</h1><hr />
           {% for page in page.posts %}
-            {% include article.html %}
+          {%
+            include article.html
+              title=page.title
+              content=page.content
+              date=page.date
+              author=page.author
+              url=page.url
+              categories=page.categories
+              tags=page.tags
+            %}
           {% endfor %}
 
 <!-- #post-5515 -->
